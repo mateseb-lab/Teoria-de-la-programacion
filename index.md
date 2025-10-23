@@ -5,7 +5,7 @@
 
 ### 🧩 Unidad 1: Fundamentos de la Programación  
 *Conceptos básicos, lógica y estructura de algoritmos.*
-[Algoritmo](Unidad1.md)
+[Algoritmo](unidad1.md)
 
 ---
 
