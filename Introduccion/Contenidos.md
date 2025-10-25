@@ -4,19 +4,15 @@
 ---
 
 ### 🧩 Unidad 1: Contenidos de la Unidad  
-## Algoritmos, pseudocódigo, diagrama de flujo. [Acceder➡️](../Unidad1/Unidad1.md)
+## 1. Algoritmos, pseudocódigo, diagrama de flujo. [Acceder➡️](../Unidad1/Unidad1.md)
 ---
-
-### ⚙️ Unidad 2: Estructuras de Control y Funciones  
-*Condicionales, bucles, modularización y buenas prácticas.*
-
+## 2. Programacion por bloques. [Acceder➡️](../Unidad1/Unidad1.md)
 ---
-
-### 🧠 Unidad 3: Programación Avanzada  
-*Punteros, estructuras dinámicas y manejo de archivos.*
-
+## 3. Ejemplos de algoritmos con estructuras lineales/secuenciales. [Acceder➡️](../Unidad1/Unidad1.md)
 ---
-
+## 4. Principales dificultades en la aplicación de los contenidos. [Acceder➡️](../Unidad1/Unidad1.md)
+---
+## 5. Reflexion crtica de los aprendizajes de la unidad. [Acceder➡️](../Unidad1/Unidad1.md)
 ### 📝 Conclusiones  
 *Reflexión sobre el aprendizaje obtenido y su aplicación práctica.*
 
