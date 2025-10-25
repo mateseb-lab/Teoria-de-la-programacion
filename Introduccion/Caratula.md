@@ -1,13 +1,23 @@
-# 🏫 Universidad Nacional de Loja
-## 🏛️ Facultad de Energías, Industrias y Recursos Naturales No Renovables  
+<div align="center">
 
-### 💻 Ingeniería en Computación  
-### 📘 Primer Ciclo  
+# 🏫 **Universidad Nacional de Loja**
+
+## 🏛️ **Facultad de Energías, Industrias y Recursos Naturales No Renovables**
+
+### 💻 *Ingeniería en Computación*  
+### 📘 *Primer Ciclo*  
 
 ---
-### 🧩 Asignatura: *Teoría de la Programación*  
-### Docente: LOPEZ FAICAN LISSETTE GEOCONDA 
-### Nombre del estudiante: MATEO SEBASTIÁN PUCHA CARRERA
 
-###           Septiembre 2025 - febrero 2026
-## [-Portafolio digital de aprendizaje, Unidad1](Contenidos.md)
+## 🧩 **Asignatura:** *_Teoría de la Programación_*  
+## 👨‍🏫 **Docente:** LOPEZ FAICAN LISSETTE GEOCONDA  
+## 👨‍🎓 **Estudiante:** MATEO SEBASTIÁN PUCHA CARRERA
+---
+
+### 📅 *Septiembre 2025 – Febrero 2026*  
+
+---
+
+## 🔗 [📂 Portafolio Digital de Aprendizaje — Unidad 1](Contenidos.md)
+
+</div>
