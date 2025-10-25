@@ -3,10 +3,8 @@
 
 ---
 
-### 🧩 Unidad 1: Fundamentos de la Programación  
-*Conceptos básicos, lógica y estructura de algoritmos.*
-[Algoritmo](../Unidad1/Unidad1.md)
-
+### 🧩 Unidad 1: Contenidos de la Unidad  
+## Algoritmos, pseudocódigo, diagrama de flujo[➡️​](../Unidad1/Unidad1.md)
 ---
 
 ### ⚙️ Unidad 2: Estructuras de Control y Funciones  
