@@ -4,7 +4,7 @@
 ---
 
 ### 🧩 Unidad 1: Contenidos de la Unidad  
-## Algoritmos, pseudocódigo, diagrama de flujo[➡️​](../Unidad1/Unidad1.md)
+## Algoritmos, pseudocódigo, diagrama de flujo. [Acceder➡️](../Unidad1/Unidad1.md)
 ---
 
 ### ⚙️ Unidad 2: Estructuras de Control y Funciones  
