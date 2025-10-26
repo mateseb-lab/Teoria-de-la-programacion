@@ -21,6 +21,11 @@
 
 ---
 ## 1.2 Pseudocodigos.
+---
+### Un pseudocodigo es una herramienta usada en el aprendizaje de estudiantes para entender conceptos basicos , haciendo uso del lenguaje natural con el proposito de reducir la carga cognitiva en el proceso de comprender conceptos fundamentales dentro de la programacion. Ademas la mayoria de pseudocodigos se originan de traducciones literales de palabras reservadas provenientes de un lenguaje de alto nivel.
+
+
+
 
 
 https://datascientest.com/es/que-es-un-algoritmo[1]
