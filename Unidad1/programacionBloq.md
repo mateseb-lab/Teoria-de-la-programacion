@@ -25,6 +25,7 @@
 ### -Promueve un vínculo tanto educativo como recreativo con las tecnologías actuales.[7]
 ### -Al convertirse en los protagonistas de sus propias creaciones, se estimula la imaginación y la creatividad de los alumnos.[7]
 ### -La habilidad de resolver problemas se mejora ya que constantemente es necesario solucionar una circunstancia para poder avanzar a la siguiente o llegar al objetivo final, mejorando así la planificación y la organización.[7]
+### -Ya que la programación se organiza en bloques clasificados por colores y categorías, el trabajo es más intuitivo y visual.[7]
 
 ### Asi tambien la programacion por bloques apesar de sus ventajas tiene ciertas desventajas como puede presentarse que la persona o estudiante que no se tenga un conocimiento previo acerca de estas herramientas, tendra cierta dificultad adaptarse, lo que significa mayor tiempo, generando diferencias de progreso de aprendizaje entre otros. Ademas que el color de los bloques de programación y las variables de código cambiaran dependiendo del programa o herramienta que se emplee. [7]
 
