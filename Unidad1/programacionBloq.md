@@ -12,6 +12,11 @@
 ---
 ### En el contexto académico, la programación en bloques y la robótica educativa son altamente empleadas para fomentar las competencias de los alumnos en etapas tempranas, mostrando ventajas en el fortalecimiento de distintas disciplinas, entre ellas la lógica, las matemáticas y el trabajo conjunto. En particular, sirven para desarrollar destrezas de resolución de problemas y pensamiento computacional.[7]
 ---
+<img width="1917" height="994" alt="image" src="https://github.com/user-attachments/assets/674eeb61-e9c6-48ad-9c63-3b5e36d4f6c4" />
+
+---
+### 
+
 
 
 
