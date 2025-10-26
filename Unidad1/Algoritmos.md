@@ -1,5 +1,6 @@
 # [📘](index.md)Contenido de unidad 1
 ## 1.Algoritmos, pseudocodigos, diagrama de flujo.
+---
 ## 1.1 Algoritmos.
 ---
 ### Dentro de esta unidad de aprednizaje se practico el desarrollo de algoritmos. Un algoritmo puede definirse como una secuencia de pasos, logicamente ordenados y que son finitos entregando una solucion a un problemas determinado, el algoritmo es como una receta para cocinar un plato, las personas ya utilizaban algoritmos mucho mas antes siguiendo pasos logicos para llegar al resultado. Los algoritmos son omnipresentes ya que son parte fundamental en la informatica y la mayoria de programas que se utilizan en la tecnologia actual.[1]
@@ -37,6 +38,24 @@
 ### Tiene ciertas ventajas la herrmienta PSeInt que al ser muy intuitiva en los pasos ordenados diseñados en el algoritmo por lo cual es facil de comprender para estudiantes y someterse a estos temas, pero tambien tiene ciertas limitantes, ya que al solo ser una herramienta de enseñanza no esta diseñada para programas reales, ademas de que el aprendizaje es poco realista debido a su ayuda respecto a comandos casi automatizado y al no tener ciertas semejanzas con los sintaxis de lenguajes reales.[5]
 ---
 ## Diagrama de flujo 
+---
+### Los diagramas de flujo se consideran como una herramienta principal en el acercamiento del estudiante a la logica de progrmacion ya que permite visualizar y analizar de manera grafica el proceso de pasos que lleva al resultado de un problema planteado, si bien se requiere un mayor esfuerzo al realizar diagramas de flujo en hoja o pruebas de escritorio que recorren cada proceso y variable del diagrama de flujo. Existen multiples herramientas de software como DFD o PSeInt que ayuda a verficar pruebas de escritorio con el ordenador.[6]
+### Los diagrams de flujo contienen iconos, cada uno indica la etapa del algoritmo, su inicio, proceso, datos de entrada, datos de salida entre otros que son muy utiles para identificar cada parte del proceso.[3]
+---
+<img width="761" height="821" alt="image" src="https://github.com/user-attachments/assets/e0a0741b-7620-4329-992b-957b7c2bbc93" />
+
+### La herramienta DFD es un software elaborado con el objetivo de analizar y desarrollar algoritmos, siendo su uso crear diagramas de flujo para la visualizacion grafica de algoritmos centrandose en la diagramacion, ademas existen diferentes tipos de herramietas que ayudan con el desarrollo automatico de diagramas de flujo a pseudocodigo, pero esta herramienta se centra en el proceso de construccion del estudiante.[6]
+---
+<img width="700" height="507" alt="image" src="https://github.com/user-attachments/assets/3bfdfefb-d7f1-4042-893a-e87bb36565c0" />
+
+
+### Tambien se puede describir el diagrama de flujo como un conjunto de herramientas gráficas con una simbología estándar que pueden representar los diferentes algoritmos de acción del algoritmo. Se indican mediante la conexión de líneas en el orden en que se realiza la operación, al ser visual tiene ciertas ventajas.[7]
+### Las ventajas que tiene los diagramas de flujo son:
+### Es demasiado intuitivo, ademas de que facilita el seguimiento de pasos y secuencias del proceso.
+### Ayuda con el proceso de enseñanza en programacion al utilizar simbolos.
+### Mejora la organizacion de ideas y desarrollo de algoritmos.[7]
+
+
 
 
 
@@ -48,3 +67,5 @@
 en Educación: Sistematización de experiencias docentes, 1.ª ed., Durango, México: Red Durango de Investigadores
 Educativos(Redie),2020,92–94.[Enlínea].Disponible:
 https://d1wqtxts1xzle7.cloudfront.net/95496502/Libro_TIC_Sistematizacion_VersionFinal_ISBN_Redie-libre.pdf
+[6]  Fundamentos de Programación: Diagramas de flujo
+[7] … y herramientas de algorítmicas. Introducción. Estructura de datos. Algoritmos. Pseudocódigos. Diagramas de Flujo. Programación estructurada. Estructura de Control …
