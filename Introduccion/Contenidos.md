@@ -6,7 +6,7 @@
 ### 🧩 Unidad 1: Contenidos de la Unidad:  
 ## 1. Algoritmos, pseudocódigo, diagrama de flujo. [Acceder➡️](../Unidad1/Algoritmos.md)
 ---
-## 2. Programacion por bloques. [Acceder➡️](../Unidad1/Unidad1.md)
+## 2. Programacion por bloques. [Acceder➡️](../Unidad1/programacionBloq.md)
 ---
 ## 3. Ejemplos de algoritmos con estructuras lineales/secuenciales. [Acceder➡️](../Unidad1/Unidad1.md)
 ---
