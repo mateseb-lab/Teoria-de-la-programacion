@@ -8,7 +8,7 @@
 ---
 ## 2. Programacion por bloques. [Acceder➡️](../Unidad1/programacionBloq.md)
 ---
-## 3. Ejemplos de algoritmos con estructuras lineales/secuenciales. [Acceder➡️](../Unidad1/Unidad1.md)
+## 3. Ejemplos de algoritmos con estructuras lineales/secuenciales. [Acceder➡️](../Unidad1/ejemplosAlgoritmos.md)
 ---
 ## 4. Principales dificultades en la aplicación de los contenidos. [Acceder➡️](../Unidad1/Unidad1.md)
 ---
