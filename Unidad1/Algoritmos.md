@@ -22,15 +22,29 @@
 ---
 ## 1.2 Pseudocodigos.
 ---
-### Un pseudocodigo es una herramienta usada en el aprendizaje de estudiantes para entender conceptos basicos , haciendo uso del lenguaje natural con el proposito de reducir la carga cognitiva en el proceso de comprender conceptos fundamentales dentro de la programacion. Ademas la mayoria de pseudocodigos se originan de traducciones literales de palabras reservadas provenientes de un lenguaje de alto nivel.
-### El pseudocodigo es la representacion de un algoritmo declarado en cualquier lengua y tiene dos ventajas principales, el uso de la lengua cotidiana y simplicidad de sintaxis. Por lo tanto programar en lengua cotidiana hace que se vea mas comodo y comprensible, reduciendo confusiones para la persona desea aprender.
-### El pseudocodigo se utiliza como un primer acercamiento para conocer conceptos elementales como expresiones, estructuras de control, varibles entre otros, sin tener que lidiar con las caracteristicas especificas de sintaxis de un lenguaje real. Este software tiene el objetivo de facilitar el proceso de desarrollar algoritmos en este pseudolenguaje para los principiantes con ayudas y asistencias, ademas de ofrecer algunas herramientas adicionales que ayuden a detectar errores y entender la logica de los algoritmos.[4]
+### El pseudocodigo es la representacion de un algoritmo declarado en cualquier lengua y tiene dos ventajas principales, el uso de la lengua cotidiana y simplicidad de sintaxis. Por lo tanto programar en lengua cotidiana hace que se vea mas comodo y comprensible, reduciendo confusiones para la persona desea aprender.[5]
+### El pseudocodigo se utiliza como un primer acercamiento para conocer conceptos elementales como expresiones, estructuras de control, varibles entre otros, sin tener que lidiar con las caracteristicas especificas de sintaxis de un lenguaje real. Este software tiene el objetivo de facilitar el proceso de desarrollar algoritmos en este pseudolenguaje para los principiantes con ayudas y asistencias, ademas de ofrecer algunas herramientas adicionales que ayuden a detectar errores y entender la logica de los algoritmos.[5]
+### Existen varios pseudocodigos que ayudan a introducirse a los conceptos de progrmacion como la herramienta PSeInt La herramienta PSeInt está elaborada para ayudar a los estudiantes que están empezando a desarrollar algoritmos o programas computacionales, utilizada para el aprendizaje de lógica de programación especialmente a estudiantes que no tengan conocimientos de estos temas, haciendo uso de un pseudolenguaje muy intuitivo que permite entender fundamentos de algoritmos y otros conceptos computacionales.[5]
+---
+<img width="718" height="425" alt="image" src="https://github.com/user-attachments/assets/8a24c273-3e7c-4b8b-9fbb-3f5729e659a3" />
+
+---
+### Ademas la herramienta PSeInt realiza diagramas de flujo de manera automática con el paso del algoritmo que se realiza, así como una ayuda respecto a los comandos, ayudando a entender que es cada opción de la estructura elegida logrando ser más entendibles y concretos respecto a la resolución de un problema.[5]
+---
+<img width="1190" height="787" alt="image" src="https://github.com/user-attachments/assets/dbd4d02d-510f-4053-ac01-b6b38734d10c" />
+
+---
+### Tiene ciertas ventajas la herrmienta PSeInt que al ser muy intuitiva en los pasos ordenados diseñados en el algoritmo por lo cual es facil de comprender para estudiantes y someterse a estos temas, pero tambien tiene ciertas limitantes, ya que al solo ser una herramienta de enseñanza no esta diseñada para programas reales, ademas de que el aprendizaje es poco realista debido a su ayuda respecto a comandos casi automatizado y al no tener ciertas semejanzas con los sintaxis de lenguajes reales.[5]
+---
+## Diagrama de flujo 
 
 
 
-
-
-https://datascientest.com/es/que-es-un-algoritmo[1]
-https://libros.unad.edu.co/index.php/selloeditorial/catalog/book/51[2]
-Figueroa Piscoya, E.N.,  Maldonado Ramirez, I., y Santa Cruz Acosta, R.C. (2021). Fundamentos de programación, Un enfoque práctico. Biblioteca Nacional del Perú. Disponible en: https://www.academia.edu/103779068/FUNDAMENTOS_DE_PROGRAMACI%C3%93N_Un_enfoque_pr%C3%A1ctico [3]
- Comprensión de pseudocódigo básico en estudiantes de ciclos formativos[4]
+[1]https://datascientest.com/es/que-es-un-algoritmo
+[2]https://libros.unad.edu.co/index.php/selloeditorial/catalog/book/51
+[3]Figueroa Piscoya, E.N.,  Maldonado Ramirez, I., y Santa Cruz Acosta, R.C. (2021). Fundamentos de programación, Un enfoque práctico. Biblioteca Nacional del Perú. Disponible en: https://www.academia.edu/103779068/FUNDAMENTOS_DE_PROGRAMACI%C3%93N_Un_enfoque_pr%C3%A1ctico 
+ [4]Comprensión de pseudocódigo básico en estudiantes de ciclos formativos
+[5] HD. L. González Bañales, M. I. Domínguez Domínguez y E. A. Flores Trinidad, Tecnologías de la Información
+en Educación: Sistematización de experiencias docentes, 1.ª ed., Durango, México: Red Durango de Investigadores
+Educativos(Redie),2020,92–94.[Enlínea].Disponible:
+https://d1wqtxts1xzle7.cloudfront.net/95496502/Libro_TIC_Sistematizacion_VersionFinal_ISBN_Redie-libre.pdf
