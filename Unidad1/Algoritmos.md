@@ -50,10 +50,10 @@
 
 
 ### Tambien se puede describir el diagrama de flujo como un conjunto de herramientas gráficas con una simbología estándar que pueden representar los diferentes algoritmos de acción del algoritmo. Se indican mediante la conexión de líneas en el orden en que se realiza la operación, al ser visual tiene ciertas ventajas.[7]
-### Las ventajas que tiene los diagramas de flujo son:
-### Es demasiado intuitivo, ademas de que facilita el seguimiento de pasos y secuencias del proceso.
-### Ayuda con el proceso de enseñanza en programacion al utilizar simbolos.
-### Mejora la organizacion de ideas y desarrollo de algoritmos.[7]
+### Las ventajas que presentan los diagramas de flujo:
+### Son demasiado intuitivos, ademas de que facilitan el seguimiento de pasos y secuencias del proceso.
+### Ayudan con el proceso de enseñanza en programacion al utilizar simbolos.
+### Mejoran la organizacion de ideas y desarrollo de algoritmos.[7]
 
 
 
