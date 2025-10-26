@@ -6,12 +6,12 @@
 ### Dentro de esta unidad de aprednizaje se practico el desarrollo de algoritmos. Un algoritmo puede definirse como una secuencia de pasos, logicamente ordenados y que son finitos entregando una solucion a un problemas determinado, el algoritmo es como una receta para cocinar un plato, las personas ya utilizaban algoritmos mucho mas antes siguiendo pasos logicos para llegar al resultado. Los algoritmos son omnipresentes ya que son parte fundamental en la informatica y la mayoria de programas que se utilizan en la tecnologia actual.[1]
 ### Los algoritmos respecto en informatica son un grupo de reglas que ayudan a indicar al ordenador como realizar una tarea, como en un programa que señala al computador que pasos debe seguir y en que orden debe hacerlo, lo cual se logra mediante un lenguaje de progrmacion. En realidad, aplicamos algoritmos frecuentemente sin ser conscientes. En la época de la Inteligencia Artificial, el Machine Learning y la Ciencia de Datos, los algoritmos son más relevantes que en ningún otro momento y constituyen el combustible de la reciente revolución industrial.[1]
 ### Caracteristicas que contiene un algoritmo:
-### • Comienza. 
+### • Entrada 
 ### • Contiene una estructura establecida.
 ### • Puede realizar cálculos matemáticos. 
 ### • Ayuda a dsarrollar de la lógica matemática. 
 ### • Genera un resultado a partir de un proceso. 
-### • Tiene un final. [2]
+### • Salida. [2]
 ---
 ### Se puede clasificar los algoritmos en:
 ## Cualitativos: Son aquellos algoritmos que tienen pasos logicos y ordenados descritos en un lenguaje natural es decir, en nuestro lenguaje con palabras y frases, empleados en la vida comun para resolver problemas que tiene estado inicial y final.[3]
