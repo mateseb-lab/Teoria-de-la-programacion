@@ -24,6 +24,7 @@
 ---
 ### Un pseudocodigo es una herramienta usada en el aprendizaje de estudiantes para entender conceptos basicos , haciendo uso del lenguaje natural con el proposito de reducir la carga cognitiva en el proceso de comprender conceptos fundamentales dentro de la programacion. Ademas la mayoria de pseudocodigos se originan de traducciones literales de palabras reservadas provenientes de un lenguaje de alto nivel.
 ### El pseudocodigo es la representacion de un algoritmo declarado en cualquier lengua y tiene dos ventajas principales, el uso de la lengua cotidiana y simplicidad de sintaxis. Por lo tanto programar en lengua cotidiana hace que se vea mas comodo y comprensible, reduciendo confusiones para la persona desea aprender.
+### El pseudocodigo se utiliza como un primer acercamiento para conocer conceptos elementales como expresiones, estructuras de control, varibles entre otros, sin tener que lidiar con las caracteristicas especificas de sintaxis de un lenguaje real. Este software tiene el objetivo de facilitar el proceso de desarrollar algoritmos en este pseudolenguaje para los principiantes con ayudas y asistencias, ademas de ofrecer algunas herramientas adicionales que ayuden a detectar errores y entender la logica de los algoritmos.[4]
 
 
 
