@@ -45,17 +45,12 @@
 <img width="761" height="821" alt="image" src="https://github.com/user-attachments/assets/e0a0741b-7620-4329-992b-957b7c2bbc93" />
 
 ### La herramienta DFD es un software elaborado con el objetivo de analizar y desarrollar algoritmos, siendo su uso crear diagramas de flujo para la visualizacion grafica de algoritmos centrandose en la diagramacion, ademas existen diferentes tipos de herramietas que ayudan con el desarrollo automatico de diagramas de flujo a pseudocodigo, pero esta herramienta se centra en el proceso de construccion del estudiante.[6]
----
-<img width="700" height="507" alt="image" src="https://github.com/user-attachments/assets/3bfdfefb-d7f1-4042-893a-e87bb36565c0" />
-
-
 ### Tambien se puede describir el diagrama de flujo como un conjunto de herramientas gráficas con una simbología estándar que pueden representar los diferentes algoritmos de acción del algoritmo. Se indican mediante la conexión de líneas en el orden en que se realiza la operación, al ser visual tiene ciertas ventajas.[7]
 ### Las ventajas que presentan los diagramas de flujo:
 ### Son demasiado intuitivos, ademas de que facilitan el seguimiento de pasos y secuencias del proceso.
 ### Ayudan con el proceso de enseñanza en programacion al utilizar simbolos.
 ### Mejoran la organizacion de ideas y desarrollo de algoritmos.[7]
-
-
+### Gracias al uso de diagramas de flujo se pudo obtener una mejor comprension acerca de los proceso del algoritmo, desarrollando una secuencia logica ordenada de cada parte del proceso agilisando el proceso de aprendizaje de programacion.
 
 
 
