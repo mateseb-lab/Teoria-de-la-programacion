@@ -19,7 +19,7 @@
 ---
 ## 2. Instalación de lenguajes de programación (C, Python o Java). [Acceder➡️](https://drive.google.com/file/d/1fHFD8nEXqr_99OHH_Gf1HYTBpdxsdizm/view?usp=sharing)
 ---
-## 3. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigoTarea. [Acceder➡️](../Unidad1/Unidad1.md)
+## 3. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigoTarea. [Acceder➡️](https://drive.google.com/file/d/1tsqx59qT6Q8ruygFzNLmIUd_l947pe9S/view?usp=sharing)
 ---
 ## 4. Del diseño del algoritmo con estructuras secuenciales a la construcción del programa. [Acceder➡️](../Unidad1/Unidad1.md)
 ---
