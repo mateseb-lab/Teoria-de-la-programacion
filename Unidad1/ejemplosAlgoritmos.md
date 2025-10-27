@@ -6,44 +6,129 @@
 ## 3.1 Ejemplos de algoritmos elaborado en el pseudocodigo PSeInt.
 ---
 ### Ejercicios elaborados en clase 1.
----
-<img width="1009" height="473" alt="image" src="https://github.com/user-attachments/assets/349a4be6-2a28-4b2e-9e67-f2752f87fb2e" />
-
-<img width="1145" height="721" alt="image" src="https://github.com/user-attachments/assets/7d841e3d-8ea6-4134-8328-533379689fbd" />
+```
+Algoritmo operacion
+	//Definicion de variables//
+	Definir A, B como Entero
+	//Proceso//
+	A = 2
+	B = 5
+	resultado = 4/A*3/6 + 6 /A/1/B^A/4*A
+	//Datos de salida//
+	Escribir resultado
+FinAlgoritmo
+```
+<img width="1140" height="713" alt="image" src="https://github.com/user-attachments/assets/34a485b2-45be-4830-b9fb-eaced65ee7ea" />
 
 ---
 ### Ejercicio elaborados en clase 2.
 ---
-<img width="854" height="461" alt="image" src="https://github.com/user-attachments/assets/9c20f69a-3ea4-4622-ab4e-bb869f274bcb" />
-
-<img width="1138" height="722" alt="image" src="https://github.com/user-attachments/assets/85fd4d9e-a8df-4f54-af1e-f875fb0d01c7" />
+```
+Algoritmo suma
+	//Definicion de variables
+	Definir numero1, numero2, resultado como Real
+	//Datos de entrada
+	Escribir "Ingrese numero1";
+	Leer numero1;
+	Escribir "Ingrese numero2";
+	Leer numero2;
+	//Proceso
+	resultado = numero1 + numero2;
+	//Datos de salida
+	Escribir "Su suma es: ", resultado;
+FinAlgoritmo
+```
+<img width="1141" height="712" alt="image" src="https://github.com/user-attachments/assets/a5a93b65-5f11-4b40-8ab3-38c2f4a0c8f8" />
 
 ---
 ### Ejercicio elaborado en clase 3.
 ---
-<img width="933" height="456" alt="image" src="https://github.com/user-attachments/assets/6a20b6b8-605d-4bd3-b993-aff47e32aac8" />
-
+```
+Algoritmo operacionArea
+	//Definir variables
+	Definir base, altura, area como Real;
+	//Datos de entrada
+	Escribir "Ingrese la base:";
+	Leer base;
+	Escribir "Ingrese la altura:";
+	Leer altura;
+	//Proceso 
+	area = (base*altura)/2;
+	//Datos de salida
+	Escribir "Su area es de: ", area;
+FinAlgoritmo
+```
 <img width="1142" height="715" alt="image" src="https://github.com/user-attachments/assets/1fc6ef26-0ec0-440c-be46-8433cb9f28b2" />
 
 ---
 ### Ejercicio elaborado en clase 4.
 ---
-<img width="921" height="518" alt="image" src="https://github.com/user-attachments/assets/ca10556e-15b7-45cb-877a-ed4500f79ca4" />
-
-<img width="1152" height="713" alt="image" src="https://github.com/user-attachments/assets/aa6ce0e0-3cca-4c65-814c-49e7019ffccd" />
+```
+Algoritmo longitudArea
+	//Definicion de variables//
+	Definir radio, Op1, Op2 como Real;
+	//Datos de entrada
+	Escribir "Ingrese radio: ";
+	Leer radio;
+	//Proceso//
+	Op1 = 2*PI*radio;
+	OP2 = PI*radio^2;
+	//Datos de salida//
+	Escribir "Su Longitud es: ",Op1,"Su Area es: ",Op2;
+FinAlgoritmo
+```
+<img width="1142" height="706" alt="image" src="https://github.com/user-attachments/assets/35ef68c0-d8db-4fc6-89cb-3bd094de98dd" />
 
 ---
 ### Ejercicio elaborado en clase 5
 ---
-<img width="1076" height="645" alt="image" src="https://github.com/user-attachments/assets/c3ae530c-ce4c-47c5-b3d8-e0a954f6782f" />
-
+```
+Algoritmo Ejercicio_Promedio
+	// Definicion de variables//
+	Definir nota1, nota2, nota3, PROM30, PROM40, Prom Como Real;
+	// Entrada de datos//
+	Escribir "Intrduzca la nota de unidad 1";
+	Leer nota1;
+	Escribir "Introduzca la nota de unidad 2";
+	Leer nota2;
+	Escribir "Introduzca la nota de unidad 3";
+	Leer nota3;
+	PROM30 = (30/100);
+	PROM40 = (40/100);
+	// Proceso//
+	OP1 = nota1*PROM30;
+	OP2 = nota2*PROM30;
+	OP3 = nota3*PROM40;
+	Prom = OP1+OP2+OP3;
+	// Datos de Salida//
+	Escribir "Su promedio es de: ",Prom;
+FinAlgoritmo
+```
 <img width="1151" height="714" alt="image" src="https://github.com/user-attachments/assets/43a6a96f-6fe1-4bf6-9872-93894cc8e841" />
 
 ---
 ### Ejercicio ejemplo algoritmo 6
-<img width="815" height="513" alt="image" src="https://github.com/user-attachments/assets/b9a43348-de7c-4c34-809f-64751ab204da" />
-
-<img width="1144" height="724" alt="image" src="https://github.com/user-attachments/assets/56276516-d504-456f-b737-f23d5bce1638" />
+```
+Algoritmo presupuesto
+	//Definicion de variables//
+	Definir alto,ancho, operacion, operacion2 Como Real;
+	//Datos de entrada//
+	Escribir "Ingrese alto xfavor";
+	Leer alto;
+	
+	Escribir "Ingrese ancho xfavor";
+	Leer ancho;
+	
+	Escribir "Cuanto cobra por m2";
+	Leer m2;
+	//Proceso//
+	Operacion = alto*ancho;
+	Operacion2 = Operacion*m2;
+	//Datos de salida//
+	Escribir "Su presupuesto es ", Operacion2;
+FinAlgoritmo
+```
+<img width="1146" height="715" alt="image" src="https://github.com/user-attachments/assets/f5350b4d-03bb-494c-b41c-4bbebabeff6f" />
 
 ---
 ## 3.2 Ejemplos de algoritmos elaborado en el lenguaje de programacion C.
