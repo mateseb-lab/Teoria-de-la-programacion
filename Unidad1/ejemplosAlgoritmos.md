@@ -181,19 +181,100 @@ int main() {
 
 ---
 ### Ejercicio ejemplo 3
-<img width="1267" height="974" alt="image" src="https://github.com/user-attachments/assets/b0066707-5311-46ff-b016-7f49b8f4b824" />
+```
+#include <stdio.h>
+#include <string.h>
+
+int main(){
+    int a, b, c;
+    printf("Ingrese numero1:\n");
+    scanf("%i", &a);
+
+    printf("Ingrese el numero2:\n");
+    scanf("%i", &b);
+
+    c = a + b;
+
+    printf("La suma es: %i", c);
+
+return 0;
+}
+```
+<img width="1083" height="165" alt="image" src="https://github.com/user-attachments/assets/266e5fd9-7f89-4cfe-9920-79414d53ce14" />
 
 ---
 ## Ejercicio ejemplo 4
-<img width="1260" height="960" alt="image" src="https://github.com/user-attachments/assets/b4014391-4f19-495c-a4ec-8541580a85b5" />
+```
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+
+    int numero1, doble, triple;
+    printf("Ingrese el valor del numero:\n");
+    scanf("%i",&numero1);
+
+    doble = numero1 * 2;
+    triple = numero1 * 3;
+
+    printf("El valor del doble de su numero es:%i\n", doble);
+    printf("El valor del triple de su numero es:%i\n", triple);
+
+    return 0;
+}
+```
+<img width="1081" height="160" alt="image" src="https://github.com/user-attachments/assets/ac382720-1f2b-45b3-b569-336f6ec27252" />
 
 ---
 ### Ejercicio ejemplo 5
-<img width="1364" height="1005" alt="image" src="https://github.com/user-attachments/assets/a8a87b64-12f4-4cd1-8ca3-2affe861d672" />
+```
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+    float a, vf, vi, t;
+    printf("Ingrese el valor de la velocidad inicial(m/s):\n");
+    scanf("%f", &vi);
+
+    printf("Ingrese el valor de la velocidad final(m/s):\n");
+    scanf("%f", &vf);
+
+    printf("Ingrese el instante de tiempo(segundos):\n");
+    scanf("%f", &t);
+
+    a = (vf - vi) / t;
+
+    printf("El valor de la aceleracion es: %f\n", a);
+
+    return 0;
+}
+```
+<img width="1078" height="179" alt="image" src="https://github.com/user-attachments/assets/5a2fb68c-0dbd-4447-a309-3a6d263db5f3" />
 
 ---
 ### Ejercicio ejemplo 6
-<img width="1246" height="991" alt="image" src="https://github.com/user-attachments/assets/c6e483c6-b946-42c1-96c3-33c223651225" />
+```
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+    float metros, km, cm, mm;
+    printf("Ingrese su valor en metros:\n");
+    scanf("%f", &metros);
+
+    km = metros / 1000;
+    cm = metros * 100;
+    mm = metros * 1000;
+
+    printf("el valor en kilometros es:%f\n", km);
+    printf("el valor en centimetros es:%f\n", cm);
+    printf("el valor en milimetros es:%f\n", mm);
+
+    return 0;
+}
+```
+<img width="1081" height="191" alt="image" src="https://github.com/user-attachments/assets/58c8a40e-05d6-46c4-9ed5-185ffb996d1f" />
+
 
 
 
