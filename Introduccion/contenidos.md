@@ -12,7 +12,7 @@
 ---
 ## 4. Principales dificultades en la aplicación de los contenidos. [Acceder➡️](../Unidad1/principalesDificultades.md)
 ---
-## 5. Reflexion crtica de los aprendizajes de la unidad. [Acceder➡️](../Unidad1/Unidad1.md)
+## 5. Reflexion crtica de los aprendizajes de la unidad. [Acceder➡️](../Unidad1/reflexionCritica.md)
 ---
 ### Tareas entregadas:
 ## 1.  Herramientas de algoritmos (pseudocódigo y diagramas de flujo). [Acceder➡️](../Unidad1/Unidad1.md)
