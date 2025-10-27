@@ -17,7 +17,7 @@
 ### Tareas entregadas:
 ## 1.  Herramientas de algoritmos (pseudocódigo y diagramas de flujo). [Acceder➡️](https://drive.google.com/file/d/1h3KpN73oVvaPh8gI1_iM2luEY5bc4Hig/view?usp=sharing)
 ---
-## 2. Instalación de lenguajes de programación (C, Python o Java). [Acceder➡️](../Unidad1/Unidad1.md)
+## 2. Instalación de lenguajes de programación (C, Python o Java). [Acceder➡️](https://drive.google.com/file/d/1fHFD8nEXqr_99OHH_Gf1HYTBpdxsdizm/view?usp=sharing)
 ---
 ## 3. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigoTarea. [Acceder➡️](../Unidad1/Unidad1.md)
 ---
