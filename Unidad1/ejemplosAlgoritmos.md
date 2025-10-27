@@ -134,11 +134,50 @@ FinAlgoritmo
 ## 3.2 Ejemplos de algoritmos elaborado en el lenguaje de programacion C.
 ---
 ### Ejercicio ejemplo 1
-<img width="1552" height="986" alt="image" src="https://github.com/user-attachments/assets/f407d82c-e6f8-4526-b26a-a61e716f65f6" />
+```
+#include <stdio.h>
+
+int main(){
+    printf("Hola mundo");
+    
+    return 0;
+}
+```
+<img width="1101" height="154" alt="image" src="https://github.com/user-attachments/assets/7c167f14-8c31-46c7-8eab-2be66bc6de90" />
 
 ---
 ### Ejercicio ejemplo 2
-<img width="1397" height="1014" alt="image" src="https://github.com/user-attachments/assets/c8d261a2-48a2-42b3-ac7d-f3b628561cce" />
+```
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    //Opcion 1, lista de caracteres (arreglo)
+   /* char nombresCompletos[20];
+    printf("Ingrese sus nombres completos:\n");
+    scanf("%[^\n]", nombresCompletos);
+    getchar();
+    printf("Sus nombres completos ingresados son: %s", nombresCompletos);
+    */
+
+    //Opcion 2 puntero al inicio de una cadena
+    char * nombresCompletos = malloc(100 * sizeof(char)); //reservar memoria
+    printf("Ingrese sus nombres completos:\n");
+    scanf("%[^\n]s ", nombresCompletos);
+    printf("Sus nombres completos ingresados son: %s", nombresCompletos);
+    
+    //Opcion 3, solo lectura
+    /*char *nombresCompletos = "Mateo Pucha";
+    printf("Ingrese sus nombres completos:\n");
+    scanf("%[^\n]", nombresCompletos);
+    getchar();
+    printf("Sus nombres completos ingresados son: %s\n", nombresCompletos);*/
+
+    return 0;
+}
+```
+<img width="1101" height="154" alt="image" src="https://github.com/user-attachments/assets/44f93e93-646d-44f5-a3b3-b3363dc75732" />
+
 
 ---
 ### Ejercicio ejemplo 3
