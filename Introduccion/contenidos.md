@@ -10,7 +10,7 @@
 ---
 ## 3. Ejemplos de algoritmos con estructuras lineales/secuenciales. [Acceder➡️](../Unidad1/ejemplosAlgoritmos.md)
 ---
-## 4. Principales dificultades en la aplicación de los contenidos. [Acceder➡️](../Unidad1/Unidad1.md)
+## 4. Principales dificultades en la aplicación de los contenidos. [Acceder➡️](../Unidad1/principalesDificultades.md)
 ---
 ## 5. Reflexion crtica de los aprendizajes de la unidad. [Acceder➡️](../Unidad1/Unidad1.md)
 ---
