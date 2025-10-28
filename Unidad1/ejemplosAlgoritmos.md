@@ -18,6 +18,7 @@ Algoritmo operacion
 	Escribir resultado
 FinAlgoritmo
 ```
+## [Diagrama de flujo](../../../Unidad1/diagramasflujo/imagen1.md)
 ### Ejercicio elaborados en clase 2.
 ---
 ```
