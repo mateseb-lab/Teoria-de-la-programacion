@@ -35,8 +35,8 @@
 [3] Figueroa Piscoya, E.N.,  Maldonado Ramirez, I., y Santa Cruz Acosta, R.C. (2021). Fundamentos de programación, Un enfoque práctico. Biblioteca Nacional del Perú. Disponible en: https://www.academia.edu/103779068/FUNDAMENTOS_DE_PROGRAMACI%C3%93N_Un_enfoque_pr%C3%A1ctico 
 [4] A. López-García, … J. U.-F.-I. de S. e T., and undefined 2023, “Comprensión de pseudocódigo básico en estudiantes de ciclos formativos,” scielo.pt, doi: 10.17013/risti.51.38-39.
 [5] HD. L. González Bañales, M. I. Domínguez Domínguez y E. A. Flores Trinidad, Tecnologías de la Información en Educación: Sistematización de experiencias docentes, 1.ª ed., Durango, México: Red Durango de Investigadores Educativos(Redie),2020,92–94.[Enlínea].Disponible: https://d1wqtxts1xzle7.cloudfront.net/95496502/Libro_TIC_Sistematizacion_VersionFinal_ISBN_Redie-libre.pdf
-[6]  Fundamentos de Programación: Diagramas de flujo
-[7] … y herramientas de algorítmicas. Introducción. Estructura de datos. Algoritmos. Pseudocódigos. Diagramas de Flujo. Programación estructurada. Estructura de Control …
+[6]  A. Umaquinga-Criollo and F. Rodriguez-Clavijo, “Fundamentos de Programación: Diagramas de flujo,” 2023, Accessed: Oct. 26, 2025. [Online]. Available: https://books.google.com/books?hl=es&lr=&id=w_TNEAAAQBAJ&oi=fnd&pg=PA19&dq=diagramas+de+flujo+en+programaci%C3%B3n&ots=c_01NScOXC&sig=5K8vys9VvL2CVAwyA3MLwmPGFX8
+[7] E. Guzmán Y Valle, A. Máter, D. Magisterio, N. Facultad, and D. E. Ciencias, “Algorítmica y herramientas de algorítmicas. Introducción. Estructura de datos. Algoritmos. Pseudocódigos. Diagramas de Flujo. Programación estructurada. Estructura de Control …,” 2021, Accessed: Oct. 26, 2025. [Online]. Available: https://repositorio.une.edu.pe/items/6953d935-59d8-4dfb-b9b6-a454b976e31c
 ---
 
 ### 🤖 Uso de IA Cooperativa  
