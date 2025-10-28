@@ -18,7 +18,7 @@ Algoritmo operacion
 	Escribir resultado
 FinAlgoritmo
 ```
-## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen2.md)
+## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen1.md)
 ### Ejercicio elaborados en clase 2.
 ---
 ```
@@ -36,7 +36,7 @@ Algoritmo suma
 	Escribir "Su suma es: ", resultado;
 FinAlgoritmo
 ```
-## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen1.md)
+## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen2.md)
 ---
 ### Ejercicio elaborado en clase 3.
 ---
