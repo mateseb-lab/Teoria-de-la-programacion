@@ -1,5 +1,5 @@
 # [⬅️](../Introduccion/contenidos.md)Contenido de unidad 1
-## 5.Reflexion critica de los aprendizajes de la unidad.
+## 5. 💡Reflexion critica de los aprendizajes de la unidad.
 ---
 ### Durante el aprendizaje de la primera unidad, pude comprender todo el proceso que implica crear un algoritmo, siguiendo pasos lógicos y estructurados para su desarrollo. Logré practicar con éxito y mejorar en conceptos computacionales importantes para la programación, como el uso de distintos tipos de datos y variables dentro de la estructura de un algoritmo.
 ### El pseudocódigo PSeInt fue una herramienta clave para introducirme en el desarrollo de algoritmos, ya que es muy intuitiva y fácil de usar, incluso sin tener conocimientos previos en lenguajes de programación. Esto permitió un aprendizaje más práctico y efectivo sobre conceptos como las variables, las estructuras de los algoritmos y las expresiones matemáticas. Sobre todo, esta herramienta resultó muy útil para analizar correctamente los procesos, desarrollar pruebas de escritorio y aplicar pasos lógicos que ayuden a resolver un problema determinado.
