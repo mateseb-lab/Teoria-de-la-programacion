@@ -39,6 +39,5 @@
 ---
 
 ### 🤖 Uso de IA Cooperativa  
-*Aplicación de herramientas de inteligencia artificial como apoyo en el aprendizaje y desarrollo del código.*
-
+### Chatgpt, GPT-5, 27/10/2025, "Ayudame a mejorar el siguente texto de MarkDown, para que parezca mas atractivo y comprensible."
 ---
