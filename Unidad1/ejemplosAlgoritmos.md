@@ -55,6 +55,7 @@ Algoritmo operacionArea
 	Escribir "Su area es de: ", area;
 FinAlgoritmo
 ```
+## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen3.md)
 ---
 ### Ejercicio elaborado en clase 4.
 ---
