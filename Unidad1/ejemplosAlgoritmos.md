@@ -123,7 +123,6 @@ Algoritmo presupuesto
 FinAlgoritmo
 ```
 ## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen6.md)
-<img width="1146" height="715" alt="image" src="https://github.com/user-attachments/assets/f5350b4d-03bb-494c-b41c-4bbebabeff6f" />
 ---
 ## 3.2 Ejemplos de algoritmos elaborado en el lenguaje de programacion C.
 ---
