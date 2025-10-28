@@ -2,6 +2,7 @@
 ---
 ## 2. 🧱Programacion por bloques 
 ---
+### Dentro de la Unidad 1, se practicó con juegos de programación por bloques para agilizar el pensamiento lógico y desenvolvernos a la hora de resolver problemas en algoritmos computacionales.
 ### La programación por bloques implica desplazar, compilar y arrastrar bloques de programación de una forma específica para que el programa en cuestión ejecute la tarea o instrucción programada. La interfaz de las diferentes herramientas de programación por bloques es simple y tiene una configuración que cualquier usuario puede utilizar con facilidad.[8]
 ### El lenguaje de programación se hace más accesible para los estudiantes de casi cualquier nivel educativo gracias a la programación por bloques, que lo simplifica y facilita. Asimismo, las aplicaciones didácticas de la programación en bloques son diversas según las herramientas empleadas.[8]
 ### Estas herramientas de programación por bloques tienen la característica de ser fáciles de aprender para los alumnos que empiezan a entrar en estos conceptos, y se emplean mucho en el contexto académico para desarrollar habilidades de pensamiento computacional y programación. Además, son compatibles con una amplia variedad de dispositivos electrónicos. [9]
