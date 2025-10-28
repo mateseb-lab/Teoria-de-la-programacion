@@ -73,8 +73,7 @@ Algoritmo longitudArea
 	Escribir "Su Longitud es: ",Op1,"Su Area es: ",Op2;
 FinAlgoritmo
 ```
-
-
+## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen4.md)
 ---
 ### Ejercicio elaborado en clase 5
 ---
@@ -100,8 +99,8 @@ Algoritmo Ejercicio_Promedio
 	Escribir "Su promedio es de: ",Prom;
 FinAlgoritmo
 ```
+## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen5.md)
 <img width="1151" height="714" alt="image" src="https://github.com/user-attachments/assets/43a6a96f-6fe1-4bf6-9872-93894cc8e841" />
-
 ---
 ### Ejercicio ejemplo algoritmo 6
 ```
@@ -124,8 +123,8 @@ Algoritmo presupuesto
 	Escribir "Su presupuesto es ", Operacion2;
 FinAlgoritmo
 ```
+## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen6.md)
 <img width="1146" height="715" alt="image" src="https://github.com/user-attachments/assets/f5350b4d-03bb-494c-b41c-4bbebabeff6f" />
-
 ---
 ## 3.2 Ejemplos de algoritmos elaborado en el lenguaje de programacion C.
 ---
