@@ -15,11 +15,17 @@
 ## 5. Reflexion crtica de los aprendizajes de la unidad. [Acceder➡️](../Unidad1/reflexionCritica.md)
 ---
 ### Tareas entregadas:
-## 1.  Herramientas de algoritmos (pseudocódigo y diagramas de flujo). [Acceder➡️](https://drive.google.com/file/d/1h3KpN73oVvaPh8gI1_iM2luEY5bc4Hig/view?usp=sharing)
+## 1.  Herramientas de algoritmos (pseudocódigo y diagramas de flujo).
+### -En esta actividad pude investigar más a fondo sobre los pseudocódigos y los diagramas de flujo. Logré comprender su propósito, características, ventajas y limitaciones, especialmente en el caso del pseudocódigo PSeInt.Además, logré aplicar los conocimientos aprendidos en clase al desarrollar y presentar un algoritmo junto con su respectivo diagrama de flujo.
+[Acceder➡️](https://drive.google.com/file/d/1h3KpN73oVvaPh8gI1_iM2luEY5bc4Hig/view?usp=sharing)
 ---
-## 2. Instalación de lenguajes de programación (C, Python o Java). [Acceder➡️](https://drive.google.com/file/d/1fHFD8nEXqr_99OHH_Gf1HYTBpdxsdizm/view?usp=sharing)
+## 2. Instalación de lenguajes de programación (C, Python o Java).
+### -Con esta actividad se logro ampliar conocimientos sobre un lenguaje de programación real: investigué en profundidad el lenguaje C, sus ventajas, desventajas, características y limitaciones. Adjunté evidencia paso a paso del proceso de instalación del compilador que requiere este lenguaje, lo que me permitió retener mejor cómo funciona la instalación y conceptos generales con estos lenguajes.
+[Acceder➡️](https://drive.google.com/file/d/1fHFD8nEXqr_99OHH_Gf1HYTBpdxsdizm/view?usp=sharing)
 ---
-## 3. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigoTarea. [Acceder➡️](https://drive.google.com/file/d/1tsqx59qT6Q8ruygFzNLmIUd_l947pe9S/view?usp=sharing)
+## 3. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigoTarea. 
+### -Mediante esta actividad pude identificar la estructura que compone un algoritmo: sus datos de entrada, el proceso y los datos de salida. También se logro desarrar un ejercicio en pseudocódigo, considerando cada una de sus partes, además de realizar una prueba de escritorio como práctica para acercar más a los conceptos y bases de la programación y la resolución de problemas.
+[Acceder➡️](https://drive.google.com/file/d/1tsqx59qT6Q8ruygFzNLmIUd_l947pe9S/view?usp=sharing)
 ---
 ## 4. Del diseño del algoritmo con estructuras secuenciales a la construcción del programa. [Acceder➡️](../Unidad1/Unidad1.md)
 ---
