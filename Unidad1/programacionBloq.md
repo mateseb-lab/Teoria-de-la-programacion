@@ -19,7 +19,7 @@
 <img width="1917" height="994" alt="image" src="https://github.com/user-attachments/assets/674eeb61-e9c6-48ad-9c63-3b5e36d4f6c4" />
 
 ---
-### Hay múltiples aplicaciones y plataformas de programación por bloques, todas con una lógica, diseñadas para ser utilizadas en la etapa de aprendizaje, aunque con enormes diferencias en términos de sus posibilidades y su facilidad de uso. Algunas, las cuales son:
+### Hay múltiples aplicaciones y plataformas de programación por bloques, todas con una lógica, diseñadas para ser utilizadas en la etapa de aprendizaje, aunque con enormes diferencias en términos de sus posibilidades y su facilidad de uso. Algunas, las cuales son: [10]
 
 ### Scratch: Creado por el Instituto de Massachusetts del Instituto Tecnológico de Massachusetts (MIT), tal vez sea la plataforma de programación por bloques más difundida gracias a su entorno gráfico simple y atractivo, así como a sus opciones. También tiene tiene una gran alternativa de añadir y diversidad de bloques, extensiones que expandan su funcionalidad todavía más.[10]
 ### Bitbloq: Es una herramienta que proporciona una suite integral de programas. Comprende un ambiente de programación para sus kits estándar, los kits Junior, una aplicación de diseño e impresión 3D, una interfaz para el desarrollo de aplicaciones móviles y una versión avanzada para Arduino. [10]
@@ -32,5 +32,6 @@
 ### •La habilidad de resolver problemas se mejora, ya que constantemente es necesario solucionar una circunstancia para poder avanzar a la siguiente o llegar al objetivo final, mejorando así la planificación y la organización.[8]
 ### •Ya que la programación se organiza en bloques clasificados por colores y categorías, el trabajo es más intuitivo y visual.[8]
 
-### Así también la programación por bloques, a pesar de sus ventajas, tiene ciertas desventajas, como que puede presentarse que la persona o estudiante que no tenga un conocimiento previo acerca de estas herramientas tendrá cierta dificultad para adaptarse, lo que significa mayor tiempo, generando diferencias de progreso de aprendizaje, entre otros. Además, el color de los bloques de programación y las variables de código cambiarán dependiendo del programa o herramienta que se emplee. [8]
+### Así también la programación por bloques, a pesar de sus ventajas, tiene ciertas desventajas, como que puede presentarse que la persona o estudiante que no tenga un conocimiento previo acerca de estas herramientas tendrá cierta dificultad para adaptarse, lo que significa mayor tiempo, generando diferencias de progreso de aprendizaje, entre otros. [8]
+### Además, el color de los bloques de programación y las variables de código cambiarán dependiendo del programa o herramienta que se emplee. [8]
 
