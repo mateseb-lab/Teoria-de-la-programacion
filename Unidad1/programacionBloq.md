@@ -26,11 +26,11 @@
 ### App Inventor: Desarrollada en sus inicios por Google Labs y ahora bajo la gestión del MIT, la plataforma App Inventor tiene como objetivo la creación de apps móviles para Android. Debido a su complejidad, estaría más orientada a alumnos de la educación secundaria. Nos posibilita el uso de los diferentes sensores y funciones de un celular..[10]
 
 ### La programación por bloques presenta múltiples ventajas como:
-### - Refuerza el trabajo en equipo.[8]
-### - Promueve un vínculo tanto educativo como recreativo con las tecnologías actuales.[8]
-### - Al convertirse en los protagonistas de sus propias creaciones, se estimula la imaginación y la creatividad de los alumnos.[8]
-### - La habilidad de resolver problemas se mejora, ya que constantemente es necesario solucionar una circunstancia para poder avanzar a la siguiente o llegar al objetivo final, mejorando así la planificación y la organización.[8]
-### - Ya que la programación se organiza en bloques clasificados por colores y categorías, el trabajo es más intuitivo y visual.[8]
+### •Refuerza el trabajo en equipo.[8]
+### •Promueve un vínculo tanto educativo como recreativo con las tecnologías actuales.[8]
+### •Al convertirse en los protagonistas de sus propias creaciones, se estimula la imaginación y la creatividad de los alumnos.[8]
+### •La habilidad de resolver problemas se mejora, ya que constantemente es necesario solucionar una circunstancia para poder avanzar a la siguiente o llegar al objetivo final, mejorando así la planificación y la organización.[8]
+### •Ya que la programación se organiza en bloques clasificados por colores y categorías, el trabajo es más intuitivo y visual.[8]
 
 ### Así también la programación por bloques, a pesar de sus ventajas, tiene ciertas desventajas, como que puede presentarse que la persona o estudiante que no tenga un conocimiento previo acerca de estas herramientas tendrá cierta dificultad para adaptarse, lo que significa mayor tiempo, generando diferencias de progreso de aprendizaje, entre otros. Además, el color de los bloques de programación y las variables de código cambiarán dependiendo del programa o herramienta que se emplee. [8]
 
