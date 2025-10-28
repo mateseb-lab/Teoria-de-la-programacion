@@ -55,8 +55,6 @@ Algoritmo operacionArea
 	Escribir "Su area es de: ", area;
 FinAlgoritmo
 ```
-<img width="1142" height="715" alt="image" src="https://github.com/user-attachments/assets/1fc6ef26-0ec0-440c-be46-8433cb9f28b2" />
-
 ---
 ### Ejercicio elaborado en clase 4.
 ---
