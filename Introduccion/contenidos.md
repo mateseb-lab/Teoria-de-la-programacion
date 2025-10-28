@@ -31,11 +31,12 @@
 ---
 ## 3️⃣ Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigoTarea. 
 ---
-### -Mediante esta actividad pude identificar la estructura que compone un algoritmo: sus datos de entrada, el proceso y los datos de salida. También se logro desarrar un ejercicio en pseudocódigo, considerando cada una de sus partes, además de realizar una prueba de escritorio como práctica para acercar más a los conceptos y bases de la programación y la resolución de problemas.
+### -Mediante esta actividad pude identificar la estructura que compone un algoritmo: sus datos de entrada, el proceso y los datos de salida. También se logró desarrollar un ejercicio en pseudocódigo, considerando cada una de sus partes, además de realizar una prueba de escritorio como práctica para acercar más a los conceptos y bases de la programación y la resolución de problemas.
 ### [-👉Acceder-](https://drive.google.com/file/d/1tsqx59qT6Q8ruygFzNLmIUd_l947pe9S/view?usp=sharing)
 
 ---
 ## 4️⃣ Del diseño del algoritmo con estructuras secuenciales a la construcción del programa. 
+### -Se resolvio un problema determinado respecto al calculo de formula de promedios, se desarrollo el algoritmo mediante el pseudocodigo PSeInt para luego trasladarlo al lenguaje de programacion C, ademas de elaborar un informe breve, con evidencias de cada parte del proceso elaborado y verificado.
 [-👉Acceder-](../Unidad1/Unidad1.md)
 ---
 
