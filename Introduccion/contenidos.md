@@ -28,7 +28,7 @@
 
 ---
 
-### 📚 Referencias 
+### 📚 Referencias en IEEE
 ---
 ### [1] Todos los derechos reservados, “¿Qué es un algoritmo y por qué es esencial en Data Science?,” DataScientest, 9 Jun. 2021. Accedido: Oct. 26, 2025. [Online]. Disponible: https://datascientest.com/es/que-es-un-algoritmo
 ### [2] J. M. D. Meza, J. J. V. Benjumea, and M. C. R. Niño, “Didáctica para el aprendizaje de algoritmos,” Sello Editorial UNAD, Jul. 2021, doi: 10.22490/9789586517799.
