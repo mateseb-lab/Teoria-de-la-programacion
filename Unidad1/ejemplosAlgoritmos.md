@@ -1,5 +1,5 @@
 # [⬅️](../Introduccion/contenidos.md)Contenido de unidad 1
-## 3. Ejemplos algoritmos con estructuras lineales/secuenciales
+## 3. ⚙️Ejemplos algoritmos con estructuras lineales/secuenciales
 ---
 ### Durante la unidad 1 se practico en pseudocodigo(PSeInt) y el lenguaje de programacion C diferentes ejercicios con el proposito de desarrollar y practicar el manejo de algoritmos para resolver un problema determinado.
 ---
