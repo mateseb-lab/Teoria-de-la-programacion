@@ -5,7 +5,7 @@
 ---
 ## 3.1 Ejemplos de algoritmos elaborado en el pseudocodigo PSeInt.
 ---
-### Ejercicios elaborados en clase 1.
+### Ejercicio ejemplo 1.
 ```
 Algoritmo operacion
 	//Definicion de variables//
@@ -18,8 +18,9 @@ Algoritmo operacion
 	Escribir resultado
 FinAlgoritmo
 ```
+---
 ## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen1.md)
-### Ejercicio elaborados en clase 2.
+### Ejercicio ejemplo 2.
 ---
 ```
 Algoritmo suma
@@ -38,7 +39,7 @@ FinAlgoritmo
 ```
 ## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen2.md)
 ---
-### Ejercicio elaborado en clase 3.
+### Ejercicio ejemplo 3.
 ---
 ```
 Algoritmo operacionArea
@@ -57,7 +58,7 @@ FinAlgoritmo
 ```
 ## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen3.md)
 ---
-### Ejercicio elaborado en clase 4.
+### Ejercicio ejemplo 4.
 ---
 ```
 Algoritmo longitudArea
@@ -75,7 +76,7 @@ FinAlgoritmo
 ```
 ## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen4.md)
 ---
-### Ejercicio elaborado en clase 5
+### Ejercicio ejemplo 5.
 ---
 ```
 Algoritmo Ejercicio_Promedio
@@ -101,7 +102,8 @@ FinAlgoritmo
 ```
 ## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen5.md)
 ---
-### Ejercicio ejemplo algoritmo 6
+### Ejercicio ejemplo 6.
+---
 ```
 Algoritmo presupuesto
 	//Definicion de variables//
