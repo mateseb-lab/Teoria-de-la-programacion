@@ -34,4 +34,5 @@
 
 ### Así también la programación por bloques, a pesar de sus ventajas, tiene ciertas desventajas, como que puede presentarse que la persona o estudiante que no tenga un conocimiento previo acerca de estas herramientas tendrá cierta dificultad para adaptarse, lo que significa mayor tiempo, generando diferencias de progreso de aprendizaje, entre otros. [8]
 ### Además, el color de los bloques de programación y las variables de código cambiarán dependiendo del programa o herramienta que se emplee. [8]
+---
 
