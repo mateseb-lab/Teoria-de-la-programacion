@@ -33,8 +33,3 @@
 
 ### Así también la programación por bloques, a pesar de sus ventajas, tiene ciertas desventajas, como que puede presentarse que la persona o estudiante que no tenga un conocimiento previo acerca de estas herramientas tendrá cierta dificultad para adaptarse, lo que significa mayor tiempo, generando diferencias de progreso de aprendizaje, entre otros. Además, el color de los bloques de programación y las variables de código cambiarán dependiendo del programa o herramienta que se emplee. [7]
 
-
-[7] https://www.educa.jcyl.es/educacyl/cm/gallery/CCD/Area_6/B1.6_Creacion_de_contenido/5_programacin_por_bloques_y_pensamiento_computacional.html
-[8] Método de resolución de problemas y programación por bloques para el desarrollo de actividades IoT orientado a estudiantes principiantes de ingeniería
-[9]Nose Videojuego educativo para la enseñanza transversal de las Ciencias de la Naturaleza y Matemáticas con programación por bloques
-
