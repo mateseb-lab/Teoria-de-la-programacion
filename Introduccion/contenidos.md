@@ -4,15 +4,15 @@
 ---
 
 ### 🧩 Unidad 1: Contenidos de la Unidad:  
-## 1. Algoritmos, pseudocódigo, diagrama de flujo. [👉Acceder](../Unidad1/algoritmos.md)
+## 1️⃣ 📘Algoritmos, pseudocódigo, diagrama de flujo. [👉Acceder](../Unidad1/algoritmos.md)
 ---
-## 2. Programacion por bloques. [👉Acceder](../Unidad1/programacionBloq.md)
+## 2️⃣ 🧱Programacion por bloques. [👉Acceder](../Unidad1/programacionBloq.md)
 ---
-## 3. Ejemplos de algoritmos con estructuras lineales/secuenciales. [👉Acceder](../Unidad1/ejemplosAlgoritmos.md)
+## 3️⃣ ⚙️Ejemplos de algoritmos con estructuras lineales/secuenciales. [👉Acceder](../Unidad1/ejemplosAlgoritmos.md)
 ---
-## 4. Principales dificultades en la aplicación de los contenidos. [👉Acceder](../Unidad1/principalesDificultades.md)
+## 4️⃣ 🚧Principales dificultades en la aplicación de los contenidos. [👉Acceder](../Unidad1/principalesDificultades.md)
 ---
-## 5. Reflexion crtica de los aprendizajes de la unidad. [👉Acceder](../Unidad1/reflexionCritica.md)
+## 5️⃣ 💡Reflexion crtica de los aprendizajes de la unidad. [👉Acceder](../Unidad1/reflexionCritica.md)
 ---
 ### Tareas entregadas:
 ## 1.  Herramientas de algoritmos (pseudocódigo y diagramas de flujo).
