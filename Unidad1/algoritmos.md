@@ -3,12 +3,14 @@
 ---
 ## 1.1 Algoritmos.
 ---
-### Dentro de esta unidad de aprendizaje se practicó el desarrollo de algoritmos. Un algoritmo puede definirse como una secuencia de pasos, lógicamente ordenados y que son finitos, entregando una solución a un problema determinado. El algoritmo es como una receta para cocinar un plato; las personas ya utilizaban algoritmos mucho antes, siguiendo pasos lógicos para llegar al resultado. Los algoritmos son omnipresentes, ya que son parte fundamental en la informática y la mayoría de programas que se utilizan en la tecnología actual.[1]
-### Los algoritmos respecto a informática son un grupo de reglas que ayudan a indicar al ordenador cómo realizar una tarea, como en un programa que señala al computador qué pasos debe seguir y en qué orden debe hacerlo, lo cual se logra mediante un lenguaje de programación. En realidad, aplicamos algoritmos frecuentemente sin ser conscientes. En la época de la inteligencia artificial, el machine learning y la ciencia de datos, los algoritmos son más relevantes que en ningún otro momento y constituyen el combustible de la reciente revolución industrial.[1]
+### Dentro de esta unidad de aprendizaje se practicó el desarrollo de algoritmos. Un algoritmo puede definirse como una secuencia de pasos, lógicamente ordenados y que son finitos, entregando una solución a un problema determinado.[1]
+### El algoritmo es como una receta para cocinar un plato; las personas ya utilizaban algoritmos mucho antes, siguiendo pasos lógicos para llegar al resultado. Los algoritmos son omnipresentes, ya que son parte fundamental en la informática y la mayoría de programas que se utilizan en la tecnología actual.[1]
+### Los algoritmos respecto a informática son un grupo de reglas que ayudan a indicar al ordenador cómo realizar una tarea, como en un programa que señala al computador qué pasos debe seguir y en qué orden debe hacerlo, lo cual se logra mediante un lenguaje de programación.[1] 
+### En realidad, aplicamos algoritmos frecuentemente sin ser conscientes. En la época de la inteligencia artificial, el machine learning y la ciencia de datos, los algoritmos son más relevantes que en ningún otro momento y constituyen el combustible de la reciente revolución industrial.[1]
 ### Características que contiene un algoritmo:
-### • Entrada.
-### • Contiene un proceso.
-### • Contiene una estructura establecida.
+### • Entrada. 
+### • Contiene un proceso. 
+### • Contiene una estructura establecida. 
 ### • Puede realizar cálculos matemáticos. 
 ### • Ayuda a desarrollar la lógica matemática. 
 ### • Genera un resultado a partir de un proceso. 
@@ -25,7 +27,8 @@
 ## 1.2 Pseudocodigos.
 ---
 ### El pseudocódigo es la representación de un algoritmo declarado en cualquier lengua y tiene dos ventajas principales: el uso de la lengua cotidiana y la simplicidad de sintaxis. Por lo tanto, programar en lengua cotidiana hace que se vea más cómodo y comprensible, reduciendo confusiones para la persona que desea aprender.[5]
-### El pseudocódigo se utiliza como un primer acercamiento para conocer conceptos elementales como expresiones, estructuras de control, variables, entre otros, sin tener que lidiar con las características específicas de sintaxis de un lenguaje real. Este software tiene el objetivo de facilitar el proceso de desarrollar algoritmos en este pseudolenguaje para los principiantes con ayudas y asistencias, además de ofrecer algunas herramientas adicionales que ayuden a detectar errores y entender la lógica de los algoritmos.[5]
+### El pseudocódigo se utiliza como un primer acercamiento para conocer conceptos elementales como expresiones, estructuras de control, variables, entre otros, sin tener que lidiar con las características específicas de sintaxis de un lenguaje real. 
+### Este software tiene el objetivo de facilitar el proceso de desarrollar algoritmos en este pseudolenguaje para los principiantes con ayudas y asistencias, además de ofrecer algunas herramientas adicionales que ayuden a detectar errores y entender la lógica de los algoritmos.[5]
 ### Existen varios pseudocódigos que ayudan a introducirse a los conceptos de programación, como la herramienta PSeInt. La herramienta PSeInt está elaborada para ayudar a los estudiantes que están empezando a desarrollar algoritmos o programas computacionales, utilizada para el aprendizaje de lógica de programación, especialmente a estudiantes que no tengan conocimientos de estos temas, haciendo uso de un pseudolenguaje muy intuitivo que permite entender fundamentos de algoritmos y otros conceptos computacionales.[5]
 ---
 <img width="718" height="425" alt="image" src="https://github.com/user-attachments/assets/8a24c273-3e7c-4b8b-9fbb-3f5729e659a3" />
