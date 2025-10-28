@@ -15,7 +15,7 @@
 ---
 ## 5️⃣ 💡Reflexion crtica de los aprendizajes de la unidad. [-👉Acceder-](../Unidad1/reflexionCritica.md)
 ---
-### *Tareas entregadas:*
+### 📚*Tareas entregadas:*
 ---
 ## 1️⃣  Herramientas de algoritmos (pseudocódigo y diagramas de flujo).
 ---
