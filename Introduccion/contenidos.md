@@ -23,10 +23,6 @@
 ---
 ## 4. Del diseño del algoritmo con estructuras secuenciales a la construcción del programa. [Acceder➡️](../Unidad1/Unidad1.md)
 ---
-### 📝 Conclusiones  
-*Reflexión sobre el aprendizaje obtenido y su aplicación práctica.*
-
----
 
 ### 📚 Referencias en IEEE
 ---
