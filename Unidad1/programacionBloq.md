@@ -1,6 +1,6 @@
 # [⬅️](../Introduccion/contenidos.md)Contenido de unidad 1
 ---
-## 2. Programacion por bloques 
+## 2. 🧱Programacion por bloques 
 ---
 ### La programación por bloques implica desplazar, compilar y arrastrar bloques de programación de una forma específica para que el programa en cuestión ejecute la tarea o instrucción programada. La interfaz de las diferentes herramientas de programación por bloques es simple y tiene una configuración que cualquier usuario puede utilizar con facilidad.[8]
 ### El lenguaje de programación se hace más accesible para los estudiantes de casi cualquier nivel educativo gracias a la programación por bloques, que lo simplifica y facilita. Asimismo, las aplicaciones didácticas de la programación en bloques son diversas según las herramientas empleadas.[8]
