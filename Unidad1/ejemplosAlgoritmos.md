@@ -36,8 +36,7 @@ Algoritmo suma
 	Escribir "Su suma es: ", resultado;
 FinAlgoritmo
 ```
-<img width="1141" height="712" alt="image" src="https://github.com/user-attachments/assets/a5a93b65-5f11-4b40-8ab3-38c2f4a0c8f8" />
-
+## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen1.md)
 ---
 ### Ejercicio elaborado en clase 3.
 ---
