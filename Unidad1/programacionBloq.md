@@ -5,13 +5,11 @@
 ### Dentro de la Unidad 1, se practicó con juegos de programación por bloques para agilizar el pensamiento lógico y desenvolvernos a la hora de resolver problemas en algoritmos computacionales.
 ### La programación por bloques implica desplazar, compilar y arrastrar bloques de programación de una forma específica para que el programa en cuestión ejecute la tarea o instrucción programada. La interfaz de las diferentes herramientas de programación por bloques es simple y tiene una configuración que cualquier usuario puede utilizar con facilidad.[8]
 ### El lenguaje de programación se hace más accesible para los estudiantes de casi cualquier nivel educativo gracias a la programación por bloques, que lo simplifica y facilita. Asimismo, las aplicaciones didácticas de la programación en bloques son diversas según las herramientas empleadas.[8]
-### Estas herramientas de programación por bloques tienen la característica de ser fáciles de aprender para los alumnos que empiezan a entrar en estos conceptos, y se emplean mucho en el contexto académico para desarrollar habilidades de pensamiento computacional y programación. Además, son compatibles con una amplia variedad de dispositivos electrónicos. [9]
-### Estos programas ayudan a realizar una variedad de actividades, tales como diseñar escenarios vinculados con los problemas existentes en la comunidad o la ciudad, en las cuales ponen en práctica lo aprendido acerca de matemáticas, ingeniería, ciencias y tecnología. [9]
 ---
 <img width="1917" height="994" alt="image" src="https://github.com/user-attachments/assets/ed5fee8e-0a67-45e6-8ad5-edc3aa6d9ad8" />
 
 ---
-### La programación en bloques es altamente mustra ventajas en el fortalecimiento de distintas disciplinas, entre ellas la lógica, las matemáticas y el trabajo conjunto. En particular, sirven para desarrollar destrezas de resolución de problemas y pensamiento computacional.[9]
+### La programación en bloques es altamente mustra ventajas en el fortalecimiento de distintas disciplinas, entre ellas la lógica, las matemáticas y el trabajo conjunto. En particular, sirven para desarrollar destrezas de resolución de problemas y pensamiento computacional.[8]
 ---
 <img width="1917" height="994" alt="image" src="https://github.com/user-attachments/assets/674eeb61-e9c6-48ad-9c63-3b5e36d4f6c4" />
 
@@ -30,6 +28,5 @@
 ### •Ya que la programación se organiza en bloques clasificados por colores y categorías, el trabajo es más intuitivo y visual.[8]
 
 ### Así también la programación por bloques, a pesar de sus ventajas, tiene ciertas desventajas, como que puede presentarse que la persona o estudiante que no tenga un conocimiento previo acerca de estas herramientas tendrá cierta dificultad para adaptarse, lo que significa mayor tiempo, generando diferencias de progreso de aprendizaje, entre otros. [8]
-### Además, el color de los bloques de programación y las variables de código cambiarán dependiendo del programa o herramienta que se emplee. [8]
 ---
 
