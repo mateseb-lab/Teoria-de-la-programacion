@@ -35,7 +35,7 @@
 <img width="718" height="425" alt="image" src="https://github.com/user-attachments/assets/8a24c273-3e7c-4b8b-9fbb-3f5729e659a3" />
 
 ---
-### También, la herramienta PSeInt ayuda a realizar diagramas de flujo de manera automática con el paso del algoritmo que se realiza, así como una ayuda respecto a los comandos, ayudando a entender qué es cada opción de la estructura elegida, logrando ser más entendibles y concretos respecto a la resolución de un problema.[5]
+### También, la herramienta PSeInt ayuda a realizar diagramas de flujo de manera automática con el paso del algoritmo que se realiza [5].
 ---
 <img width="1190" height="787" alt="image" src="https://github.com/user-attachments/assets/dbd4d02d-510f-4053-ac01-b6b38734d10c" />
 
