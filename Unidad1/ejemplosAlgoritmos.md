@@ -6,7 +6,6 @@
 ## 3.1 Ejemplos de algoritmos elaborado en el pseudocodigo PSeInt.
 ---
 ### Ejercicio ejemplo 1.
-### Describirlo ...
 ```
 Algoritmo operacion
 	//Definicion de variables//
