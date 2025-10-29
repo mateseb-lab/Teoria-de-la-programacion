@@ -85,7 +85,7 @@ Algoritmo Ejercicio_Promedio
 	Escribir "Su promedio es de: ",Prom;
 FinAlgoritmo
 ```
-## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen6.md)
+## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen5.md)
 ---
 ## 3.2 Ejemplos de algoritmos elaborado en el lenguaje de programacion C.
 ---
