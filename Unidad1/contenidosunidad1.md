@@ -37,5 +37,6 @@
 ---
 ## 4️⃣ Del diseño del algoritmo con estructuras secuenciales a la construcción del programa. 
 ### -Se resolvio un problema determinado respecto al calculo de formula de promedios, se desarrollo el algoritmo mediante el pseudocodigo PSeInt para luego trasladarlo al lenguaje de programacion C, ademas de elaborar un informe breve, con evidencias de cada parte del proceso elaborado y verificado.
-[-👉Acceder-](https://drive.google.com/file/d/1cknZpDppzgKQoDM7kU5k_3FlCCvo7Fow/view?usp=sharing)
+### [-👉Acceder-](https://drive.google.com/file/d/1cknZpDppzgKQoDM7kU5k_3FlCCvo7Fow/view?usp=sharing)
+
 ---
