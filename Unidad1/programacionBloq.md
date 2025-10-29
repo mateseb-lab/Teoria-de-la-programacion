@@ -6,6 +6,8 @@
 ### La programación por bloques implica desplazar, compilar y arrastrar bloques de programación de una forma específica para que el programa en cuestión ejecute la tarea o instrucción programada. La interfaz de las diferentes herramientas de programación por bloques es simple y tiene una configuración que cualquier usuario puede utilizar con facilidad.[6]
 ### El lenguaje de programación se hace más accesible para los estudiantes de casi cualquier nivel educativo gracias a la programación por bloques, que lo simplifica y facilita. Asimismo, las aplicaciones didácticas de la programación en bloques son diversas según las herramientas empleadas.[6]
 ---
+>De acuerdo al siguente ejemplo se practico pensamiento logico en programacion por bloques, seleccionando y colocando los bloques de comandos para que el personaje pueda llegar a su destino de manera correcta.
+
 <img width="1917" height="994" alt="image" src="https://github.com/user-attachments/assets/ed5fee8e-0a67-45e6-8ad5-edc3aa6d9ad8" />
 
 ---
