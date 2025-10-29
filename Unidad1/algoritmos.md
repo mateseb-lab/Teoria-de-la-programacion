@@ -28,7 +28,6 @@
 ## 1.2 Pseudocodigos.
 ---
 ### El pseudocódigo es la representación de un algoritmo declarado en cualquier lengua y tiene dos ventajas principales: el uso de la lengua cotidiana y la simplicidad de sintaxis. Por lo tanto, programar en lengua cotidiana hace que se vea más cómodo y comprensible, reduciendo confusiones para la persona que desea aprender.[4]
-### El pseudocódigo se utiliza como un primer acercamiento para conocer conceptos elementales como expresiones, estructuras de control, variables, entre otros, sin tener que lidiar con las características específicas de sintaxis de un lenguaje real. [4]
 ### Este software tiene el objetivo de facilitar el proceso de desarrollar algoritmos en este pseudolenguaje para los principiantes con ayudas y asistencias, además de ofrecer algunas herramientas adicionales que ayuden a detectar errores y entender la lógica de los algoritmos.[4]
 ### Existen varios pseudocódigos que ayudan a introducirse a los conceptos de programación, como la herramienta PSeInt. La herramienta PSeInt está elaborada para ayudar a los estudiantes que están empezando a desarrollar algoritmos o programas computacionales, utilizada para el aprendizaje de lógica de programación, especialmente a estudiantes que no tengan conocimientos de estos temas, haciendo uso de un pseudolenguaje muy intuitivo que permite entender fundamentos de algoritmos y otros conceptos computacionales.[5]
 ---
@@ -50,8 +49,6 @@
 <img width="761" height="821" alt="image" src="https://github.com/user-attachments/assets/e0a0741b-7620-4329-992b-957b7c2bbc93" />
 
 ---
-### La herramienta DFD es un software elaborado con el objetivo de analizar y desarrollar algoritmos, siendo su uso crear diagramas de flujo para la visualización gráfica de algoritmos, centrándose en la diagramación; además, existen diferentes tipos de herramientas que ayudan con el desarrollo automático de diagramas de flujo a pseudocódigo, pero esta herramienta se centra en el proceso de construcción del estudiante.[6]
-### También se puede describir el diagrama de flujo como un conjunto de herramientas gráficas con una simbología estándar que pueden representar los diferentes algoritmos de acción del algoritmo. Se indican mediante la conexión de líneas en el orden en que se realiza la operación; al ser visual, tiene ciertas ventajas.[7]
 ### Las ventajas que presentan los diagramas de flujo:
 ### Son demasiado intuitivos, además de que facilitan el seguimiento de pasos y secuencias del proceso. [7]
 ### Ayudan con el proceso de enseñanza en programación al utilizar símbolos. [7]
