@@ -22,7 +22,7 @@ Algoritmo suma
 	Escribir "Su suma es: ", resultado;
 FinAlgoritmo
 ```
-## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen2.md)
+## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen1.md)
 ---
 ### Ejercicio ejemplo 2.
 ---
@@ -41,7 +41,7 @@ Algoritmo operacionArea
 	Escribir "Su area es de: ", area;
 FinAlgoritmo
 ```
-## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen3.md)
+## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen2.md)
 ---
 ### Ejercicio ejemplo 3.
 ---
@@ -59,7 +59,7 @@ Algoritmo longitudArea
 	Escribir "Su Longitud es: ",Op1,"Su Area es: ",Op2;
 FinAlgoritmo
 ```
-## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen4.md)
+## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen3.md)
 ---
 ### Ejercicio ejemplo 4.
 ---
@@ -85,7 +85,7 @@ Algoritmo Ejercicio_Promedio
 	Escribir "Su promedio es de: ",Prom;
 FinAlgoritmo
 ```
-## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen5.md)
+## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen4.md)
 ---
 ## 3.2 Ejemplos de algoritmos elaborado en el lenguaje de programacion C.
 ---
