@@ -30,7 +30,7 @@
 ## 1.2 Pseudocodigos.
 ---
 
-### Una opción que ha mostrado resultados positivos es la enseñanza de programación mediante algoritmos, utilizando diagramas de flujo o pseudocódigos para expresar el modelo de solución a un problema.[5].
+### El pseudocódigo normalmente se utiliza como primer acercamiento para presentar conceptos fundamentales, por ejemplo el uso de expresiones, estructuras de control, variables y demás, sin necesidad de enfrentarse a los rasgos específicos de la sintaxis en un lenguaje auténtico [5].
 ### Existen varios pseudocódigos que ayudan a introducirse a los conceptos de programación, como la herramienta PSeInt. La herramienta PSeInt está elaborada para ayudar a los estudiantes que están empezando a desarrollar algoritmos o programas computacionales, utilizada para el aprendizaje de lógica de programación, especialmente a estudiantes que no tengan conocimientos de estos temas, haciendo uso de un pseudolenguaje muy intuitivo que permite entender fundamentos de algoritmos y otros conceptos computacionales.[5]
 ---
 <img width="718" height="425" alt="image" src="https://github.com/user-attachments/assets/8a24c273-3e7c-4b8b-9fbb-3f5729e659a3" />
