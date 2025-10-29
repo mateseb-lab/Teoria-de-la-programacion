@@ -39,7 +39,7 @@
 <img width="1190" height="787" alt="image" src="https://github.com/user-attachments/assets/dbd4d02d-510f-4053-ac01-b6b38734d10c" />
 
 ---
-### La herramienta PSeInt presenta diferentes ventajas, al ser muy intuitiva en los pasos ordenados diseñados en el algoritmo, es fácil de comprender para estudiantes y someterse a estos temas, pero también tiene ciertas limitantes, ya que al solo ser una herramienta de enseñanza, no está diseñada para programas reales, además de que el aprendizaje es poco realista debido a su ayuda respecto a comandos casi automatizados y al no tener ciertas semejanzas con las sintaxis de lenguajes reales.[5]
+### La herramienta PSeInt presenta diferentes ventajas, al ser muy intuitiva en los pasos ordenados diseñados en el algoritmo, es fácil de comprender para estudiantes y someterse a estos temas, pero también tiene ciertas limitantes, ya que al solo ser una herramienta de enseñanza, no está diseñada para programas reales [5].
 ---
 ## Diagrama de flujo 
 ---
