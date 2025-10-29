@@ -1,10 +1,7 @@
 # 💻 Teoría de la Programación  
 ---
-## 📘 Portafolio Digital de Aprendizaje  
-
+### 🧩 *Unidad 1: Contenidos de la Unidad:*
 ---
-
-### 🧩 *Unidad 1: Contenidos de la Unidad:*  
 ## 1️⃣ 📊Algoritmos, pseudocódigo, diagrama de flujo. [-👉Acceder-](../Unidad1/algoritmos.md)
 ---
 ## 2️⃣ 🧱Programacion por bloques. [-👉Acceder-](../Unidad1/programacionBloq.md)
