@@ -6,21 +6,6 @@
 ## 3.1 Ejemplos de algoritmos elaborado en el pseudocodigo PSeInt.
 ---
 ### Ejercicio ejemplo 1.
-```
-Algoritmo operacion
-	//Definicion de variables//
-	Definir A, B como Entero
-	//Proceso//
-	A = 2
-	B = 5
-	resultado = 4/A*3/6 + 6 /A/1/B^A/4*A
-	//Datos de salida//
-	Escribir resultado
-FinAlgoritmo
-```
----
-## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen1.md)
-### Ejercicio ejemplo 2.
 ---
 ```
 Algoritmo suma
@@ -39,7 +24,7 @@ FinAlgoritmo
 ```
 ## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen2.md)
 ---
-### Ejercicio ejemplo 3.
+### Ejercicio ejemplo 2.
 ---
 ```
 Algoritmo operacionArea
@@ -58,7 +43,7 @@ FinAlgoritmo
 ```
 ## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen3.md)
 ---
-### Ejercicio ejemplo 4.
+### Ejercicio ejemplo 3.
 ---
 ```
 Algoritmo longitudArea
@@ -76,7 +61,7 @@ FinAlgoritmo
 ```
 ## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen4.md)
 ---
-### Ejercicio ejemplo 5.
+### Ejercicio ejemplo 4.
 ---
 ```
 Algoritmo Ejercicio_Promedio
