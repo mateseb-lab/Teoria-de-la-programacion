@@ -100,30 +100,6 @@ Algoritmo Ejercicio_Promedio
 	Escribir "Su promedio es de: ",Prom;
 FinAlgoritmo
 ```
-## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen5.md)
----
-### Ejercicio ejemplo 6.
----
-```
-Algoritmo presupuesto
-	//Definicion de variables//
-	Definir alto,ancho, operacion, operacion2 Como Real;
-	//Datos de entrada//
-	Escribir "Ingrese alto xfavor";
-	Leer alto;
-	
-	Escribir "Ingrese ancho xfavor";
-	Leer ancho;
-	
-	Escribir "Cuanto cobra por m2";
-	Leer m2;
-	//Proceso//
-	Operacion = alto*ancho;
-	Operacion2 = Operacion*m2;
-	//Datos de salida//
-	Escribir "Su presupuesto es ", Operacion2;
-FinAlgoritmo
-```
 ## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen6.md)
 ---
 ## 3.2 Ejemplos de algoritmos elaborado en el lenguaje de programacion C.
@@ -247,28 +223,6 @@ int main(){
 <img width="1078" height="179" alt="image" src="https://github.com/user-attachments/assets/5a2fb68c-0dbd-4447-a309-3a6d263db5f3" />
 
 ---
-### Ejercicio ejemplo 6
-```
-#include <stdio.h>
-#include <stdlib.h>
-
-int main(){
-    float metros, km, cm, mm;
-    printf("Ingrese su valor en metros:\n");
-    scanf("%f", &metros);
-
-    km = metros / 1000;
-    cm = metros * 100;
-    mm = metros * 1000;
-
-    printf("el valor en kilometros es:%f\n", km);
-    printf("el valor en centimetros es:%f\n", cm);
-    printf("el valor en milimetros es:%f\n", mm);
-
-    return 0;
-}
-```
-<img width="1081" height="191" alt="image" src="https://github.com/user-attachments/assets/58c8a40e-05d6-46c4-9ed5-185ffb996d1f" />
 
 
 
