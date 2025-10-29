@@ -13,6 +13,7 @@
 ---
 ### La programación en bloques es altamente mustra ventajas en el fortalecimiento de distintas disciplinas, entre ellas la lógica, las matemáticas y el trabajo conjunto. En particular, sirven para desarrollar destrezas de resolución de problemas y pensamiento computacional.[6]
 ---
+>En el siguente juego de programacion por bloques para principiantes, tenia una solucion similar al juego anterior ya que se debe seleccionar y colocar bloques, que hagan la accion paso por paso, para que pueda llegar a su destino, y hacer la accion requerida.
 <img width="1917" height="994" alt="image" src="https://github.com/user-attachments/assets/674eeb61-e9c6-48ad-9c63-3b5e36d4f6c4" />
 
 ---
