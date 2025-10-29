@@ -51,8 +51,4 @@
 <img width="761" height="821" alt="image" src="https://github.com/user-attachments/assets/e0a0741b-7620-4329-992b-957b7c2bbc93" />
 
 ---
-### Las ventajas que presentan los diagramas de flujo:
-### Son demasiado intuitivos, además de que facilitan el seguimiento de pasos y secuencias del proceso. [7]
-### Ayudan con el proceso de enseñanza en programación al utilizar símbolos. [7]
-### Mejoran la organización de ideas y el desarrollo de algoritmos. [7]
 ### Gracias al uso de diagramas de flujo se pudo obtener una mejor comprensión acerca de los procesos del algoritmo, desarrollando una secuencia lógica ordenada de cada parte del proceso, agilizando el proceso de aprendizaje de programación. 
