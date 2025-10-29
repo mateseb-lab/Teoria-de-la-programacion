@@ -1,4 +1,4 @@
-# [⬅️](../Introduccion/contenidosunidad1.md)Contenido de unidad 1
+# [⬅️](../Unidad1/contenidosunidad1.md)Contenido de unidad 1
 ---
 ## 1. 📊Algoritmos, pseudocodigos, diagrama de flujo.
 ---
