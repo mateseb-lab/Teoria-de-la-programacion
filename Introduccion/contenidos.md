@@ -1,4 +1,4 @@
-# 💻 Teoría de la Programación  
+# # [⬅️](../Introduccion/caratula.md)💻 Teoría de la Programación  
 ---
 ## 📘 Portafolio Digital de Aprendizaje  
 
