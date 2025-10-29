@@ -29,8 +29,8 @@
 ---
 ## 1.2 Pseudocodigos.
 ---
-### El pseudocódigo es la representación de un algoritmo declarado en cualquier lengua y tiene dos ventajas principales: el uso de la lengua cotidiana y la simplicidad de sintaxis. Por lo tanto, programar en lengua cotidiana hace que se vea más cómodo y comprensible, reduciendo confusiones para la persona que desea aprender.[4]
-### Este software tiene el objetivo de facilitar el proceso de desarrollar algoritmos en este pseudolenguaje para los principiantes con ayudas y asistencias, además de ofrecer algunas herramientas adicionales que ayuden a detectar errores y entender la lógica de los algoritmos.[4]
+
+### Una opción que ha mostrado resultados positivos es la enseñanza de programación mediante algoritmos, utilizando diagramas de flujo o pseudocódigos para expresar el modelo de solución a un problema.[5].
 ### Existen varios pseudocódigos que ayudan a introducirse a los conceptos de programación, como la herramienta PSeInt. La herramienta PSeInt está elaborada para ayudar a los estudiantes que están empezando a desarrollar algoritmos o programas computacionales, utilizada para el aprendizaje de lógica de programación, especialmente a estudiantes que no tengan conocimientos de estos temas, haciendo uso de un pseudolenguaje muy intuitivo que permite entender fundamentos de algoritmos y otros conceptos computacionales.[5]
 ---
 <img width="718" height="425" alt="image" src="https://github.com/user-attachments/assets/8a24c273-3e7c-4b8b-9fbb-3f5729e659a3" />
