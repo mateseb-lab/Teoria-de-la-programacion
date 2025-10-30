@@ -88,7 +88,7 @@ int main(){
     return 0;
 }
 ```
-<img width="968" height="165" alt="image" src="https://github.com/user-attachments/assets/aa620bf6-8a40-40d8-94f8-ba195ffd1ae7" />
+<img width="1081" height="165" alt="image" src="https://github.com/user-attachments/assets/aa620bf6-8a40-40d8-94f8-ba195ffd1ae7" />
 
 ---
 ### Ejercicio ejemplo 2
