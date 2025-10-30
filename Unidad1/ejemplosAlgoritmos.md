@@ -45,6 +45,7 @@ Algoritmo operacionArea
 FinAlgoritmo
 ```
 ## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen2.md)
+## [👉Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba2.md)
 ---
 ### Ejercicio ejemplo 3.
 ---
