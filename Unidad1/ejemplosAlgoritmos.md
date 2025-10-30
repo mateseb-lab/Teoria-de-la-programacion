@@ -25,7 +25,7 @@ Algoritmo equivalencia
 FinAlgoritmo
 ```
 ## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen1.md)
-## [👉Prueba de Escritorio](../Unidad1/pruebaEscritorio/prueba1.md)
+## [👉Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba1.md)
 ---
 ### Ejercicio ejemplo 2.
 ---
