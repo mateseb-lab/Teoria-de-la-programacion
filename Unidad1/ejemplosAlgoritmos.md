@@ -61,48 +61,9 @@ FinAlgoritmo
 ```
 ## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen3.md)
 ---
-### Ejercicio ejemplo 4.
----
-```
-Algoritmo Ejercicio_Promedio
-	// Definicion de variables//
-	Definir nota1, nota2, nota3, PROM30, PROM40, Prom Como Real;
-	// Entrada de datos//
-	Escribir "Intrduzca la nota de unidad 1";
-	Leer nota1;
-	Escribir "Introduzca la nota de unidad 2";
-	Leer nota2;
-	Escribir "Introduzca la nota de unidad 3";
-	Leer nota3;
-	PROM30 = (30/100);
-	PROM40 = (40/100);
-	// Proceso//
-	OP1 = nota1*PROM30;
-	OP2 = nota2*PROM30;
-	OP3 = nota3*PROM40;
-	Prom = OP1+OP2+OP3;
-	// Datos de Salida//
-	Escribir "Su promedio es de: ",Prom;
-FinAlgoritmo
-```
-## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen4.md)
----
 ## 3.2 Ejemplos de algoritmos elaborado en el lenguaje de programacion C.
 ---
 ### Ejercicio ejemplo 1
-```
-#include <stdio.h>
-
-int main(){
-    printf("Hola mundo");
-    
-    return 0;
-}
-```
-<img width="1101" height="154" alt="image" src="https://github.com/user-attachments/assets/7c167f14-8c31-46c7-8eab-2be66bc6de90" />
-
----
-### Ejercicio ejemplo 2
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -136,7 +97,7 @@ int main() {
 
 
 ---
-### Ejercicio ejemplo 3
+### Ejercicio ejemplo 2
 ```
 #include <stdio.h>
 #include <string.h>
@@ -159,7 +120,7 @@ return 0;
 <img width="1083" height="165" alt="image" src="https://github.com/user-attachments/assets/266e5fd9-7f89-4cfe-9920-79414d53ce14" />
 
 ---
-## Ejercicio ejemplo 4
+## Ejercicio ejemplo 3
 ```
 #include <stdio.h>
 #include <stdlib.h>
