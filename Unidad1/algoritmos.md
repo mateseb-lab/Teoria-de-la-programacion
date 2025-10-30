@@ -1,4 +1,3 @@
-# [⬅️](../Unidad1/contenidosunidad1.md)Contenido de unidad 1
 ---
 ## 1. 📊Algoritmos, pseudocodigos, diagrama de flujo.
 ---
@@ -59,3 +58,4 @@
 
 ---
 ### Gracias al uso de diagramas de flujo se pudo obtener una mejor comprensión acerca de los procesos del algoritmo, desarrollando una secuencia lógica ordenada de cada parte del proceso, agilizando el proceso de aprendizaje de programación. 
+# [⬅️](../Unidad1/contenidosunidad1.md)Contenido de unidad 1
