@@ -66,52 +66,20 @@ FinAlgoritmo
 ### Ejercicio ejemplo 1
 ```
 #include <stdio.h>
-#include <stdlib.h>
-
-int main() {
-    //Opcion 1, lista de caracteres (arreglo)
-   /* char nombresCompletos[20];
-    printf("Ingrese sus nombres completos:\n");
-    scanf("%[^\n]", nombresCompletos);
-    getchar();
-    printf("Sus nombres completos ingresados son: %s", nombresCompletos);
-    */
-
-    //Opcion 2 puntero al inicio de una cadena
-    char * nombresCompletos = malloc(100 * sizeof(char)); //reservar memoria
-    printf("Ingrese sus nombres completos:\n");
-    scanf("%[^\n]s ", nombresCompletos);
-    printf("Sus nombres completos ingresados son: %s", nombresCompletos);
-    
-    //Opcion 3, solo lectura
-    /*char *nombresCompletos = "Mateo Pucha";
-    printf("Ingrese sus nombres completos:\n");
-    scanf("%[^\n]", nombresCompletos);
-    getchar();
-    printf("Sus nombres completos ingresados son: %s\n", nombresCompletos);*/
-
-    return 0;
-}
-```
-<img width="1101" height="154" alt="image" src="https://github.com/user-attachments/assets/44f93e93-646d-44f5-a3b3-b3363dc75732" />
-
-
----
-### Ejercicio ejemplo 2
-```
-#include <stdio.h>
 #include <string.h>
 
 int main(){
+    //Definicion de variables
     int a, b, c;
+    //Datos de entrada
     printf("Ingrese numero1:\n");
     scanf("%i", &a);
 
     printf("Ingrese el numero2:\n");
     scanf("%i", &b);
-
+    //Proceso
     c = a + b;
-
+    //Datos de salida
     printf("La suma es: %i", c);
 
 return 0;
@@ -120,26 +88,55 @@ return 0;
 <img width="1083" height="165" alt="image" src="https://github.com/user-attachments/assets/266e5fd9-7f89-4cfe-9920-79414d53ce14" />
 
 ---
-## Ejercicio ejemplo 3
+### Ejercicio ejemplo 2
 ```
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(){
+int main() {
+    //Definicion de variables
+    float base, altura, area;
+    //Datos de entrada
+    printf("Ingrese la base:\n");
+    scanf("%f", &base);
 
-    int numero1, doble, triple;
-    printf("Ingrese el valor del numero:\n");
-    scanf("%i",&numero1);
-
-    doble = numero1 * 2;
-    triple = numero1 * 3;
-
-    printf("El valor del doble de su numero es:%i\n", doble);
-    printf("El valor del triple de su numero es:%i\n", triple);
+    printf("Ingrese la altura:\n");
+    scanf("%f", &altura);
+    //Proceso
+    area = (base * altura)/ 2;
+    //Datos de salida
+    printf("Su area es de:%f", area);
 
     return 0;
 }
 ```
-<img width="1081" height="160" alt="image" src="https://github.com/user-attachments/assets/ac382720-1f2b-45b3-b569-336f6ec27252" />
+<img width="1081" height="165" alt="image" src="https://github.com/user-attachments/assets/af54ed0a-4bad-4e47-97da-1f45f1d300ce" />
+
+
+
+---
+## Ejercicio ejemplo 3
+```
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+int main() {
+    //Definicion de variables
+    float radio, longitud, area;
+    //Datos de entrada
+    printf("Escriba el valor del radio:\n");
+    scanf("%f", &radio);
+    //Proceso
+    longitud = 2*M_PI*radio;
+    area = M_PI*pow(radio, 2);
+    //Datos de salida
+    printf("El valor de la longitud es:%f\n", longitud);
+    printf("El valor del area es:%f\n", area);
+
+    return 0;
+}
+```
+<img width="981" height="165" alt="image" src="https://github.com/user-attachments/assets/c5b8110c-0778-4472-ba3f-ad2e69713568" />
 
 ---
