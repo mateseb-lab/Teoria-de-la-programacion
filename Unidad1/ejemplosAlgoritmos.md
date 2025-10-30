@@ -3,7 +3,7 @@
 ### Durante la unidad 1 se practico en pseudocodigo(PSeInt) y el lenguaje de programacion C diferentes ejercicios con el proposito de desarrollar y practicar el manejo de algoritmos para resolver un problema determinado.
 ### Un algoritmo de tipo lineal, o también secuencial, se caracteriza por seguir una ejecuccion recta en la ejecución de sus instrucciones. Estas se van realizando una después de otra, sin desviaciones ni tomas de decisión, desde el principio hasta el fin. Cada acción se apoya en la ejecucion anterior, completándose una única vez, trazando así un flujo continuo hasta alcanzar la solución.
 ---
-## 3.1 Ejemplos de algoritmos elaborado en el pseudocodigo PSeInt.
+## 3.1 Ejemplos de algoritmos elaborados en el pseudocodigo PSeInt.
 ---
 ### Ejercicio ejemplo 1.
 >En el siguiente ejercicio se elaboró un algoritmo que pueda resolver operaciones matemáticas para realizar la conversión de datos medidos en metros a kilómetros, centímetros y milímetros.
@@ -69,7 +69,7 @@ FinAlgoritmo
 ## [➡️Diagrama de flujo](../Unidad1/diagramasflujo/Imagen3.md)
 ## [➡️Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba3.md)
 ---
-## 3.2 Ejemplos de algoritmos elaborado en el lenguaje de programacion C.
+## 3.2 Ejemplos de algoritmos elaborados en el lenguaje de programacion C.
 ---
 ### Ejercicio ejemplo 1
 ```
