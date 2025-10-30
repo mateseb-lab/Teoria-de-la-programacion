@@ -1,4 +1,3 @@
-# [⬅️](../Unidad1/contenidosunidad1.md)Contenido de unidad 1
 ---
 ## 2. 🧱Programacion por bloques 
 ---
@@ -32,4 +31,4 @@
 
 ### Así también la programación por bloques, a pesar de sus ventajas, tiene ciertas desventajas, como que puede presentarse que la persona o estudiante que no tenga un conocimiento previo acerca de estas herramientas tendrá cierta dificultad para adaptarse, lo que significa mayor tiempo, generando diferencias de progreso de aprendizaje, entre otros[6].
 ---
-
+# [⬅️](../Unidad1/contenidosunidad1.md)Contenido de unidad 1
