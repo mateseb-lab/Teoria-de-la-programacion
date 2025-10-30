@@ -64,6 +64,7 @@ Algoritmo longitudArea
 FinAlgoritmo
 ```
 ## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen3.md)
+## [👉Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba3.md)
 ---
 ## 3.2 Ejemplos de algoritmos elaborado en el lenguaje de programacion C.
 ---
