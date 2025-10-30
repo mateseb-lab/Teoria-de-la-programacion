@@ -6,7 +6,7 @@
 ## 3.1 Ejemplos de algoritmos elaborado en el pseudocodigo PSeInt.
 ---
 ### Ejercicio ejemplo 1.
->En el siguente ejercicio se elaboro un algoritmo que pueda hacer resolver opraciones matematicas para realizar la conversion de datos medidos en metros diviendo a kilometros, siendo una cantidad mayor y multiplicando centimetros y milimetros por lo que son una cantidad menor.
+>En el siguiente ejercicio se elaboró un algoritmo que pueda resolver operaciones matemáticas para realizar la conversión de datos medidos en metros a kilómetros, centímetros y milímetros.
 ---
 ```
 Algoritmo equivalencia
@@ -29,7 +29,7 @@ FinAlgoritmo
 ## [👉Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba1.md)
 ---
 ### Ejercicio ejemplo 2.
->El algoritmo mediante la formula de area, utiliza los datos de la base y la altura que son pedidas, para realizar la operacion dividido entre dos de la formula para calcular el resultado de area.
+>El algoritmo, mediante la fórmula de área, utiliza los datos de la base y la altura que son pedidas para realizar la operación dividida entre dos de la fórmula para después calcular el resultado de área.
 ---
 ```
 Algoritmo operacionArea
@@ -50,7 +50,7 @@ FinAlgoritmo
 ## [👉Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba2.md)
 ---
 ### Ejercicio ejemplo 3.
->El algoritmo presentado realiza el calculo de formulas para encontrar la longitud y Area, utilizando el valor PI y el dato de Area pedida para llegar al resultado final.
+>El algoritmo presentado realiza el cálculo de fórmulas para encontrar la longitud y el área, utilizando el valor PI y el dato de área pedida para llegar al resultado final.
 ---
 ```
 Algoritmo longitudArea
