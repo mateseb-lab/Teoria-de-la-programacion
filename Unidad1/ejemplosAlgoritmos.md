@@ -8,18 +8,20 @@
 ### Ejercicio ejemplo 1.
 ---
 ```
-Algoritmo suma
-	//Definicion de variables
-	Definir numero1, numero2, resultado como Real
+Algoritmo equivalencia
+	// Definicion de variables//
+	Definir metros, km, cm, mm como Real;
 	//Datos de entrada
-	Escribir "Ingrese numero1";
-	Leer numero1;
-	Escribir "Ingrese numero2";
-	Leer numero2;
+	Escribir "Ingrese su valor en metros: ";
+	Leer metros;
 	//Proceso
-	resultado = numero1 + numero2;
+	km = metros / 1000;
+    cm = metros * 100;
+    mm = metros * 1000;
 	//Datos de salida
-	Escribir "Su suma es: ", resultado;
+	Escribir "Su valor en km es: ", km;
+	Escribir "Su valor en cm es:", cm;
+	Escribir "Su valor en mm es:", mm;
 FinAlgoritmo
 ```
 ## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen1.md)
@@ -66,26 +68,27 @@ FinAlgoritmo
 ### Ejercicio ejemplo 1
 ```
 #include <stdio.h>
-#include <string.h>
+#include <stdlib.h>
 
 int main(){
     //Definicion de variables
-    int a, b, c;
+    float metros, km, cm, mm;
     //Datos de entrada
-    printf("Ingrese numero1:\n");
-    scanf("%i", &a);
-
-    printf("Ingrese el numero2:\n");
-    scanf("%i", &b);
+    printf("Ingrese su valor en metros:\n");
+    scanf("%f", &metros);
     //Proceso
-    c = a + b;
+    km = metros / 1000;
+    cm = metros * 100;
+    mm = metros * 1000;
     //Datos de salida
-    printf("La suma es: %i", c);
+    printf("el valor en kilometros es:%f\n", km);
+    printf("el valor en centimetros es:%f\n", cm);
+    printf("el valor en milimetros es:%f\n", mm);
 
-return 0;
+    return 0;
 }
 ```
-<img width="1083" height="165" alt="image" src="https://github.com/user-attachments/assets/266e5fd9-7f89-4cfe-9920-79414d53ce14" />
+<img width="968" height="165" alt="image" src="https://github.com/user-attachments/assets/aa620bf6-8a40-40d8-94f8-ba195ffd1ae7" />
 
 ---
 ### Ejercicio ejemplo 2
