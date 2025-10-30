@@ -32,7 +32,10 @@
 ---
 ### 
 ### El pseudocódigo normalmente se utiliza como primer acercamiento para presentar conceptos fundamentales, por ejemplo el uso de expresiones, estructuras de control, variables y demás, sin necesidad de enfrentarse a los rasgos específicos de la sintaxis en un lenguaje auténtico[4].
-### Existen varios pseudocódigos que ayudan a introducirse a los conceptos de programación, como la herramienta PSeInt. La herramienta PSeInt está elaborada para ayudar a los estudiantes que están empezando a desarrollar algoritmos o programas computacionales, utilizada para el aprendizaje de lógica de programación, especialmente a estudiantes que no tengan conocimientos de estos temas, haciendo uso de un pseudolenguaje muy intuitivo que permite entender fundamentos de algoritmos y otros conceptos computacionales[4].
+### Existen varios pseudocódigos que ayudan a introducirse a los conceptos de programación, como la herramienta PSeInt[4].
+### La herramienta PSeInt está elaborada para ayudar a los estudiantes que están empezando a desarrollar algoritmos o programas computacionales, utilizada para el aprendizaje de lógica de programación, especialmente a estudiantes que no tengan conocimientos de estos temas, haciendo uso de un pseudolenguaje muy intuitivo que permite entender fundamentos de algoritmos y otros conceptos computacionales[4].
+---
+>La imagen muestra un algoritmo elaborado en el pseudocodigo PSeInt, calculando el volumen mediante el alto, largo y ancho.
 ---
 <img width="718" height="425" alt="image" src="https://github.com/user-attachments/assets/8a24c273-3e7c-4b8b-9fbb-3f5729e659a3" />
 
@@ -46,7 +49,7 @@
 ---
 ## Diagrama de flujo 
 ---
-### Los diagramas de flujo se consideran como una herramienta principal en el acercamiento del estudiante a la lógica de programación, ya que permite visualizar y analizar de manera gráfica el proceso de pasos que lleva al resultado de un problema planteado, si bien se requiere un mayor esfuerzo al realizar diagramas de flujo en hoja o pruebas de escritorio que recorren cada proceso y variable del diagrama de flujo. Existen múltiples herramientas de software como DFD o PSeInt que ayudan a verificar pruebas de escritorio con el ordenador[5].
+### Los diagramas de flujo se consideran como una herramienta principal en el acercamiento del estudiante a la lógica de programación, ya que permite visualizar y analizar de manera gráfica el proceso de pasos que lleva al resultado de un problema planteado, si bien se requiere un mayor esfuerzo al realizar diagramas de flujo en hoja o pruebas de escritorio que recorren cada proceso y variable del diagrama de flujo[5].
 ### Los diagramas de flujo contienen iconos; cada uno indica la etapa del algoritmo, su inicio, proceso, datos de entrada, datos de salida, entre otros, que son muy útiles para identificar cada parte del proceso[3].
 ---
 <img width="761" height="821" alt="image" src="https://github.com/user-attachments/assets/e0a0741b-7620-4329-992b-957b7c2bbc93" />
