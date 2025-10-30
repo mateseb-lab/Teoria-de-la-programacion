@@ -18,6 +18,6 @@
 
 ---
 
-## 🔗 [📂 Portafolio Digital de Aprendizaje — Unidad 1](contenidos.md)
+## 🔗 [📂 Portafolio Digital de Aprendizaje](contenidos.md)
 
 </div>
