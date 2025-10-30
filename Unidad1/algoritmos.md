@@ -41,13 +41,11 @@
 <img width="701" height="464" alt="image" src="https://github.com/user-attachments/assets/de2069e3-34a9-49f0-893f-4b372f6322c5" />
 
 ---
-> También, la herramienta PSeInt ayuda a realizar diagramas de flujo de manera automática con el paso del algoritmo que se realiza.
+> También, la herramienta PSeInt ayuda a realizar diagramas de flujo de manera automática con el paso del algoritmo que se realiza para tener una mejor comprension de la estructura del algoritmo.
 ---
 
 <img width="1172" height="792" alt="image" src="https://github.com/user-attachments/assets/63479f36-6f5b-4c8d-9144-42dbcacfb896" />
 
----
-### La herramienta PSeInt presenta diferentes ventajas, al ser muy intuitiva en los pasos ordenados diseñados en el algoritmo, es fácil de comprender para estudiantes y someterse a estos temas, pero también tiene ciertas limitantes, ya que al solo ser una herramienta de enseñanza, no está diseñada para programas reales[4].
 ---
 ## Diagrama de flujo 
 ---
