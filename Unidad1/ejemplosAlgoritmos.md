@@ -25,8 +25,8 @@ Algoritmo equivalencia
 	Escribir "Su valor en mm es:", mm;
 FinAlgoritmo
 ```
-## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen1.md)
-## [👉Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba1.md)
+## [➡️Diagrama de flujo](../Unidad1/diagramasflujo/Imagen1.md)
+## [➡️Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba1.md)
 ---
 ### Ejercicio ejemplo 2.
 >El algoritmo, mediante la fórmula de área, utiliza los datos de la base y la altura que son pedidas para realizar la operación dividida entre dos de la fórmula para después calcular el resultado de área.
@@ -46,8 +46,8 @@ Algoritmo operacionArea
 	Escribir "Su area es de: ", area;
 FinAlgoritmo
 ```
-## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen2.md)
-## [👉Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba2.md)
+## [➡️Diagrama de flujo](../Unidad1/diagramasflujo/Imagen2.md)
+## [➡️Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba2.md)
 ---
 ### Ejercicio ejemplo 3.
 >El algoritmo presentado realiza el cálculo de fórmulas para encontrar la longitud y el área, utilizando el valor PI y el dato de área pedida para llegar al resultado final.
@@ -66,8 +66,8 @@ Algoritmo longitudArea
 	Escribir "Su Longitud es: ",Op1,"Su Area es: ",Op2;
 FinAlgoritmo
 ```
-## [👉Diagrama de flujo](../Unidad1/diagramasflujo/Imagen3.md)
-## [👉Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba3.md)
+## [➡️Diagrama de flujo](../Unidad1/diagramasflujo/Imagen3.md)
+## [➡️Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba3.md)
 ---
 ## 3.2 Ejemplos de algoritmos elaborado en el lenguaje de programacion C.
 ---
