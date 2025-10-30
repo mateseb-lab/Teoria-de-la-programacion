@@ -25,6 +25,9 @@
 <img width="813" height="346" alt="image" src="https://github.com/user-attachments/assets/3f9ca37a-974b-4ae4-a71f-47bfb0b70a9e" />
 
 ## Cuantitativos: Algoritmos que contienen pasos que tienen operaciones matemáticas como suma, resta, multiplicación y división, siendo más precisos que los cualitativos, ya que las instrucciones deben ser claras y exactas para obtener los resultados deseados[3].
+
+
+>Algoritmo elaborado en el pseudocódigo PSeInt, que calcula el resultado de porcentaje de mujeres y hombres según la cantidad de cada grupo.
 <img width="813" height="390" alt="image" src="https://github.com/user-attachments/assets/1778a8e6-1d93-40d1-bea9-571b45d22415" />
 
 ---
@@ -35,14 +38,14 @@
 ### Existen varios pseudocódigos que ayudan a introducirse a los conceptos de programación, como la herramienta PSeInt[4].
 ### La herramienta PSeInt está elaborada para ayudar a los estudiantes que están empezando a desarrollar algoritmos o programas computacionales, utilizada para el aprendizaje de lógica de programación, especialmente a estudiantes que no tengan conocimientos de estos temas, haciendo uso de un pseudolenguaje muy intuitivo que permite entender fundamentos de algoritmos y otros conceptos computacionales[4].
 ---
->La imagen muestra un algoritmo elaborado en el pseudocodigo PSeInt, calculando el volumen mediante el alto, largo y ancho.
----
-<img width="718" height="425" alt="image" src="https://github.com/user-attachments/assets/8a24c273-3e7c-4b8b-9fbb-3f5729e659a3" />
+>La imagen muestra un algoritmo elaborado en el pseudocódigo PSeInt, calculando el volumen multiplicando el alto, largo y ancho.
+<img width="701" height="464" alt="image" src="https://github.com/user-attachments/assets/de2069e3-34a9-49f0-893f-4b372f6322c5" />
 
 ---
-### También, la herramienta PSeInt ayuda a realizar diagramas de flujo de manera automática con el paso del algoritmo que se realiza[4].
+> También, la herramienta PSeInt ayuda a realizar diagramas de flujo de manera automática con el paso del algoritmo que se realiza.
 ---
-<img width="1190" height="787" alt="image" src="https://github.com/user-attachments/assets/dbd4d02d-510f-4053-ac01-b6b38734d10c" />
+
+<img width="1172" height="792" alt="image" src="https://github.com/user-attachments/assets/63479f36-6f5b-4c8d-9144-42dbcacfb896" />
 
 ---
 ### La herramienta PSeInt presenta diferentes ventajas, al ser muy intuitiva en los pasos ordenados diseñados en el algoritmo, es fácil de comprender para estudiantes y someterse a estos temas, pero también tiene ciertas limitantes, ya que al solo ser una herramienta de enseñanza, no está diseñada para programas reales[4].
