@@ -6,8 +6,11 @@
 Dentro de esta unidad de aprendizaje en la unidad 1 se practicó en base a los algoritmos, pseudocodigos, utilizando la herramienta PSeInt como introduccion para conocer el diseño y ejecución de un algoritmo. Mediante practica y desarrollo, se mejoro  el desarrollo de la estructura lógica que sigue un algoritmo para resolver problemas determinado.
 ### ¿Que es un algoritmo?
 Un algoritmo puede definirse como una secuencia de pasos, lógicamente ordenados y que son finitos, entregando una solución a un problema determinado[1].
+
 Los algoritmos respecto a informática son un grupo de reglas que ayudan a indicar al ordenador cómo realizar una tarea, como en un programa que señala al computador qué pasos debe seguir y en qué orden debe hacerlo, lo cual se logra mediante un lenguaje de programación[1]. 
+
 El algoritmo es como una receta para cocinar un plato; las personas ya utilizaban algoritmos mucho antes, siguiendo pasos lógicos para llegar al resultado. Los algoritmos son omnipresentes, ya que son parte fundamental en la informática y la mayoría de programas que se utilizan en la tecnología actual[1].
+
 En realidad, aplicamos algoritmos frecuentemente sin ser conscientes. En la época de la inteligencia artificial, el machine learning y la ciencia de datos, los algoritmos son más relevantes que en ningún otro momento y constituyen el combustible de la reciente revolución industrial[1].
 
 ### Características que contiene un algoritmo:
@@ -41,7 +44,9 @@ Cuantitativos: Algoritmos que contienen pasos que tienen operaciones matemática
 ## 1.2 Pseudocodigos.
 --- 
 El pseudocódigo normalmente se utiliza como primer acercamiento para presentar conceptos fundamentales, por ejemplo el uso de expresiones, estructuras de control, variables y demás, sin necesidad de enfrentarse a los rasgos específicos de la sintaxis en un lenguaje auténtico[4].
+
 Existen varios pseudocódigos que ayudan a introducirse a los conceptos de programación, como la herramienta PSeInt[4].
+
 La herramienta PSeInt está elaborada para ayudar a los estudiantes que están empezando a desarrollar algoritmos o programas computacionales, utilizada para el aprendizaje de lógica de programación, especialmente a estudiantes que no tengan conocimientos de estos temas, haciendo uso de un pseudolenguaje muy intuitivo que permite entender fundamentos de algoritmos y otros conceptos computacionales[4].
 
 ---
@@ -52,6 +57,7 @@ La herramienta PSeInt está elaborada para ayudar a los estudiantes que están e
 ## Diagrama de flujo 
 ---
 Los diagramas de flujo se consideran como una herramienta principal en el acercamiento del estudiante a la lógica de programación, ya que permite visualizar y analizar de manera gráfica el proceso de pasos que lleva al resultado de un problema planteado, si bien se requiere un mayor esfuerzo al realizar diagramas de flujo en hoja o pruebas de escritorio que recorren cada proceso y variable del diagrama de flujo[5].
+
 Los diagramas de flujo contienen iconos; cada uno indica la etapa del algoritmo, su inicio, proceso, datos de entrada, datos de salida, entre otros, que son muy útiles para identificar cada parte del proceso[3].
 
 ---
