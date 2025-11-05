@@ -73,4 +73,29 @@ Los diagramas de flujo contienen iconos; cada uno indica la etapa del algoritmo,
 Gracias al uso de diagramas de flujo se pudo obtener una mejor comprensión acerca de los procesos del algoritmo, desarrollando una secuencia lógica ordenada de cada parte del proceso, agilizando el proceso de aprendizaje de programación. 
 
 ## Pruebas de escritorio.
+Una prueba de escritorio consiste en una verificación lógica de un algoritmo de resolución. La prueba de escritorio es una herramienta que permite comprender lo que hace un algoritmo específico o confirmar que este cumple con la especificación sin necesidad de ejecutarlo[8].
+
+Además, permite la optimización de un algoritmo al analizar cómo podemos alcanzar un resultado específico con menos pasos[8].
+
+Las pruebas de escritorio consiste en asignar valores a las variables que hemos establecido y que siguen el flujo del programa, para verificar si al final el resultado es correcto[8].
+
+### Es la fase más importante en el progreso de un programa, ya que al efectuar la prueba de escritorio podemos conocer:
+
+1. Si el programa realiza las funciones que debería[8].
+
+2. Si no cumple con lo que debería, nos facilitará la identificación de errores, tales como:
+
+•Si alguna instrucción o paso no está en la secuencia adecuada[8].
+
+•Se tenga algo faltante[8].
+
+•Si algo esta de mas[8].
+
+•Si los pasos o las instrucciones se repiten más o menos veces de lo que corresponde[8].
+
+•Si las indicaciones se encuentran en el orden correcto[8].
+
+•Otros errores que podrían ocurrir[8].
+
+La prueba de escritorio consiste en aplicar un proceso de simulación con el algoritmo desarrollado para observar qué haría la computadora. Esta tarea se realiza basándose en una tabla que tiene como encabezados las variables empleadas en el algoritmo. Se van colocando los valores que adquieren, uno tras otro y siguiendo el flujo sugerido por el algoritmo, hasta llegar al final[8].
 # [⬅️](../Unidad1/contenidosunidad1.md)Contenido de unidad 1
