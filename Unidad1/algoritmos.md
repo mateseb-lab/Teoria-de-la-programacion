@@ -71,4 +71,6 @@ Los diagramas de flujo contienen iconos; cada uno indica la etapa del algoritmo,
 
 ---
 Gracias al uso de diagramas de flujo se pudo obtener una mejor comprensión acerca de los procesos del algoritmo, desarrollando una secuencia lógica ordenada de cada parte del proceso, agilizando el proceso de aprendizaje de programación. 
+
+## Pruebas de escritorio.
 # [⬅️](../Unidad1/contenidosunidad1.md)Contenido de unidad 1
