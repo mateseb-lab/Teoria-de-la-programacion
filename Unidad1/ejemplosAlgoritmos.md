@@ -3,6 +3,15 @@
 Durante la unidad 1 se practico en pseudocodigo(PSeInt) y el lenguaje de programacion C diferentes ejercicios con el proposito de desarrollar y practicar el manejo de algoritmos para resolver un problema determinado.
 
 Un algoritmo de tipo lineal, o también secuencial, se caracteriza por seguir una ejecuccion recta en la ejecución de sus instrucciones. Estas se van realizando una después de otra, sin desviaciones ni tomas de decisión, desde el principio hasta el fin. Cada acción se apoya en la ejecucion anterior, completándose una única vez, trazando así un flujo continuo hasta alcanzar la solución[3].
+### Lenguaje de programacion C
+El lenguaje de programación C, conocido también como lenguaje de programación de sistemas, fue creado en 1972 por Dennis Ritchie en la zona de la empresa AT&T. El propósito de creación de este lenguaje fue el esbozo del sistema Unix, comprendiendo que era un lenguaje de programación muy avanzado y manipulable, siendo popular entre los programadores, siendo fundamental en los años 80.[9]
+
+Este lenguaje tiene un uso muy amplio, pues se utiliza en el campo científico, lo que significa que se utiliza en estudios relacionados con la informática, matemática, química y física. Asimismo, este lenguaje es útil para los modelos de simuladores en la industria, sistemas de información y robótica, entre otros.[9]
+
+Existen varios tipos de C implementados por muchas compañías debido al incremento de uso de microcomputadoras, por lo cual ANSI (American National Standards Institute) creó una definición que no sea confusa de C 
+sin depender de la máquina, para poder ser utilizada por todos los tipos de C. Su característica más importante es ser portable, logrando adaptarse a programas que han sido escritos para cierto tipo de computadora hacia otra, además de ser estructurado, pudiendo dividirse entre módulos autónomos.[9]
+
+Este lenguaje es estructurado; por lo tanto, no puede declarar subrutinas, que son partes pequeñas de programa. El objetivo del lenguaje C es que para cada parte del lenguaje solo se necesiten reducidas instrucciones en lenguaje de máquina sin un soporte intenso innecesario.Ademas de ser Versatil y potente, dado que ha sido utilizado en numerosos proyectos, como la creación de sistemas operativos, procesadores de texto, entre otros.[9]
 
 ---
 ## Ejemplos de algoritmos elaborados en el pseudocodigo PSeInt.
