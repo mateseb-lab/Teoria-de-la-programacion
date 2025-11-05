@@ -54,7 +54,7 @@ La herramienta PSeInt está elaborada para ayudar a los estudiantes que están e
 <img width="701" height="464" alt="image" src="https://github.com/user-attachments/assets/de2069e3-34a9-49f0-893f-4b372f6322c5" />
 
 ---
-## Diagrama de flujo 
+## 3️⃣ Diagrama de flujo 
 ---
 Los diagramas de flujo se consideran como una herramienta principal en el acercamiento del estudiante a la lógica de programación, ya que permite visualizar y analizar de manera gráfica el proceso de pasos que lleva al resultado de un problema planteado, si bien se requiere un mayor esfuerzo al realizar diagramas de flujo en hoja o pruebas de escritorio que recorren cada proceso y variable del diagrama de flujo[5].
 
