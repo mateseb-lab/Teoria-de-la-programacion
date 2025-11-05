@@ -36,6 +36,8 @@
 
 [8] “¿Qué es la prueba de escritorio en seudocódigo?”, Scribd, Accedido: Nov. 5, 2025. [Online]. Disponible en: https://es.scribd.com/document/463660396/Que-Es-La-Prueba-de-Escritorio-en-Seudocodigo
 
+[9] E. H. Tacuri Casaño, “LENGUAJE DE PROGRAMACIÓN. Fundamentos de programación. Algoritmos, herramientas, programación estructurada. Aplicación a los lenguajes de Programación Pascal, el lenguaje de programación ‘C’ y C++ y otros lenguajes actualizados. Introducción al lenguaje de programación MATLAB. Lenguajes de Programación Orientado a Objetos. Aplicaciones,” Monografía de pregrado, Universidad Nacional de Educación Enrique Guzmán y Valle, Lima, Perú, 15 jul. 2021. [En línea]. Disponible: https://n9.cl/z8wat
+
 ---
 
 ### 🤖 Uso de IA Cooperativa  
