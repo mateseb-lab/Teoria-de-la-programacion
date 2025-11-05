@@ -5,10 +5,12 @@ Durante la unidad 1 se practico en pseudocodigo(PSeInt) y el lenguaje de program
 Un algoritmo de tipo lineal, o también secuencial, se caracteriza por seguir una ejecuccion recta en la ejecución de sus instrucciones. Estas se van realizando una después de otra, sin desviaciones ni tomas de decisión, desde el principio hasta el fin. Cada acción se apoya en la ejecucion anterior, completándose una única vez, trazando así un flujo continuo hasta alcanzar la solución[3].
 
 ---
-## 3.1 Ejemplos de algoritmos elaborados en el pseudocodigo PSeInt.
+## Ejemplos de algoritmos elaborados en el pseudocodigo PSeInt.
 ---
 ### Ejercicio ejemplo 1.
+---
 >En el siguiente ejercicio se elaboró un algoritmo que pueda resolver operaciones matemáticas para realizar la conversión de datos medidos en metros a kilómetros, centímetros y milímetros.
+### Ejercicio elaborado en PSeInt.
 ---
 ```
 Algoritmo equivalencia
@@ -29,51 +31,9 @@ FinAlgoritmo
 ```
 ## [➡️Diagrama de flujo](../Unidad1/diagramasflujo/Imagen1.md)
 ## [➡️Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba1.md)
+
+### Ejercicio elaborado en lenguaje de programacion C.
 ---
-### Ejercicio ejemplo 2.
->El algoritmo, mediante la fórmula de área, utiliza los datos de la base y la altura que son pedidas para realizar la operación dividida entre dos de la fórmula para después calcular el resultado de área.
----
-```
-Algoritmo operacionArea
-	//Definir variables
-	Definir base, altura, area como Real;
-	//Datos de entrada
-	Escribir "Ingrese la base:";
-	Leer base;
-	Escribir "Ingrese la altura:";
-	Leer altura;
-	//Proceso 
-	area = (base*altura)/2;
-	//Datos de salida
-	Escribir "Su area es de: ", area;
-FinAlgoritmo
-```
-## [➡️Diagrama de flujo](../Unidad1/diagramasflujo/Imagen2.md)
-## [➡️Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba2.md)
----
-### Ejercicio ejemplo 3.
->El algoritmo presentado realiza el cálculo de fórmulas para encontrar la longitud y el área, utilizando el valor PI y el dato de área pedida para llegar al resultado final.
----
-```
-Algoritmo longitudArea
-	//Definicion de variables//
-	Definir radio, Op1, Op2 como Real;
-	//Datos de entrada
-	Escribir "Ingrese radio: ";
-	Leer radio;
-	//Proceso//
-	Op1 = 2*PI*radio;
-	OP2 = PI*radio^2;
-	//Datos de salida//
-	Escribir "Su Longitud es: ",Op1,"Su Area es: ",Op2;
-FinAlgoritmo
-```
-## [➡️Diagrama de flujo](../Unidad1/diagramasflujo/Imagen3.md)
-## [➡️Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba3.md)
----
-## 3.2 Ejemplos de algoritmos elaborados en el lenguaje de programacion C.
----
-### Ejercicio ejemplo 1
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -98,8 +58,33 @@ int main(){
 ```
 <img width="1081" height="165" alt="image" src="https://github.com/user-attachments/assets/aa620bf6-8a40-40d8-94f8-ba195ffd1ae7" />
 
+
 ---
-### Ejercicio ejemplo 2
+### Ejercicio ejemplo 2.
+---
+>El algoritmo, mediante la fórmula de área, utiliza los datos de la base y la altura que son pedidas para realizar la operación dividida entre dos de la fórmula para después calcular el resultado de área.
+### Ejercicio elaborado en PSeInt.
+---
+```
+Algoritmo operacionArea
+	//Definir variables
+	Definir base, altura, area como Real;
+	//Datos de entrada
+	Escribir "Ingrese la base:";
+	Leer base;
+	Escribir "Ingrese la altura:";
+	Leer altura;
+	//Proceso 
+	area = (base*altura)/2;
+	//Datos de salida
+	Escribir "Su area es de: ", area;
+FinAlgoritmo
+```
+## [➡️Diagrama de flujo](../Unidad1/diagramasflujo/Imagen2.md)
+## [➡️Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba2.md)
+
+### Ejercicio elaborado en lenguaje de programacion C.
+---
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -123,10 +108,31 @@ int main() {
 ```
 <img width="1081" height="165" alt="image" src="https://github.com/user-attachments/assets/af54ed0a-4bad-4e47-97da-1f45f1d300ce" />
 
-
-
 ---
-## Ejercicio ejemplo 3
+### Ejercicio ejemplo 3.
+---
+>El algoritmo presentado realiza el cálculo de fórmulas para encontrar la longitud y el área, utilizando el valor PI y el dato de área pedida para llegar al resultado final.
+### Ejercicio elaborado en PSeInt.
+---
+```
+Algoritmo longitudArea
+	//Definicion de variables//
+	Definir radio, Op1, Op2 como Real;
+	//Datos de entrada
+	Escribir "Ingrese radio: ";
+	Leer radio;
+	//Proceso//
+	Op1 = 2*PI*radio;
+	OP2 = PI*radio^2;
+	//Datos de salida//
+	Escribir "Su Longitud es: ",Op1,"Su Area es: ",Op2;
+FinAlgoritmo
+```
+## [➡️Diagrama de flujo](../Unidad1/diagramasflujo/Imagen3.md)
+## [➡️Prueba de Escritorio](../Unidad1/pruebasEscritorio/prueba3.md)
+
+### Ejercicio elaborado en lenguaje de programacion C.
+---
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -151,4 +157,5 @@ int main() {
 <img width="981" height="165" alt="image" src="https://github.com/user-attachments/assets/c5b8110c-0778-4472-ba3f-ad2e69713568" />
 
 ---
+
 # [⬅️](../Unidad1/contenidosunidad1.md)Contenido de unidad 1
