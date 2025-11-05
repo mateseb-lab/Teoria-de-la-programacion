@@ -1,7 +1,7 @@
 ---
-## 1. 📊Algoritmos, pseudocodigos, diagrama de flujo.
+## 📊Algoritmos, pseudocodigos, diagrama de flujo.
 ---
-## 1.1 Algoritmos.
+## 1️⃣ Algoritmos.
 ---
 Dentro de esta unidad de aprendizaje en la unidad 1 se practicó en base a los algoritmos, pseudocodigos, utilizando la herramienta PSeInt como introduccion para conocer el diseño y ejecución de un algoritmo. Mediante practica y desarrollo, se mejoro  el desarrollo de la estructura lógica que sigue un algoritmo para resolver problemas determinado.
 ### ¿Que es un algoritmo?
