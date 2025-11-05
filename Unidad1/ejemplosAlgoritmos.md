@@ -7,7 +7,7 @@ Un algoritmo de tipo lineal, o también secuencial, se caracteriza por seguir un
 ---
 ## Ejemplos de algoritmos elaborados en el pseudocodigo PSeInt.
 ---
-### Ejercicio ejemplo 1.
+### Ejercicio ejemplo 1️⃣
 ---
 >En el siguiente ejercicio se elaboró un algoritmo que pueda resolver operaciones matemáticas para realizar la conversión de datos medidos en metros a kilómetros, centímetros y milímetros.
 ### Ejercicio elaborado en PSeInt.
@@ -60,7 +60,7 @@ int main(){
 
 
 ---
-### Ejercicio ejemplo 2.
+### Ejercicio ejemplo 2️⃣
 ---
 >El algoritmo, mediante la fórmula de área, utiliza los datos de la base y la altura que son pedidas para realizar la operación dividida entre dos de la fórmula para después calcular el resultado de área.
 ### Ejercicio elaborado en PSeInt.
@@ -109,7 +109,7 @@ int main() {
 <img width="1081" height="165" alt="image" src="https://github.com/user-attachments/assets/af54ed0a-4bad-4e47-97da-1f45f1d300ce" />
 
 ---
-### Ejercicio ejemplo 3.
+### Ejercicio ejemplo 3️⃣
 ---
 >El algoritmo presentado realiza el cálculo de fórmulas para encontrar la longitud y el área, utilizando el valor PI y el dato de área pedida para llegar al resultado final.
 ### Ejercicio elaborado en PSeInt.
