@@ -1,5 +1,5 @@
 ---
-## 2. 🧱Programacion por bloques 
+## 🧱Programacion por bloques 
 ---
 Dentro de la Unidad 1, se practicó con juegos de programación por bloques para agilizar el pensamiento lógico y desenvolvernos a la hora de resolver problemas en algoritmos computacionales.
 La programación por bloques implica desplazar, compilar y arrastrar bloques de programación de una forma específica para que el programa en cuestión ejecute la tarea o instrucción programada. La interfaz de las diferentes herramientas de programación por bloques es simple y tiene una configuración que cualquier usuario puede utilizar con facilidad[6].
