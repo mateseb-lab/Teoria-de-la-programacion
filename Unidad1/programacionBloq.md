@@ -3,6 +3,7 @@
 ---
 Dentro de la Unidad 1, se practicó con juegos de programación por bloques para agilizar el pensamiento lógico y desenvolvernos a la hora de resolver problemas en algoritmos computacionales.
 La programación por bloques implica desplazar, compilar y arrastrar bloques de programación de una forma específica para que el programa en cuestión ejecute la tarea o instrucción programada. La interfaz de las diferentes herramientas de programación por bloques es simple y tiene una configuración que cualquier usuario puede utilizar con facilidad[6].
+
 El lenguaje de programación se hace más accesible para los estudiantes de casi cualquier nivel educativo gracias a la programación por bloques, que lo simplifica y facilita. Asimismo, las aplicaciones didácticas de la programación en bloques son diversas según las herramientas empleadas[6].
 
 ---
@@ -21,14 +22,20 @@ La programación en bloques es altamente mustra ventajas en el fortalecimiento d
 Hay múltiples aplicaciones y plataformas de programación por bloques, todas con una lógica, diseñadas para ser utilizadas en la etapa de aprendizaje, aunque con enormes diferencias en términos de sus posibilidades y su facilidad de uso. Algunas, las cuales son:[7].
 
 *Scratch:* Creado por el Instituto de Massachusetts del Instituto Tecnológico de Massachusetts (MIT), tal vez sea la plataforma de programación por bloques más difundida gracias a su entorno gráfico simple y atractivo, así como a sus opciones. También tiene tiene una gran alternativa de añadir y diversidad de bloques, extensiones que expandan su funcionalidad todavía más[7].
+
 *Bitbloq:* Es una herramienta que proporciona una suite integral de programas. Comprende un ambiente de programación para sus kits estándar, los kits Junior, una aplicación de diseño e impresión 3D, una interfaz para el desarrollo de aplicaciones móviles y una versión avanzada para Arduino[7].
+
 *App Inventor:* Desarrollada en sus inicios por Google Labs y ahora bajo la gestión del MIT, la plataforma App Inventor tiene como objetivo la creación de apps móviles para Android. Debido a su complejidad, estaría más orientada a alumnos de la educación secundaria. Nos posibilita el uso de los diferentes sensores y funciones de un celular[7].
 
 ### *La programación por bloques presenta múltiples ventajas como:*
 •Refuerza el trabajo en equipo[6].
+
 •Promueve un vínculo tanto educativo como recreativo con las tecnologías actuales[6].
+
 •Al convertirse en los protagonistas de sus propias creaciones, se estimula la imaginación y la creatividad de los alumnos[6].
+
 •La habilidad de resolver problemas se mejora, ya que constantemente es necesario solucionar una circunstancia para poder avanzar a la siguiente o llegar al objetivo final, mejorando así la planificación y la organización[6].
+
 •Ya que la programación se organiza en bloques clasificados por colores y categorías, el trabajo es más intuitivo y visual[6].
 
 Así también la programación por bloques, a pesar de sus ventajas, tiene ciertas desventajas, como que puede presentarse que la persona o estudiante que no tenga un conocimiento previo acerca de estas herramientas tendrá cierta dificultad para adaptarse, lo que significa mayor tiempo, generando diferencias de progreso de aprendizaje, entre otros[6].
