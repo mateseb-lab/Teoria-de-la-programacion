@@ -41,7 +41,7 @@ Cuantitativos: Algoritmos que contienen pasos que tienen operaciones matemática
 <img width="813" height="390" alt="image" src="https://github.com/user-attachments/assets/1778a8e6-1d93-40d1-bea9-571b45d22415" />
 
 ---
-## 1.2 Pseudocodigos.
+## 2️⃣ Pseudocodigos.
 --- 
 El pseudocódigo normalmente se utiliza como primer acercamiento para presentar conceptos fundamentales, por ejemplo el uso de expresiones, estructuras de control, variables y demás, sin necesidad de enfrentarse a los rasgos específicos de la sintaxis en un lenguaje auténtico[4].
 
