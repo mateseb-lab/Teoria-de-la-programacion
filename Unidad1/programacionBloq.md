@@ -21,11 +21,11 @@ La programación en bloques es altamente mustra ventajas en el fortalecimiento d
 ---
 Hay múltiples aplicaciones y plataformas de programación por bloques, todas con una lógica, diseñadas para ser utilizadas en la etapa de aprendizaje, aunque con enormes diferencias en términos de sus posibilidades y su facilidad de uso. Algunas, las cuales son:[7].
 
-*Scratch:* Creado por el Instituto de Massachusetts del Instituto Tecnológico de Massachusetts (MIT), tal vez sea la plataforma de programación por bloques más difundida gracias a su entorno gráfico simple y atractivo, así como a sus opciones. También tiene tiene una gran alternativa de añadir y diversidad de bloques, extensiones que expandan su funcionalidad todavía más[7].
+*Scratch:* Creado por el Instituto de Massachusetts del Instituto Tecnológico de Massachusetts (MIT), tal vez sea la plataforma de programación por bloques más difundida gracias a su entorno gráfico simple y atractivo, así como a sus opciones. También tiene tiene una gran alternativa de añadir y diversidad de bloques, extensiones que expandan su funcionalidad todavía más[7].[Acceder](https://scratch.mit.edu/)
 
-*Bitbloq:* Es una herramienta que proporciona una suite integral de programas. Comprende un ambiente de programación para sus kits estándar, los kits Junior, una aplicación de diseño e impresión 3D, una interfaz para el desarrollo de aplicaciones móviles y una versión avanzada para Arduino[7].
+*Bitbloq:* Es una herramienta que proporciona una suite integral de programas. Comprende un ambiente de programación para sus kits estándar, los kits Junior, una aplicación de diseño e impresión 3D, una interfaz para el desarrollo de aplicaciones móviles y una versión avanzada para Arduino[7].[Acceder](https://bitbloq.cc/)
 
-*App Inventor:* Desarrollada en sus inicios por Google Labs y ahora bajo la gestión del MIT, la plataforma App Inventor tiene como objetivo la creación de apps móviles para Android. Debido a su complejidad, estaría más orientada a alumnos de la educación secundaria. Nos posibilita el uso de los diferentes sensores y funciones de un celular[7].
+*App Inventor:* Desarrollada en sus inicios por Google Labs y ahora bajo la gestión del MIT, la plataforma App Inventor tiene como objetivo la creación de apps móviles para Android. Debido a su complejidad, estaría más orientada a alumnos de la educación secundaria. Nos posibilita el uso de los diferentes sensores y funciones de un celular[7].[Acceder](https://appinventor.mit.edu/)
 
 ### *La programación por bloques presenta múltiples ventajas como:*
 •Refuerza el trabajo en equipo[6].
