@@ -2,7 +2,7 @@
 ---
 ### 🧩 *Unidad 2: Contenidos de la Unidad:*
 ---
-## 1️⃣ 📊Algoritmos, pseudocódigo, diagrama de flujo. [-👉Acceder-](../Unidad1/algoritmos.md)
+## 1️⃣ 📊Estructuras condicionales. [-👉Acceder-](../Unidad1/algoritmos.md)
 ---
 ## 2️⃣ 🧱Programacion por bloques. [-👉Acceder-](../Unidad1/programacionBloq.md)
 ---
