@@ -98,4 +98,4 @@ Las pruebas de escritorio consiste en asignar valores a las variables que hemos 
 •Otros errores que podrían ocurrir[8].
 
 La prueba de escritorio consiste en aplicar un proceso de simulación con el algoritmo desarrollado para observar qué haría la computadora. Esta tarea se realiza basándose en una tabla que tiene como encabezados las variables empleadas en el algoritmo. Se van colocando los valores que adquieren, uno tras otro y siguiendo el flujo sugerido por el algoritmo, hasta llegar al final[8].
-# [⬅️](../Unidad1/contenidosunidad1.md)Contenido de unidad 1
+# [⬅️](../Unidad1/contenidosUnidad1.md)Contenido de unidad 1
