@@ -4,7 +4,7 @@
 ---
 ## 1️⃣ 💡Estructuras condicionales. [-👉Acceder-](../Unidad1/estructurasCondicionales.md)
 ---
-## 2️⃣ 🧱Programacion por bloques. [-👉Acceder-](../Unidad1/programacionBloq.md)
+## 2️⃣ ⚙️🔄Estructuras repetitivas. [-👉Acceder-](../Unidad1/programacionBloq.md)
 ---
 ## 3️⃣ ⚙️Ejemplos de algoritmos con estructuras lineales/secuenciales. [-👉Acceder-](../Unidad1/ejemplosAlgoritmos.md)
 ---
