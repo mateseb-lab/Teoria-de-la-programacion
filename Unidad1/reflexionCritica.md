@@ -1,4 +1,4 @@
-# [⬅️](../Unidad1/contenidosunidad1.md)Contenido de unidad 1
+# [⬅️](../Unidad1/contenidosUnidad1.md)Contenido de unidad 1
 ## 5. 💡Reflexion critica de los aprendizajes de la unidad.
 ---
 Durante el aprendizaje de la primera unidad, pude comprender todo el proceso que implica crear un algoritmo, siguiendo pasos lógicos y estructurados para su desarrollo. Logré practicar con éxito y mejorar en conceptos computacionales importantes para la programación, como el uso de distintos tipos de datos y variables dentro de la estructura de un algoritmo.
