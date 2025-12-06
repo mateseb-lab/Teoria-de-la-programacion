@@ -2,15 +2,15 @@
 ---
 ### 📖 *Unidad 2: Contenidos de la Unidad:*
 ---
-## 1️⃣ 💡Estructuras condicionales. [-👉Acceder-](../Unidad2/estructurasCondicionales.md)
+## 1️⃣ |💡Estructuras condicionales.| [-👉Acceder-](../Unidad2/estructurasCondicionales.md)
 ---
-## 2️⃣ ⚙️🔄Estructuras repetitivas. [-👉Acceder-](../Unidad1/programacionBloq.md)
+## 2️⃣ |⚙️🔄Estructuras repetitivas.| [-👉Acceder-](../Unidad1/programacionBloq.md)
 ---
-## 3️⃣ 🛠️Ejercicio combinado estructura condicional y repetitiva. [-👉Acceder-](../Unidad1/ejemplosAlgoritmos.md)
+## 3️⃣ |🛠️Ejercicio combinado estructura condicional y repetitiva.| [-👉Acceder-](../Unidad1/ejemplosAlgoritmos.md)
 ---
-## 4️⃣ 🚧Principales dificultades en la aplicación de los contenidos. [-👉Acceder-](../Unidad1/principalesDificultades.md)
+## 4️⃣ |🚧Principales dificultades en la aplicación de los contenidos.| [-👉Acceder-](../Unidad1/principalesDificultades.md)
 ---
-## 5️⃣ 📝Reflexion crtica de los aprendizajes de la unidad. [-👉Acceder-](../Unidad1/reflexionCritica.md)
+## 5️⃣ |📝Reflexion crtica de los aprendizajes de la unidad.| [-👉Acceder-](../Unidad1/reflexionCritica.md)
 ---
 ### 📚*Tareas entregadas:*
 ---
