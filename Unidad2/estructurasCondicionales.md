@@ -3,9 +3,6 @@
 ---
 Las estructuras condicionales comparan una variable con uno o más valores, de modo que se pueda determinar un curso de acción dentro del programa en función de los resultados obtenidos. Es importante señalar que la comparación puede hacerse con otra variable o con una constante, según se requiera. Las simples y las múltiples son los dos tipos fundamentales [10].
 
-[10] https://es.scribd.com/document/475220935/LECTURA-8-ESTRUCTURAS-CONDICIONALES-SIMPLES-Y-DOBLES
-if-if-else-switch case
-
 ## 1️⃣ Estructura Condicional simple if.
 ---
 Las estructuras condicionales simples permiten que se tomen decisiones en el interior de un algoritmo. Se incorpora en una estructura selectiva una expresión lógica, la cual se utiliza como condición para determinar el camino que se tomará dentro del programa. Si la condición (expresión lógica) es verdadera, se llevarán a cabo todas las instrucciones que estén dentro del bloque de la estructura condicional simple. Si la expresión lógica es falsa, en cambio ninguna de estas instrucciones se ejecutara [10].
@@ -31,6 +28,7 @@ Las estructuras condicionales dobles hacen posible la elección entre dos posibi
 ## 1️⃣ Estructura Condicional multiple switch.
 ---
 La estructura de decisión múltiple evaluará una expresión que puede adoptar n valores diferentes. 1, 2, 3, 4, ..., n. Dependiendo del valor que se escoja de estos en la condición, se ejecutará uno de los n acciones, o, de manera equivalente, el algoritmo seguirá un camino específico entre los n posibles. 
+
 La condición se representará únicamente en la estructura condicional múltiple mediante una expresión aritmética (o a través de una variable numérica) que es diferente de las condicionales anteriores, donde el resultado de las condicionales solo puede ser verdadero o falso.
 
 <img width="540" height="347" alt="image" src="https://github.com/user-attachments/assets/52ab8d50-6324-4d69-a757-12f8f94ee2fa" />
