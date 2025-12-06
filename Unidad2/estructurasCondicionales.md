@@ -1,5 +1,5 @@
 ---
-## 💡 Estructuras condicionales.
+## 💡 Estructuras Repetitivas.
 ---
 Las estructuras repetitivas , se utilizan cuando se quiere que un conjunto de instrucciones se ejecuten un cierto número finito de veces, como por ejemplo, escribir algo en pantalla cierta cantidad de veces. Se les llama bucle o ciclo a todo proceso que se repite cierto número de veces dentro de un programa y las estructuras repetitivas permiten hacerlo de una forma mas facil [3]
 
@@ -56,6 +56,4 @@ tendrá el bucle [3].
 <img width="573" height="443" alt="image" src="https://github.com/user-attachments/assets/c82a4bf1-1ce4-4d01-b315-d828318bc303" />
 
 ---
-## ⚙️ Ejercicios de Estructuras Repetitivas:
-
 # [⬅️](../Unidad2/contenidosUnidad2.md)Contenido de unidad 2
