@@ -1,5 +1,5 @@
 ---
-## ⚙️🔄 Estructuras repetitivas.
+# ⚙️🔄 Estructuras repetitivas.
 ---
 Las estructuras condicionales comparan una variable con uno o más valores, de modo que se pueda determinar un curso de acción dentro del programa en función de los resultados obtenidos. Es importante señalar que la comparación puede hacerse con otra variable o con una constante, según se requiera. Las simples y las múltiples son los dos tipos fundamentales [10].
 
