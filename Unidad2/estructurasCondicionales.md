@@ -15,7 +15,7 @@ Las estructuras condicionales simples permiten que se tomen decisiones en el int
 
 ---
 
-## 1️⃣ Estructura Condicional doble if-else
+## 2️⃣ Estructura Condicional doble if-else
 ---
 Las estructuras condicionales dobles hacen posible la elección entre dos posibilidades o alternativas, dependiendo de si una condición específica se cumple o no. Por lo tanto, las estructuras condicionales dobles ofrecen dos rutas distintas que el flujo de ejecución del programa podría seguir. Si la expresión a evaluar es verdadera, el programa tomará una rama; si es falsa, tomará otra [10].
 
@@ -25,16 +25,17 @@ Las estructuras condicionales dobles hacen posible la elección entre dos posibi
 
 ---
 
-## 1️⃣ Estructura Condicional multiple switch.
+## 3️⃣ Estructura Condicional multiple switch.
 ---
-La estructura de decisión múltiple evaluará una expresión que puede adoptar n valores diferentes. 1, 2, 3, 4, ..., n. Dependiendo del valor que se escoja de estos en la condición, se ejecutará uno de los n acciones, o, de manera equivalente, el algoritmo seguirá un camino específico entre los n posibles. 
+La estructura de decisión múltiple evaluará una expresión que puede adoptar n valores diferentes. 1, 2, 3, 4, ..., n. Dependiendo del valor que se escoja de estos en la condición, se ejecutará uno de los n acciones, o, de manera equivalente, el algoritmo seguirá un camino específico entre los n posibles [3].
 
-La condición se representará únicamente en la estructura condicional múltiple mediante una expresión aritmética (o a través de una variable numérica) que es diferente de las condicionales anteriores, donde el resultado de las condicionales solo puede ser verdadero o falso.
+La condición se representará únicamente en la estructura condicional múltiple mediante una expresión aritmética (o a través de una variable numérica) que es diferente de las condicionales anteriores, donde el resultado de las condicionales solo puede ser verdadero o falso [3].
 
 <img width="540" height="347" alt="image" src="https://github.com/user-attachments/assets/52ab8d50-6324-4d69-a757-12f8f94ee2fa" />
 
 <img width="868" height="333" alt="image" src="https://github.com/user-attachments/assets/0313b489-664c-45ed-8a1f-d914df5bd8cf" />
 
 ---
+## ⚙️ Ejercicios de Estructuras Condicionales:
 
 # [⬅️](../Unidad2/contenidosUnidad2.md)Contenido de unidad 2
