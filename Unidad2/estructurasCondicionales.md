@@ -1,7 +1,17 @@
 ---
 ## 💡 Estructuras condicionales.
 ---
-Las estructuras condicionales comparan una variable con uno o más valores, de modo que se pueda determinar un curso de acción dentro del programa en función de los resultados obtenidos. Es importante señalar que la comparación puede hacerse con otra variable o con una constante, según se requiera. Las simples y las múltiples son los dos tipos fundamentales [10].
+
+## Contador:
+Es una variable que aumenta en una unidad cada vez que se lleva a cabo un proceso. Se emplea para hacer un seguimiento de ciertas acciones que pueden pedirse mientras se resuelve un problema. Comúnmente, la variable se inicializa en cero (0) y luego se le suma uno después de los procedimientos que consideramos apropiados [3]. 
+
+<img width="393" height="47" alt="image" src="https://github.com/user-attachments/assets/c510f7a4-bc57-47d8-bc7b-782f2e558941" />
+
+## Acumulador:
+Es una variable cuyo objetivo es guardar cantidades que pueden variar. Se emplea para realizar sumas continuas. La diferencia principal con el contador es que, en cada suma, el aumento o la disminución son variables y no constantes [3].
+
+<img width="440" height="46" alt="image" src="https://github.com/user-attachments/assets/81ce5e1a-58f5-4169-b887-dd5b1d6c2235" />
+
 
 ## 1️⃣ Estructura Condicional simple if.
 ---
