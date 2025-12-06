@@ -39,6 +39,7 @@
 [9] E. H. Tacuri Casaño, “LENGUAJE DE PROGRAMACIÓN. Fundamentos de programación. Algoritmos, herramientas, programación estructurada. Aplicación a los lenguajes de Programación Pascal, el lenguaje de programación ‘C’ y C++ y otros lenguajes actualizados. Introducción al lenguaje de programación MATLAB. Lenguajes de Programación Orientado a Objetos. Aplicaciones,” Monografía de pregrado, Universidad Nacional de Educación Enrique Guzmán y Valle, Lima, Perú, 15 jul. 2021. [En línea]. Disponible: https://n9.cl/z8wat
 
 [10] https://es.scribd.com/document/475220935/LECTURA-8-ESTRUCTURAS-CONDICIONALES-SIMPLES-Y-DOBLES
+[11] https://es.scribd.com/document/454383624/Ciclo-While-Do-While-For
 
 ---
 
