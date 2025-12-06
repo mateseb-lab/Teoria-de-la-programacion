@@ -59,7 +59,7 @@ tendrá el bucle [3].
 ## ⚙️ Ejercicios de Estructuras Condicionales:
 >Ingresar un número comprendido entre 10 a 20 y guardarlo en una variable N. Luego imprimir de manera decreciente la serie de todos los números desde N hasta cero (0) y además mostrar la suma de todos estos números de la serie.
 ---
-## 1️⃣ Estructura Repetitiva While.
+# 1️⃣ Estructura Repetitiva While.
 hola
 
 # [⬅️](../Unidad2/contenidosUnidad2.md)Contenido de unidad 2
