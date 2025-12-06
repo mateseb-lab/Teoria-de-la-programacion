@@ -4,7 +4,7 @@
 ---
 ## 1️⃣ |💡Estructuras condicionales.| [-👉Acceder-](../Unidad2/estructurasCondicionales.md)
 ---
-## 2️⃣ |⚙️🔄Estructuras repetitivas.| [-👉Acceder-](../Unidad1/programacionBloq.md)
+## 2️⃣ |⚙️🔄Estructuras repetitivas.| [-👉Acceder-](../Unidad2/estructurasRepetitivas.md)
 ---
 ## 3️⃣ |🛠️Ejercicio combinado estructura condicional y repetitiva.| [-👉Acceder-](../Unidad1/ejemplosAlgoritmos.md)
 ---
