@@ -36,11 +36,12 @@ La condición se representará únicamente en la estructura condicional múltipl
 <img width="868" height="333" alt="image" src="https://github.com/user-attachments/assets/0313b489-664c-45ed-8a1f-d914df5bd8cf" />
 
 ---
-## ⚙️ Ejercicios de Estructuras Condicionales en lenguaje C:
+## ⚙️ Ejercicios de Estructuras Condicionales:
 Planteamineto del problema:
 >Dado como dato el sueldo de un trabajador, considera un aumento del 45% si su sueldo es inferior a 800, de lo contrario realiza un descuento del 10%. Finalmente mostrar el sueldo con el aumento o el descuento efectuado.
 ---
 ## 1️⃣ Estructura Condicional simple else:
+### Código en lenguaje de programación C:
 ```
 #include <stdio.h>
 
@@ -72,8 +73,76 @@ int main(){
 ```
 ---
 ## 2️⃣ Estructura Condicional doble if-else.
+### Código en lenguaje de programación C:
 ```
+#include <stdio.h>
 
+int main(){
+
+    int sueldo, SUELDOLIMIT, aumento, descuento, suma, resta;
+
+    SUELDOLIMIT = 800;
+
+    printf("Ingrese la cantidad de sueldo:\n");
+    scanf("%i", &sueldo);
+
+    if(sueldo < SUELDOLIMIT){
+
+        aumento = sueldo * 0.45;
+        suma = sueldo + aumento;
+        printf("Su aumento del 45 por ciento con el sueldo es de: \n%i", suma);
+    }else{
+        descuento = sueldo * 0.10;
+        resta = sueldo - descuento;
+        printf("Su descuento del 10 por ciento con el sueldo es de: \n%i", resta);
+    }
+
+    return 0;
+}
 ```
+---
+## 3️⃣ Estructura Condicional multiple switch.
+### Código en lenguaje de programación C:
+```
+#include <stdio.h>
 
+int main(){
+
+    int sueldo, SUELDOLIMIT, aumento, suma, descuento, resta, OPERACION;
+
+    SUELDOLIMIT = 800;
+
+    printf("Ingrese la cantidad de sueldo:\n");
+    scanf("%i", &sueldo);
+    getchar();
+
+    if(sueldo < 1000){
+        OPERACION = 1;
+    }else{
+        OPERACION = 2;
+    }
+
+    switch(OPERACION){
+
+        case 1:
+        aumento = sueldo * 0.45;
+        suma = sueldo + aumento;
+        printf("Su aumento del 45 por ciento con el sueldo es de: \n%i", suma);
+        break;
+
+        case 2:
+        descuento = sueldo * 0.10;
+        resta = sueldo - descuento;
+        printf("Su descuento del 10 por ciento con el sueldo es de: \n%i", resta);
+        break;
+
+        default:
+        printf("Ingrese nuevamente el sueldo");
+    }
+
+    return 0;
+
+}
+```
+---
 # [⬅️](../Unidad2/contenidosUnidad2.md)Contenido de unidad 2
