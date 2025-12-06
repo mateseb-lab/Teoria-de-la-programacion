@@ -2,7 +2,7 @@
 ---
 ### 📖 *Unidad 2: Contenidos de la Unidad:*
 ---
-## 1️⃣ 💡Estructuras condicionales. [-👉Acceder-](../Unidad1/estructurasCondicionales.md)
+## 1️⃣ 💡Estructuras condicionales. [-👉Acceder-](../Unidad2/estructurasCondicionales.md)
 ---
 ## 2️⃣ ⚙️🔄Estructuras repetitivas. [-👉Acceder-](../Unidad1/programacionBloq.md)
 ---
