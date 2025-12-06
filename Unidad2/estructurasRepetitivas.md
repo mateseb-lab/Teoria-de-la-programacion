@@ -3,7 +3,7 @@
 ---
 Las estructuras condicionales comparan una variable con uno o más valores, de modo que se pueda determinar un curso de acción dentro del programa en función de los resultados obtenidos. Es importante señalar que la comparación puede hacerse con otra variable o con una constante, según se requiera. Las simples y las múltiples son los dos tipos fundamentales [10].
 
-## 1️⃣ Estructura Repetitiva while.
+## 1️⃣ Estructura Condicional simple if.
 ---
 Las estructuras condicionales simples permiten que se tomen decisiones en el interior de un algoritmo. Se incorpora en una estructura selectiva una expresión lógica, la cual se utiliza como condición para determinar el camino que se tomará dentro del programa. Si la condición (expresión lógica) es verdadera, se llevarán a cabo todas las instrucciones que estén dentro del bloque de la estructura condicional simple. Si la expresión lógica es falsa, en cambio ninguna de estas instrucciones se ejecutara [10].
 
@@ -36,6 +36,44 @@ La condición se representará únicamente en la estructura condicional múltipl
 <img width="868" height="333" alt="image" src="https://github.com/user-attachments/assets/0313b489-664c-45ed-8a1f-d914df5bd8cf" />
 
 ---
-## ⚙️ Ejercicios de Estructuras Condicionales:
+## ⚙️ Ejercicios de Estructuras Condicionales en lenguaje C:
+Planteamineto del problema:
+>Dado como dato el sueldo de un trabajador, considera un aumento del 45% si su sueldo es inferior a 800, de lo contrario realiza un descuento del 10%. Finalmente mostrar el sueldo con el aumento o el descuento efectuado.
+---
+## 1️⃣ Estructura Condicional simple else:
+```
+#include <stdio.h>
+
+int main(){
+
+    int sueldo, SUELDOLIMIT, aumento, suma, descuento, resta;
+
+    SUELDOLIMIT = 800;
+
+    printf("Ingrese sueldo:\n");
+    scanf("%i", &sueldo);
+
+    if(sueldo < SUELDOLIMIT){
+
+        aumento = sueldo * 0.45;
+        suma = sueldo + aumento;
+        printf("Su aumento del 45 por ciento con el sueldo es de: \n%i", suma);
+    }
+
+    if(sueldo >= SUELDOLIMIT){
+
+        descuento = sueldo * 0.10;
+        resta = sueldo - descuento;
+        printf("Su descuento del 10 por ciento con el sueldo es de: \n%i", resta);
+    }
+
+    return 0;
+}
+```
+---
+## 2️⃣ Estructura Condicional doble if-else.
+```
+
+```
 
 # [⬅️](../Unidad2/contenidosUnidad2.md)Contenido de unidad 2
