@@ -8,7 +8,7 @@
 ---
 ## 3️⃣ |🛠️Ejercicio combinado estructura condicional y repetitiva.| [-👉Acceder-](../Unidad2/ejercicioCombinado.md)
 ---
-## 4️⃣ |🚧Principales dificultades en la aplicación de los contenidos.| [-👉Acceder-](../Unidad1/principalesDificultades.md)
+## 4️⃣ |🚧Principales dificultades en la aplicación de los contenidos.| [-👉Acceder-](../Unidad2/principalesDificultades.md)
 ---
 ## 5️⃣ |📝Reflexion crtica de los aprendizajes de la unidad.| [-👉Acceder-](../Unidad1/reflexionCritica.md)
 ---
