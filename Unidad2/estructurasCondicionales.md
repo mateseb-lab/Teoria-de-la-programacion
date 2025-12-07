@@ -48,59 +48,61 @@ Planteamiento del problema:
 
 int main(){
 
-    int sueldo, SUELDOLIMIT, aumento, suma, descuento, resta;
+    int sueldo, SUELDOIN, aumento, suma, descuento, resta;
 
-    SUELDOLIMIT = 800;
+    SUELDOIN = 800;
 
     printf("Ingrese sueldo:\n");
     scanf("%i", &sueldo);
 
-    if(sueldo < SUELDOLIMIT){
-
+    if(sueldo < SUELDOIN){
+        //Aumento del 45%
         aumento = sueldo * 0.45;
         suma = sueldo + aumento;
-        printf("Su aumento del 45 por ciento con el sueldo es de: \n%i", suma);
+        printf("Su aumento es: \n%i", suma);
     }
 
-    if(sueldo >= SUELDOLIMIT){
-
+    if(sueldo >= SUELDOIN){
+        //Descuento del 10%
         descuento = sueldo * 0.10;
         resta = sueldo - descuento;
-        printf("Su descuento del 10 por ciento con el sueldo es de: \n%i", resta);
+        printf("Su descuento es: \n%i", resta);
     }
 
     return 0;
 }
 ```
+---
 ### Diagrama de flujo:
 ---
-<img width="1103" height="3139" alt="image" src="https://github.com/user-attachments/assets/ab449b11-7c4c-4b86-895c-eb10ee8dd011" />
-
+<img width="1147" height="720" alt="image" src="https://github.com/user-attachments/assets/03978203-53a1-407e-b10e-e0dc1794c375" />
 
 ---
 ## 2️⃣ Estructura Condicional doble if-else.
+---
 ### Código en lenguaje de programación C:
 ```
 #include <stdio.h>
 
 int main(){
 
-    int sueldo, SUELDOLIMIT, aumento, descuento, suma, resta;
+    int sueldo, SUELDOIN, aumento, descuento, suma, resta;
 
-    SUELDOLIMIT = 800;
+    SUELDOIN = 800;
 
-    printf("Ingrese la cantidad de sueldo:\n");
+    printf("Ingrese sueldo:\n");
     scanf("%i", &sueldo);
 
-    if(sueldo < SUELDOLIMIT){
-
+    if(sueldo < SUELDOIN){
+        //Aumento del 45%
         aumento = sueldo * 0.45;
         suma = sueldo + aumento;
-        printf("Su aumento del 45 por ciento con el sueldo es de: \n%i", suma);
+        printf("Su aumento es: \n%i", suma);
     }else{
+        //Descuento del 10%
         descuento = sueldo * 0.10;
         resta = sueldo - descuento;
-        printf("Su descuento del 10 por ciento con el sueldo es de: \n%i", resta);
+        printf("Su descuento es: \n%i", resta);
     }
 
     return 0;
@@ -109,54 +111,60 @@ int main(){
 ---
 ### Diagrama de flujo:
 ---
-<img width="1060" height="2586" alt="image" src="https://github.com/user-attachments/assets/112d5dbc-b10a-4449-8734-b1299ae87284" />
+<img width="1146" height="712" alt="image" src="https://github.com/user-attachments/assets/277255c0-d8b4-4eae-a8fa-7fa71397385d" />
 
 ---
 ## 3️⃣ Estructura Condicional multiple switch.
+---
 ### Código en lenguaje de programación C:
+---
 ```
 #include <stdio.h>
 
 int main(){
 
-    int sueldo, SUELDOLIMIT, aumento, suma, descuento, resta, OPERACION;
+    int sueldo, SUELDOIN, aumento, suma, descuento, resta, OPERACION;
 
-    SUELDOLIMIT = 800;
+    SUELDOIN = 800;
 
-    printf("Ingrese la cantidad de sueldo:\n");
+    printf("Ingrese sueldo:\n");
     scanf("%i", &sueldo);
     getchar();
 
-    if(sueldo < 1000){
+    if(sueldo < SUELDOIN){
+        // Aumento
         OPERACION = 1;
     }else{
+        //Descuento
         OPERACION = 2;
     }
 
     switch(OPERACION){
-
+        //Caso 1: Aumento
         case 1:
         aumento = sueldo * 0.45;
         suma = sueldo + aumento;
-        printf("Su aumento del 45 por ciento con el sueldo es de: \n%i", suma);
+        printf("Su aumento es de: \n%i", suma);
         break;
-
+        //Caso 2: Descuento
         case 2:
         descuento = sueldo * 0.10;
         resta = sueldo - descuento;
-        printf("Su descuento del 10 por ciento con el sueldo es de: \n%i", resta);
+        printf("Su descuento es de: \n%i", resta);
         break;
 
         default:
-        printf("Ingrese nuevamente el sueldo");
+        printf("Ingrese otra vez sueldo");
     }
 
     return 0;
 
 }
 ```
+---
 ### Diagrama de flujo:
 ---
+<img width="1144" height="719" alt="image" src="https://github.com/user-attachments/assets/78de3726-069d-4eda-a3a7-d2d56a3e5535" />
 
 ---
 # [⬅️](../Unidad2/contenidosUnidad2.md)Contenido de unidad 2
