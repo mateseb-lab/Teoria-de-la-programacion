@@ -9,7 +9,8 @@ Planteamiento del problema:
 <img width="1146" height="691" alt="image" src="https://github.com/user-attachments/assets/738ef49b-f27d-47bd-87f4-d2b3c2df6302" />
 
 ---
-### Codigo en lenguaje de programacion Java.
+### Codigo en lenguaje de programacion Java:
+---
 ```
 import java.util.Scanner;
 public class ContarNumero{
