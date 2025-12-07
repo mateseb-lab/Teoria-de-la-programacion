@@ -69,7 +69,7 @@ int main(){
 
     int num, contador, suma;
 
-    printf("Ingrese un numero comprendido entre 10 y 20:\n");
+    printf("Ingrese numero (10-20):\n");
     scanf("%i", &num);
 
     suma = 0;
@@ -93,6 +93,11 @@ int main(){
 }
 ```
 ---
+### Diagrama de flujo:
+---
+<img width="1141" height="711" alt="image" src="https://github.com/user-attachments/assets/043bc78b-fabd-4f44-902a-551197fb757e" />
+
+---
 ## 2️⃣ Estructura Repetitiva do while.
 ### Código en lenguaje de programación C:
 ```
@@ -102,7 +107,7 @@ int main(){
 
     int num, contador, suma;
 
-    printf("Ingrese un numero comprendido entre 10 y 20:\n");
+    printf("Ingrese numero (10-20):\n");
     scanf("%i", &num);
 
     suma = 0;
@@ -123,6 +128,11 @@ int main(){
 }
 ```
 ---
+### Diagrama de flujo:
+---
+<img width="1147" height="718" alt="image" src="https://github.com/user-attachments/assets/e22a443c-1e9f-447f-97e3-834c54dd4bb4" />
+
+---
 ## 3️⃣ Estructura Repetitiva for.
 ### Código en lenguaje de programación C:
 ```
@@ -132,7 +142,7 @@ int main(){
 
     int num, contador, suma;
 
-    printf("Ingrese un numero comprendido entre 10 y 20:\n");
+    printf("Ingrese numero (10-20):\n");
     scanf("%i", &num);
 
     suma = 0;
@@ -151,5 +161,10 @@ int main(){
     return 0;
 }
 ```
+---
+### Diagrama de flujo:
+---
+<img width="1137" height="713" alt="image" src="https://github.com/user-attachments/assets/46334bcc-9ff3-4e8a-84ed-87f86e1ce48c" />
+
 
 # [⬅️](../Unidad2/contenidosUnidad2.md)Contenido de unidad 2
