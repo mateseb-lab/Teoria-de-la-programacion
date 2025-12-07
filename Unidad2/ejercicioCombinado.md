@@ -2,7 +2,7 @@
 # 🛠️Ejercicio combinado estructura condicional y repetitiva.
 
 Planteamiento del problema:
-> Desarrollar un programa que pida una cantidad válida de números, los lea y determine cuántos son positivos, negativos o ceros. (y debe ser mayor que 0).
+> Desarrollar un programa que pida una cantidad válida de números positivos, los lea y determine cuántos numeros positivos, negativos o ceros se escribieron. (y debe ser mayor que 0).
 
 ```
 import java.util.Scanner;
