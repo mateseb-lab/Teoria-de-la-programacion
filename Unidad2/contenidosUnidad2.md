@@ -6,7 +6,7 @@
 ---
 ## 2️⃣ |⚙️🔄Estructuras repetitivas.| [-👉Acceder-](../Unidad2/estructurasRepetitivas.md)
 ---
-## 3️⃣ |🛠️Ejercicio combinado estructura condicional y repetitiva.| [-👉Acceder-](../Unidad1/ejemplosAlgoritmos.md)
+## 3️⃣ |🛠️Ejercicio combinado estructura condicional y repetitiva.| [-👉Acceder-](../Unidad1/ejercicioCombinado.md)
 ---
 ## 4️⃣ |🚧Principales dificultades en la aplicación de los contenidos.| [-👉Acceder-](../Unidad1/principalesDificultades.md)
 ---
