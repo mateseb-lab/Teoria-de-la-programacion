@@ -56,12 +56,97 @@ tendrá el bucle [3].
 <img width="573" height="443" alt="image" src="https://github.com/user-attachments/assets/c82a4bf1-1ce4-4d01-b315-d828318bc303" />
 
 ---
-## ⚙️ Ejercicios de Estructuras Condicionales:
+# ⚙️ Ejercicios de Estructuras Condicionales:
+### Plantemiento del problema:
 >Ingresar un número comprendido entre 10 a 20 y guardarlo en una variable N. Luego imprimir de manera decreciente la serie de todos los números desde N hasta cero (0) y además mostrar la suma de todos estos números de la serie.
 ---
-# 1️⃣ Estructura Repetitiva While.
+## 1️⃣ Estructura Repetitiva While.
 ```
+#include <stdio.h>
 
+int main(){
+
+    int num, contador, suma;
+
+    printf("Ingrese un numero comprendido entre 10 y 20:\n");
+    scanf("%i", &num);
+
+    suma = 0;
+    contador = num;
+
+    if(num >= 10 && num <= 20){
+        while(contador >= 0){
+
+            printf("%i\n", contador);
+
+            suma = suma + contador;
+
+            contador--;
+        }
+
+        printf("La suma es: %i", suma);
+    }
+
+    return 0;
+
+}
+```
+---
+## 2️⃣ Estructura Repetitiva do while.
+```
+#include <stdio.h>
+
+int main(){
+
+    int num, contador, suma;
+
+    printf("Ingrese un numero comprendido entre 10 y 20:\n");
+    scanf("%i", &num);
+
+    suma = 0;
+    contador = num;
+    
+    if(num >= 10 && num <= 20){
+        do{
+            printf("%i\n", contador);
+            suma = suma + contador;
+            contador--;
+
+        }while(contador >= 0);
+
+        printf("La suma es: %i", suma);
+    }
+
+    return 0;
+}
+```
+---
+## 3️⃣ Estructura Repetitiva for.
+```
+#include <stdio.h>
+
+int main(){
+
+    int num, contador, suma;
+
+    printf("Ingrese un numero comprendido entre 10 y 20:\n");
+    scanf("%i", &num);
+
+    suma = 0;
+
+    if(num >= 10 && num <= 20){
+
+        for(contador = num; contador >= 0;contador--){
+
+          printf("%i\n", contador); 
+
+          suma = suma + contador;
+        }
+        printf("La suma es: %i", suma);
+    }
+
+    return 0;
+}
 ```
 
 # [⬅️](../Unidad2/contenidosUnidad2.md)Contenido de unidad 2
