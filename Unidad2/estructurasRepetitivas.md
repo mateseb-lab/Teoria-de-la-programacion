@@ -61,6 +61,7 @@ tendrá el bucle [3].
 >Ingresar un número comprendido entre 10 a 20 y guardarlo en una variable N. Luego imprimir de manera decreciente la serie de todos los números desde N hasta cero (0) y además mostrar la suma de todos estos números de la serie.
 ---
 ## 1️⃣ Estructura Repetitiva While.
+### Código en lenguaje de programación C:
 ```
 #include <stdio.h>
 
@@ -93,6 +94,7 @@ int main(){
 ```
 ---
 ## 2️⃣ Estructura Repetitiva do while.
+### Código en lenguaje de programación C:
 ```
 #include <stdio.h>
 
@@ -122,6 +124,7 @@ int main(){
 ```
 ---
 ## 3️⃣ Estructura Repetitiva for.
+### Código en lenguaje de programación C:
 ```
 #include <stdio.h>
 
