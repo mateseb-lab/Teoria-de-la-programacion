@@ -24,11 +24,11 @@ public class ContarNumero{
 
         Scanner entrada = new Scanner(System.in);
 
-        System.out.println("Ingrese la cantidad de numeros\n");
+        System.out.println("Ingrese cantidad de n:\n");
         ncant = entrada.nextInt();
 
         while(ncant <= 0){
-            System.out.println("Error ingrese una cantidad de numeros validos\n");
+            System.out.println("Error ingrese otra vez:\n");
             ncant = entrada.nextInt();
         }
 
