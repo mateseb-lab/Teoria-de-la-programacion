@@ -41,6 +41,7 @@ Planteamiento del problema:
 >Dado como dato el sueldo de un trabajador, considera un aumento del 45% si su sueldo es inferior a 800, de lo contrario realiza un descuento del 10%. Finalmente mostrar el sueldo con el aumento o el descuento efectuado.
 ---
 ## 1️⃣ Estructura Condicional simple else:
+---
 ### Código en lenguaje de programación C:
 ```
 #include <stdio.h>
@@ -71,6 +72,11 @@ int main(){
     return 0;
 }
 ```
+### Diagrama de flujo:
+---
+<img width="589" height="773" alt="image" src="https://github.com/user-attachments/assets/258bc638-a5d5-452b-82c2-ad54296f2065" />
+
+
 ---
 ## 2️⃣ Estructura Condicional doble if-else.
 ### Código en lenguaje de programación C:
