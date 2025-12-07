@@ -74,7 +74,7 @@ int main(){
 ```
 ### Diagrama de flujo:
 ---
-<img width="589" height="773" alt="image" src="https://github.com/user-attachments/assets/258bc638-a5d5-452b-82c2-ad54296f2065" />
+<img width="1103" height="3139" alt="image" src="https://github.com/user-attachments/assets/ab449b11-7c4c-4b86-895c-eb10ee8dd011" />
 
 
 ---
@@ -106,6 +106,11 @@ int main(){
     return 0;
 }
 ```
+---
+### Diagrama de flujo:
+---
+<img width="1060" height="2586" alt="image" src="https://github.com/user-attachments/assets/112d5dbc-b10a-4449-8734-b1299ae87284" />
+
 ---
 ## 3️⃣ Estructura Condicional multiple switch.
 ### Código en lenguaje de programación C:
@@ -150,5 +155,8 @@ int main(){
 
 }
 ```
+### Diagrama de flujo:
+---
+
 ---
 # [⬅️](../Unidad2/contenidosUnidad2.md)Contenido de unidad 2
