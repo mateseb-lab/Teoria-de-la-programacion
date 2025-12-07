@@ -4,6 +4,7 @@
 Planteamiento del problema:
 > Desarrollar un programa que pida una cantidad válida de números, los lea y determine cuántos son positivos, negativos o ceros. (y debe ser mayor que 0).
 
+```
 import java.util.Scanner;
 public class ContarNumero{
     
@@ -52,7 +53,7 @@ public class ContarNumero{
     }
 
 }
-
+```
 
 
 # [⬅️](../Unidad2/contenidosUnidad2.md)Contenido de unidad 2
