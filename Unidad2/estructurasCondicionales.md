@@ -80,12 +80,12 @@ PS C:\Users\Admin\lenguaje_c\portafoliodig> gcc ejercicio1.c -o ejercicio1
 PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio1.exe       
 Ingrese sueldo:
 700
-Su aumento del 45 por ciento con el sueldo es de: 
+Su aumento es: 
 1015
 PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio1.exe
 Ingrese sueldo:
 1200
-Su descuento del 10 por ciento con el sueldo es de: 
+Su descuento es: 
 1080
 PS C:\Users\Admin\lenguaje_c\portafoliodig>
 ```
@@ -130,14 +130,14 @@ int main(){
 ```
 PS C:\Users\Admin\lenguaje_c\portafoliodig> gcc ejercicio2.c -o ejercicio2
 PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio2.exe
-Ingrese la cantidad de sueldo:
+Ingrese sueldo:
 500
-Su aumento del 45 por ciento con el sueldo es de:
+Su aumento es:
 725
 PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio2.exe
-Ingrese la cantidad de sueldo:
+Ingrese sueldo:
 1300
-Su descuento del 10 por ciento con el sueldo es de: 
+Su descuento es:
 1170
 PS C:\Users\Admin\lenguaje_c\portafoliodig>
 ```
@@ -198,14 +198,14 @@ int main(){
 ```
 PS C:\Users\Admin\lenguaje_c\portafoliodig> gcc ejercicio3.c -o ejercicio3
 PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio3.exe
-Ingrese la cantidad de sueldo:
+Ingrese sueldo:
 1500
-Su descuento del 10 por ciento con el sueldo es de:
+Su descuento es:
 1350
 PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio3.exe
-Ingrese la cantidad de sueldo:
+Ingrese sueldo:
 200
-Su aumento del 45 por ciento con el sueldo es de: 
+Su aumento es:
 290
 PS C:\Users\Admin\lenguaje_c\portafoliodig> 
 ```
