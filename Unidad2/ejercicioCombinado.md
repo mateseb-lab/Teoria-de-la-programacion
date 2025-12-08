@@ -63,7 +63,32 @@ public class ContarNumero{
 ### Terminal
 ---
 ```
+PS C:\Users\Admin\lenguaje_java\ejercicioportafol.md>  & 'D:\java\jdk-21\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Admin\AppData\Roaming\Code\User\workspaceStorage\911d8a6dda0acae9c4f436dfbd78ba83\redhat.java\jdt_ws\ejercicioportafol.md_408231d7\bin' 'ContarNumero'
+Ingrese cantidad de n:
 
+-4
+Error ingrese otra vez:
+
+-5
+Error ingrese otra vez:
+
+4
+Ingrese numeros:
+
+4
+Ingrese numeros:
+
+0
+Ingrese numeros:
+
+-4
+Ingrese numeros:
+
+4
+Los numeros positivos que ingreso son: 2
+Los numeros negativos que ingreso son: 1
+Los numeros ceros que ingreso son: 1
+PS C:\Users\Admin\lenguaje_java\ejercicioportafol.md>
 ```
 ---
 ## Verificación ❓📝:
