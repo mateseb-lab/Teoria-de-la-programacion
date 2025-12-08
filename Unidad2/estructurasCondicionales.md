@@ -115,6 +115,38 @@ int main(){
 <img width="1146" height="712" alt="image" src="https://github.com/user-attachments/assets/277255c0-d8b4-4eae-a8fa-7fa71397385d" />
 
 ---
+## Terminal:
+```
+PS C:\Users\Admin\lenguaje_c\portafoliodig> gcc ejercicio1.c -o ejercicio1  
+PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio1.exe       
+Ingrese sueldo:
+700
+Su aumento del 45 por ciento con el sueldo es de: 
+1015
+PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio1.exe
+Ingrese sueldo:
+1200
+Su descuento del 10 por ciento con el sueldo es de: 
+1080
+PS C:\Users\Admin\lenguaje_c\portafoliodig>
+```
+---
+## Terminal:
+```
+PS C:\Users\Admin\lenguaje_c\portafoliodig> gcc ejercicio2.c -o ejercicio2
+PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio2.exe
+Ingrese la cantidad de sueldo:
+500
+Su aumento del 45 por ciento con el sueldo es de:
+725
+PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio2.exe
+Ingrese la cantidad de sueldo:
+1300
+Su descuento del 10 por ciento con el sueldo es de: 
+1170
+PS C:\Users\Admin\lenguaje_c\portafoliodig>
+```
+---
 ## 3️⃣ 🛠️Estructura Condicional multiple switch.
 ---
 ## Código en lenguaje de programación C:
@@ -166,5 +198,21 @@ int main(){
 ---
 <img width="1144" height="719" alt="image" src="https://github.com/user-attachments/assets/78de3726-069d-4eda-a3a7-d2d56a3e5535" />
 
+---
+## Terminal:
+```
+PS C:\Users\Admin\lenguaje_c\portafoliodig> gcc ejercicio3.c -o ejercicio3
+PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio3.exe
+Ingrese la cantidad de sueldo:
+1500
+Su descuento del 10 por ciento con el sueldo es de:
+1350
+PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio3.exe
+Ingrese la cantidad de sueldo:
+200
+Su aumento del 45 por ciento con el sueldo es de: 
+290
+PS C:\Users\Admin\lenguaje_c\portafoliodig> 
+```
 ---
 # [⬅️](../Unidad2/contenidosUnidad2.md)Contenidos de unidad 2
