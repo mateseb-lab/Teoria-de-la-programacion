@@ -1,4 +1,4 @@
-# [⬅️](../Introduccion/contenidos.md)Contenidos portafolio digital de aprendizaje
+# [⬅️](../Introduccion/contenidos.md)Contenidos del portafolio digital de aprendizaje
 ---
 ### 📖 *Unidad 2: Contenidos de la Unidad:*
 ---
