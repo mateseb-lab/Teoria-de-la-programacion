@@ -60,7 +60,12 @@ public class ContarNumero{
 
 }
 ```
+### Terminal
+---
+```
 
+```
+---
 ## Verificación ❓📝:
 ---
 ### Pruebas de Escritorio:
