@@ -40,7 +40,7 @@ La condición se representará únicamente en la estructura condicional múltipl
 Planteamiento del problema:
 >Dado como dato el sueldo de un trabajador, considera un aumento del 45% si su sueldo es inferior a 800; de lo contrario, realiza un descuento del 10%. Finalmente, mostrar el sueldo con el aumento o el descuento efectuado.
 ---
-## 1️⃣ Estructura Condicional simple else:
+## 1️⃣ Estructura Condicional simple if:
 ---
 ### Código en lenguaje de programación C:
 ```
