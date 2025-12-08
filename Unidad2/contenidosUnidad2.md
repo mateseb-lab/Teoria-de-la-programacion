@@ -30,6 +30,7 @@
 
 ---
 ## 4️⃣ AA2: Cuadro comparativo entre las estructuras repetitivas.
-### [-👉Acceder-](https://drive.google.com/file/d/1cknZpDppzgKQoDM7kU5k_3FlCCvo7Fow/view?usp=sharing)
+---
+### [-👉Acceder-](https://drive.google.com/file/d/1vOG9DZ1kfjbxabwOcb9BTKf9Yx5JiOA0/view?usp=sharing)
 
 ---
