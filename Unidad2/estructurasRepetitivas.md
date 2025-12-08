@@ -52,12 +52,13 @@ tendrá el bucle [3].
 <img width="573" height="443" alt="image" src="https://github.com/user-attachments/assets/c82a4bf1-1ce4-4d01-b315-d828318bc303" />
 
 ---
-# ⚙️ Ejercicios de Estructuras Condicionales:
-Plantemiento del problema:
+# ⚙️ Ejercicios de Estructuras Repetitivas:
+### Plantemiento del problema:
 >Ingresar un número comprendido entre 10 a 20 y guardarlo en una variable N. Luego imprimir de manera decreciente la serie de todos los números desde N hasta cero (0) y además mostrar la suma de todos estos números de la serie.
 ---
 ## 1️⃣ 🔧🔄Estructura Repetitiva While.
-### Código en lenguaje de programación C:
+---
+## Código en lenguaje de programación C:
 ```
 #include <stdio.h>
 
@@ -88,14 +89,14 @@ int main(){
 
 }
 ```
----
-### Diagrama de flujo:
+## Diagrama de flujo:
 ---
 <img width="1141" height="711" alt="image" src="https://github.com/user-attachments/assets/043bc78b-fabd-4f44-902a-551197fb757e" />
 
 ---
 ## 2️⃣ 🔧🔄Estructura Repetitiva do while.
-### Código en lenguaje de programación C:
+---
+## Código en lenguaje de programación C:
 ```
 #include <stdio.h>
 
@@ -123,14 +124,14 @@ int main(){
     return 0;
 }
 ```
----
-### Diagrama de flujo:
+## Diagrama de flujo:
 ---
 <img width="1147" height="718" alt="image" src="https://github.com/user-attachments/assets/e22a443c-1e9f-447f-97e3-834c54dd4bb4" />
 
 ---
 ## 3️⃣ 🔧🔄Estructura Repetitiva for.
-### Código en lenguaje de programación C:
+---
+## Código en lenguaje de programación C:
 ```
 #include <stdio.h>
 
@@ -157,8 +158,7 @@ int main(){
     return 0;
 }
 ```
----
-### Diagrama de flujo:
+## Diagrama de flujo:
 ---
 <img width="1137" height="713" alt="image" src="https://github.com/user-attachments/assets/46334bcc-9ff3-4e8a-84ed-87f86e1ce48c" />
 
