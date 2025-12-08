@@ -53,7 +53,7 @@ tendrá el bucle [3].
 
 ---
 # ⚙️ Ejercicios de Estructuras Repetitivas:
-### Plantemiento del problema:
+### Planteamiento del problema:
 >Ingresar un número comprendido entre 10 a 20 y guardarlo en una variable N. Luego imprimir de manera decreciente la serie de todos los números desde N hasta cero (0) y además mostrar la suma de todos estos números de la serie.
 ---
 ## 1️⃣ 🔧🔄Estructura Repetitiva While.
@@ -166,4 +166,4 @@ int main(){
 <img width="1137" height="713" alt="image" src="https://github.com/user-attachments/assets/46334bcc-9ff3-4e8a-84ed-87f86e1ce48c" />
 
 
-# [⬅️](../Unidad2/contenidosUnidad2.md)Contenido de unidad 2
+# [⬅️](../Unidad2/contenidosUnidad2.md)Contenidos de unidad 2
