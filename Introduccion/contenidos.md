@@ -32,11 +32,11 @@
 
 [6] Junta de Castilla y León. "5. Programación por bloques y pensamiento computacional". Educacyl. Accedido: Oct. 27, 2025. [Online]. Disponible:https://www.educa.jcyl.es/educacyl/cm/gallery/CCD/Area_6/B1.6_Creacion_de_contenido/5_programacin_por_bloques_y_pensamiento_computacional.html 
 
-[7] C. González Hijón, R. Hijón Neira, and U. Rey Juan Carlos Móstoles, “Videojuego educativo para la enseñanza transversal de las Ciencias de la Naturaleza y Matemáticas con programación por bloques,” dialnet.unirioja.es, Accedido: Oct. 27, 2025. [Online]. Available: https://dialnet.unirioja.es/servlet/articulo?codigo=9269979
+[7] C. González Hijón, R. Hijón Neira, and U. Rey Juan Carlos Móstoles, “Videojuego educativo para la enseñanza transversal de las Ciencias de la Naturaleza y Matemáticas con programación por bloques,” dialnet.unirioja.es, Accedido: Oct. 27, 2025. [Online]. Disponible: https://dialnet.unirioja.es/servlet/articulo?codigo=9269979
 
 [8] “¿Qué es la prueba de escritorio en seudocódigo?”, Scribd, Accedido: Nov. 5, 2025. [Online]. Disponible en: https://es.scribd.com/document/463660396/Que-Es-La-Prueba-de-Escritorio-en-Seudocodigo
 
-[9] E. H. Tacuri Casaño, “LENGUAJE DE PROGRAMACIÓN. Fundamentos de programación. Algoritmos, herramientas, programación estructurada. Aplicación a los lenguajes de Programación Pascal, el lenguaje de programación ‘C’ y C++ y otros lenguajes actualizados. Introducción al lenguaje de programación MATLAB. Lenguajes de Programación Orientado a Objetos. Aplicaciones,” Monografía de pregrado, Universidad Nacional de Educación Enrique Guzmán y Valle, Lima, Perú, 15 jul. 2021. [Online]. Disponible: https://n9.cl/z8wat
+[9] E. H. Tacuri Casaño, “LENGUAJE DE PROGRAMACIÓN. Fundamentos de programación. Algoritmos, herramientas, programación estructurada. Aplicación a los lenguajes de Programación Pascal, el lenguaje de programación ‘C’ y C++ y otros lenguajes actualizados. Introducción al lenguaje de programación MATLAB. Lenguajes de Programación Orientado a Objetos. Aplicaciones,” Monografía de pregrado, Universidad Nacional de Educación Enrique Guzmán y Valle, Lima, Perú, 15 jul. 2021, Accedido: Nov. 5, 2025. [Online]. Disponible: https://n9.cl/z8wat
 
 [10] “LECTURA #8 – Estructuras Condicionales Simples y Dobles,” Scribd, cargado por Jorge Julio Emiliani, Accedido: Dic. 6, 2025. [Online]. Disponible en: https://es.scribd.com/document/475220935/LECTURA-8-ESTRUCTURASCONDICIONALES-SIMPLES-Y-DOBLES.
 
