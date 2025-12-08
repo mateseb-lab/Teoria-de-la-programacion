@@ -118,7 +118,6 @@ int main(){
 ## 3️⃣ 🛠️Estructura Condicional multiple switch.
 ---
 ## Código en lenguaje de programación C:
----
 ```
 #include <stdio.h>
 
