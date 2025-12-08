@@ -6,11 +6,11 @@
 ---
 ## 2️⃣ |⚙️🔄Estructuras repetitivas.| [-👉Acceder-](../Unidad2/estructurasRepetitivas.md)
 ---
-## 3️⃣ |🛠️Ejercicio combinado estructura condicional y repetitiva.| [-👉Acceder-](../Unidad2/ejercicioCombinado.md)
+## 3️⃣ |🛠️Ejercicio combinado: estructura condicional y repetitiva.| [-👉Acceder-](../Unidad2/ejercicioCombinado.md)
 ---
 ## 4️⃣ |🚧Principales dificultades en la aplicación de los contenidos.| [-👉Acceder-](../Unidad2/principalesDificultades.md)
 ---
-## 5️⃣ |📝Reflexion crtica de los aprendizajes de la unidad.| [-👉Acceder-](../Unidad2/reflexionCritica.md)
+## 5️⃣ |📝Reflexión crítica de los aprendizajes de la unidad.| [-👉Acceder-](../Unidad2/reflexionCritica.md)
 ---
 ### 📚*Tareas entregadas:*
 ---
