@@ -200,12 +200,12 @@ PS C:\Users\Admin\lenguaje_c\portafoliodig> gcc ejercicio3.c -o ejercicio3
 PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio3.exe
 Ingrese sueldo:
 1500
-Su descuento es:
+Su descuento es de:
 1350
 PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio3.exe
 Ingrese sueldo:
 200
-Su aumento es:
+Su aumento es de:
 290
 PS C:\Users\Admin\lenguaje_c\portafoliodig> 
 ```
