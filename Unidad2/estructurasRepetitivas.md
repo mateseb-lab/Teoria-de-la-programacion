@@ -237,5 +237,5 @@ PS C:\Users\Admin\lenguaje_c\Unidad2>
 ---
 <img width="1137" height="713" alt="image" src="https://github.com/user-attachments/assets/46334bcc-9ff3-4e8a-84ed-87f86e1ce48c" />
 
-
+---
 # [⬅️](../Unidad2/contenidosUnidad2.md)Contenidos de unidad 2
