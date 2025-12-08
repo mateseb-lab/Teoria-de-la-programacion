@@ -129,6 +129,6 @@ PS C:\Users\Admin\lenguaje_java\ejercicioportafol.md>
 | **4**       | 8    | 4                                | sí          | no          | no          | 2          | 1          | 1      |                     |
 | **Total**   |      |                                  |             |             |             | **2**      | **1**      | **1**  | **2 / 1 / 1**       |
 
-
+---
 # [⬅️](../Unidad2/contenidosUnidad2.md)Contenidos de unidad 2
   
