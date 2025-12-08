@@ -167,4 +167,4 @@ int main(){
 <img width="1144" height="719" alt="image" src="https://github.com/user-attachments/assets/78de3726-069d-4eda-a3a7-d2d56a3e5535" />
 
 ---
-# [⬅️](../Unidad2/contenidosUnidad2.md)Contenido de unidad 2
+# [⬅️](../Unidad2/contenidosUnidad2.md)Contenidos de unidad 2
