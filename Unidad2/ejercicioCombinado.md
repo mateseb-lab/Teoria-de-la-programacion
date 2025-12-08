@@ -100,5 +100,5 @@ public class ContarNumero{
 | **Total**   |      |                                  |             |             |             | **2**      | **1**      | **1**  | **2 / 1 / 1**       |
 
 
-# [⬅️](../Unidad2/contenidosUnidad2.md)Contenido de unidad 2
+# [⬅️](../Unidad2/contenidosUnidad2.md)Contenidos de unidad 2
   
