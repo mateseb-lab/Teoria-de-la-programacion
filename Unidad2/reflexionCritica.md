@@ -1,6 +1,6 @@
 # [⬅️](../Unidad2/contenidosUnidad2.md)Contenido de unidad 2
 ---
-# 📝 Reflexion Critica de los Aprendizajes de la Unidad.
+# 📝 Reflexion Critica de los Aprendizajes de la Unidad 💡💭:
 ---
 Los contenidos comprendidos en la unidad 2 son fundamentales para avanzar progresivamente hacia algoritmos mucho más complejos y lógicos. El aprendizaje de los diferentes tipos de estructuras repetitivas y condicionales resulta esencial para resolver operaciones que requieren seguir distintos caminos o que serían demasiado extensas si se realizaran de forma manual.
 
@@ -11,3 +11,5 @@ Se lograron aplicar las estructuras condicionales que son especialmente útiles 
 Por otra parte, tambien se implemento las estructuras repetitivas que son de gran utilidad al momento de implementarlas en algoritmos mas complejos, ya que permiten simplificar tareas extensas, como imprimir un texto 100 veces, reduciendo el código a unas pocas líneas. Permitiendo establecer límites y condiciones para controlar la repetición, lo que exige aplicar una lógica clara y precisa para asegurarse de que el ciclo funcione correctamente.
 
 En resumen, los aprendizajes obtenidos en esta unidad fueron de gran importancia, ya que nos permiten avanzar como programadores. Pero ademas, también es importante la práctica constante y la aplicación de estos conocimientos para poder abordar conceptos más complejos en el desarrollo de algoritmos. A través del dominio de las estructuras condicionales y repetitivas, junto con el uso de lenguajes de programación como Java y Python, es posible mejorar de manera significativa nuestras habilidades como futuros ingenieros en computación.
+
+---
