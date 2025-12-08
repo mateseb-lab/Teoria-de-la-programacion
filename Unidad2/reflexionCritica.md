@@ -1,6 +1,6 @@
 # [⬅️](../Unidad2/contenidosUnidad2.md)Contenidos de unidad 2
 ---
-# 📝 Reflexion Critica de los Aprendizajes de la Unidad 💡💭:
+# 📝 Reflexión Crítica de los Aprendizajes de la Unidad 💡💭:
 ---
 Los contenidos comprendidos en la unidad 2 son fundamentales para avanzar progresivamente hacia algoritmos mucho más complejos y lógicos. El aprendizaje de los diferentes tipos de estructuras repetitivas y condicionales resulta esencial para resolver operaciones que requieren seguir distintos caminos o que serían demasiado extensas si se realizaran de forma manual.
 
