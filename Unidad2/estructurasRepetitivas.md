@@ -66,7 +66,7 @@ int main(){
 
     int num, contador, suma;
 
-    printf("Ingrese numero (10-20):\n");
+    printf("Ingrese un numero (10-20):\n");
     scanf("%i", &num);
 
     suma = 0;
@@ -90,6 +90,30 @@ int main(){
 }
 ```
 ---
+## Terminal:
+```
+PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio4.exe
+Ingrese un numero comprendido entre 10 y 20:
+7
+PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio4.exe
+Ingrese un numero (10-20):
+11
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+La suma es: 66
+PS C:\Users\Admin\lenguaje_c\portafoliodig>
+```
+---
 ## Diagrama de flujo:
 ---
 <img width="1141" height="711" alt="image" src="https://github.com/user-attachments/assets/043bc78b-fabd-4f44-902a-551197fb757e" />
@@ -105,7 +129,7 @@ int main(){
 
     int num, contador, suma;
 
-    printf("Ingrese numero (10-20):\n");
+    printf("Ingrese un numero (10-20):\n");
     scanf("%i", &num);
 
     suma = 0;
@@ -126,6 +150,27 @@ int main(){
 }
 ```
 ---
+## Terminal:
+```
+PS C:\Users\Admin\lenguaje_c\portafoliodig> gcc ejercicio5.c -o ejercicio5
+PS C:\Users\Admin\lenguaje_c\portafoliodig> .\ejercicio5.exe
+Ingrese un numero (10-20):
+10
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+La suma es: 55
+PS C:\Users\Admin\lenguaje_c\portafoliodig>
+```
+---
 ## Diagrama de flujo:
 ---
 <img width="1147" height="718" alt="image" src="https://github.com/user-attachments/assets/e22a443c-1e9f-447f-97e3-834c54dd4bb4" />
@@ -141,7 +186,7 @@ int main(){
 
     int num, contador, suma;
 
-    printf("Ingrese numero (10-20):\n");
+    printf("Ingrese un numero (10-20):\n");
     scanf("%i", &num);
 
     suma = 0;
@@ -159,6 +204,33 @@ int main(){
 
     return 0;
 }
+```
+---
+## Terminal:
+```
+PS C:\Users\Admin\lenguaje_c\Unidad2> gcc ejercicio29.c -o ejercicio29
+PS C:\Users\Admin\lenguaje_c\Unidad2> .\ejercicio29.exe
+Ingrese un numero (10-20):
+5
+PS C:\Users\Admin\lenguaje_c\Unidad2> .\ejercicio29.exe
+Ingrese un numero (10-20):
+13
+13
+12
+11
+10
+9 
+8
+7
+6
+5
+4
+3
+2
+1
+0
+La suma es: 91
+PS C:\Users\Admin\lenguaje_c\Unidad2> 
 ```
 ---
 ## Diagrama de flujo:
