@@ -8,9 +8,14 @@ Las estructuras condicionales comparan una variable con uno o más valores, de m
 Las estructuras condicionales simples permiten que se tomen decisiones en el interior de un algoritmo. Se incorpora en una estructura selectiva una expresión lógica, la cual se utiliza como condición para determinar el camino que se tomará dentro del programa. Si la condición (expresión lógica) es verdadera, se llevarán a cabo todas las instrucciones que estén dentro del bloque de la estructura condicional simple. Si la expresión lógica es falsa, en cambio ninguna de estas instrucciones se ejecutara [10].
 
 ---
+<p align="center">
 <img width="640" height="301" alt="image" src="https://github.com/user-attachments/assets/97c23cb7-9bde-4b28-9244-3e7ec1324750" />
+</p>
 
+---
+<p align="center">
 <img width="686" height="359" alt="image" src="https://github.com/user-attachments/assets/f15fb0c2-3809-42fd-becc-bbce461a72f6" />
+</p>
 
 ---
 
@@ -19,9 +24,14 @@ Las estructuras condicionales simples permiten que se tomen decisiones en el int
 Las estructuras condicionales dobles hacen posible la elección entre dos posibilidades o alternativas, dependiendo de si una condición específica se cumple o no. Por lo tanto, las estructuras condicionales dobles ofrecen dos rutas distintas que el flujo de ejecución del programa podría seguir. Si la expresión a evaluar es verdadera, el programa tomará una rama; si es falsa, tomará otra [10].
 
 ---
+<p align="center">
 <img width="566" height="423" alt="image" src="https://github.com/user-attachments/assets/ca695dd8-b31c-4401-9a57-72eb72568fbd" />
+</p>
 
+---
+<p align="center">
 <img width="533" height="342" alt="image" src="https://github.com/user-attachments/assets/bc88d183-a1eb-449f-b24a-57ba84647050" />
+</p>
 
 ---
 
@@ -32,9 +42,14 @@ La estructura de decisión múltiple evaluará una expresión que puede adoptar 
 La condición se representará únicamente en la estructura condicional múltiple mediante una expresión aritmética (o a través de una variable numérica) que es diferente de las condicionales anteriores, donde el resultado de las condicionales solo puede ser verdadero o falso [3].
 
 ---
-<img width="540" height="347" alt="image" src="https://github.com/user-attachments/assets/52ab8d50-6324-4d69-a757-12f8f94ee2fa" />
+<p align="center">
+  <img width="540" height="347" alt="image" src="https://github.com/user-attachments/assets/52ab8d50-6324-4d69-a757-12f8f94ee2fa" />
+</p>
 
-<img width="868" height="333" alt="image" src="https://github.com/user-attachments/assets/0313b489-664c-45ed-8a1f-d914df5bd8cf" />
+---
+<p align="center">
+<img width="868" height="347" alt="image" src="https://github.com/user-attachments/assets/0313b489-664c-45ed-8a1f-d914df5bd8cf" />
+</p>
 
 ---
 # ⚙️ Ejercicios de Estructuras Condicionales 🔍:
