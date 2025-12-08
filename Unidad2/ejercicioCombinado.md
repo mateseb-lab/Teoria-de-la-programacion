@@ -1,15 +1,14 @@
 
-# 🛠️Ejercicio combinado estructura condicional y repetitiva.
+# 🛠️Ejercicio combinado: estructura condicional y repetitiva.
 
-Planteamiento del problema:
+### Planteamiento del problema:
 > Desarrollar un programa que pida una cantidad válida de números positivos, los lea y determine cuántos numeros positivos, negativos o ceros se escribieron. (y debe ser mayor que 0).
 ---
 ### Diagrama de flujo:
----
 <img width="1146" height="691" alt="image" src="https://github.com/user-attachments/assets/738ef49b-f27d-47bd-87f4-d2b3c2df6302" />
 
 ---
-### Codigo en lenguaje de programacion Java:
+### Código en lenguaje de programación Java:
 ---
 ```
 import java.util.Scanner;
@@ -61,6 +60,8 @@ public class ContarNumero{
 
 }
 ```
+
+## Verificación ❓📝:
 ---
 ### Pruebas de Escritorio:
 ---
