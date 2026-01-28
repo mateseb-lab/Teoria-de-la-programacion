@@ -108,5 +108,180 @@ EL promedio de la CIUDAD 3 es: 6.03
 La Ciudad con mayor temperatura es la ciudad: 3
 PS C:\Users\Admin\lenguaje_c\calculoasignatura.c> 
 ```
+# ⚙️ Ejercicio de Arreglo Bidimensional🔍:
+>Crear un programa que reciba la nota de estudiantes y calcular promedio, dando como resultado el estudiante con mayor promedio
+---
 
+```
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+    int ESTUDIANTES = 5;
+    int CALIFICACIONES = 4, mayorCalificacion;
+    float matriz[ESTUDIANTES][CALIFICACIONES], promedio;
+    float mayorprom = -999;
+
+    //Ingresar la nota de cada estudiante
+    for(int i = 1; i <= ESTUDIANTES; i++){
+        printf("ESTUDIANTE %i\n", i);
+        float suma = 0;
+        for(int j = 1; j <= CALIFICACIONES; j++){
+            printf("Ingrese la nota %i\n", j);
+            scanf("%f", &matriz[i][j]);
+            while(matriz[i][j] < 0 || matriz[i][j] > 10){
+                printf("Ingrese una nota valida:\n");
+                scanf("%f", &matriz[i][j]);
+            }
+            suma += matriz[i][j];
+        }
+        promedio = suma / CALIFICACIONES;
+        //Valida estudiante con mayor promedio
+        if(promedio > mayorprom){
+            mayorCalificacion = i;
+        }
+        printf("El promedio del estudiante %i es: %.2f\n", i, promedio);
+    }
+    printf("El estudiante con mayor promedio es: %i", mayorCalificacion);
+    }
+```
+
+---
+## Terminal:
+---
+```
+PS C:\Users\Admin\lenguaje_c\calculoasignatura.c> gcc ejercicio7.c -o ejercicio7
+PS C:\Users\Admin\lenguaje_c\calculoasignatura.c> .\ejercicio7.exe
+ESTUDIANTE 1
+Ingrese la nota 1
+5
+Ingrese la nota 2
+5
+Ingrese la nota 3
+5
+Ingrese la nota 4
+5
+El promedio del estudiante 1 es: 5.00
+ESTUDIANTE 2
+Ingrese la nota 1
+5
+Ingrese la nota 2
+5
+Ingrese la nota 3
+5
+Ingrese la nota 4
+5
+El promedio del estudiante 2 es: 5.00
+ESTUDIANTE 3
+Ingrese la nota 1
+5
+Ingrese la nota 2
+5
+Ingrese la nota 3
+6
+Ingrese la nota 4
+6
+El promedio del estudiante 3 es: 5.50
+ESTUDIANTE 4
+Ingrese la nota 1
+6
+Ingrese la nota 2
+6
+Ingrese la nota 3
+7
+Ingrese la nota 4
+7
+El promedio del estudiante 4 es: 6.50
+ESTUDIANTE 5
+Ingrese la nota 1
+-8
+Ingrese una nota valida:
+9
+Ingrese la nota 2
+8
+Ingrese la nota 3
+-2
+Ingrese una nota valida:
+44
+Ingrese una nota valida:
+4
+Ingrese la nota 4
+5
+El promedio del estudiante 5 es: 6.50
+El estudiante con mayor promedio es: 5
+PS C:\Users\Admin\lenguaje_c\calculoasignatura.c>  
+```
+---
+# ⚙️ Ejercicio de Arreglo Tridimensional🔍:
+---
+```
+#include <stdio.h>
+
+int main() {
+    int arreglo[2][2][3];
+    int i, j, k;
+
+    // Ingreso de datos
+    printf("Ingresa los valores del arreglo Tridimensional (2x2x3):\n");
+
+    for (i = 0; i < 2; i++) {            // Capas
+        printf("\n--- Capa %d ---\n", i);
+        for (j = 0; j < 2; j++) {        // Filas
+            for (k = 0; k < 3; k++) {    // Columnas
+                printf("Elemento [%d][%d][%d]: ", i, j, k);
+                scanf("%d", &arreglo[i][j][k]);
+            }
+        }
+    }
+
+    // Mostrar datos
+    printf("\nValores almacenados en el arreglo Tridimensional:\n");
+
+    for (i = 0; i < 2; i++) {
+        printf("\n--- Capa %d ---\n", i);
+        for (j = 0; j < 2; j++) {
+            for (k = 0; k < 3; k++) {
+                printf("%d ", arreglo[i][j][k]);
+            }
+            printf("\n");
+        }
+    }
+
+    return 0;
+}
+```
+## Terminal:
+---
+```
+PS C:\Users\Admin\lenguaje_c\calculoasignatura.c> gcc ejercicio8.c -o ejercicio8
+PS C:\Users\Admin\lenguaje_c\calculoasignatura.c> .\ejercicio8.exe
+Ingresa los valores del arreglo Tridimensional (2x2x3):
+
+--- Capa 0 ---
+Elemento [0][0][0]: 1
+Elemento [0][0][1]: 2
+Elemento [0][0][2]: 3
+Elemento [0][1][0]: 1
+Elemento [0][1][1]: 2
+Elemento [0][1][2]: 3
+
+--- Capa 1 ---
+Elemento [1][0][0]: 4
+Elemento [1][0][1]: 5
+Elemento [1][0][2]: 6
+Elemento [1][1][0]: 7
+Elemento [1][1][1]: 8
+Elemento [1][1][2]: 9
+
+Valores almacenados en el arreglo Tridimensional:
+
+--- Capa 0 ---
+1 2 3
+1 2 3 
+
+--- Capa 1 ---
+4 5 6
+7 8 9
+PS C:\Users\Admin\lenguaje_c\calculoasignatura.c>
+```
 # [⬅️](../Unidad3/contenidosUnidad3.md)Contenidos de unidad 3
