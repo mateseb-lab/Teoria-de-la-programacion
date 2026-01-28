@@ -4,7 +4,7 @@
 ---
 ## 1️⃣ |💡Modularidad.| [-👉Acceder-](../Unidad3/modularidad.md)
 ---
-## 2️⃣ |⚙️🔄Estructuras repetitivas.| [-👉Acceder-](../Unidad2/estructurasRepetitivas.md)
+## 2️⃣ |⚙️🔄Arreglos.| [-👉Acceder-](../Unidad3/arreglos.md)
 ---
 ## 3️⃣ |🛠️Ejercicio combinado: estructura condicional y repetitiva.| [-👉Acceder-](../Unidad2/ejercicioCombinado.md)
 ---
