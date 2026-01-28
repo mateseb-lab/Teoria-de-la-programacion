@@ -12,23 +12,16 @@
 ---
 ### 📚*Tareas entregadas:*
 ---
-## 1️⃣  APE1: ❓🔁Aplicación de estructuras condicionales en la resolución de problemas.
+## 1️⃣  APE1: 📓📦Construcción de funciones y procedimientos en un lenguaje de programación.
 ---
-### [-👉Acceder-](https://drive.google.com/file/d/1AtPwBPB4n7jpCPhl4nbn83dSAEFLKorj/view?usp=sharing)
+### [-👉Acceder-](https://drive.google.com/file/d/10ahvpMAkbuPNV0FFvU86oN7YFKS0sA6M/view?usp=sharing)
 
 ---
-## 2️⃣ APE2: 💡🔄Aplicación de estructuras repetitivas en la resolución de problemas.
+## 2️⃣ APE2: 🛠️📂Implementación de funciones utilizando el paso de parámetros por valor y por referencia.
+### [-👉Acceder-](https://drive.google.com/file/d/1MqsAjdE6s4jU6JI8dZbacA-HTB_Nm7uq/view?usp=sharing)
 ---
-### [-👉Acceder-](https://drive.google.com/file/d/1MVAXzVbzGysLTCbSHaUiUX9_cOE6XALa/view?usp=sharing)
+## 3️⃣ AA1: 💻📙Curso Fundamentos de Python 1. Computación UNL
+---
+### [-👉Acceder-](https://drive.google.com/file/d/1QMrOSsDGa1Wc_BfVFj-SgdL3FGR9gS0S/view?usp=sharing)
+---
 
----
-## 3️⃣ AA1: ⚖️🔁Diferencias entre los tipos de estructuras condicionales.
----
-### [-👉Acceder-](https://drive.google.com/file/d/14n28KAAcAmwihp_7X60Ntx19sxWqySY0/view?usp=sharing)
-
----
-## 4️⃣ AA2: 📚📊Cuadro comparativo entre las estructuras repetitivas.
----
-### [-👉Acceder-](https://drive.google.com/file/d/1vOG9DZ1kfjbxabwOcb9BTKf9Yx5JiOA0/view?usp=sharing)
-
----
