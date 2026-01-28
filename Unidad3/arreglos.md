@@ -1,4 +1,4 @@
----
+
 # 🔢📚 Arreglos.
 ---
 Un arreglo es una estructura de datos que se utiliza para guardar varios elementos que son del mismo tipo de dato dentro de espacios consecutivos de memoria. Esta organización logra mantener la información ordenada y accesible de forma eficiente [14].
