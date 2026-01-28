@@ -14,17 +14,16 @@ Este sistema de modularidad ofrece varias ventajas, especialmente en el desarrol
 
 ---
 
-La modularidad en la programación consiste en dividir un programa en pequeñas piezas individuales llamadas módulos.Cada módulo tiene su propio trabajo específico dentro del sistema.Esto hace que el código teh sea más fácil de entender y ajustar sin arruinar todo el asunto[12].
+La modularidad en la programación consiste en dividir un programa en pequeñas piezas individuales llamadas módulos. Cada módulo tiene su propio trabajo específico dentro del sistema. Esto hace que el código sea más fácil de entender y ajustar sin arruinar todo el asunto [12].
 
 Los pasos para aplicar la modularidad consisten en:
-
-- Identificar y expresar el problema mayor a resolver[12].
-- Analizar el problema y dividirlo en sub problemas(modulos) que sean de menor complejidad, donde cada uno resuelva una parte del problema central[12].
-- Establecer cómo se comunicarán los módulos entre sí (parámetros de funciones, métodos, entradas y salidas)[12].
-- Programar cada modulo[12].
-- Un modulo no debe depender del funcionamiento de otro, sino del resultado que proporciona[12].
-- Validar que cada modulo funcione correctamente independientemente[12].
-- Finalmente unir todos lo modulos para resolver el problema mayor propuesto[12].
+- Identificar y expresar el problema mayor a resolver [12].
+- Analizar el problema y dividirlo en subproblemas (módulos) que sean de menor complejidad, donde cada uno resuelva una parte del problema central [12].
+- Establecer cómo se comunicarán los módulos entre sí (parámetros de funciones, métodos, entradas y salidas) [12].
+- Programar cada módulo [12].
+- Un módulo no debe depender del funcionamiento de otro, sino del resultado que proporciona[12].
+- Validar que cada módulo funcione correctamente independientemente[12].
+- Finalmente, unir todos los módulos para resolver el problema mayor propuesto [12].
 
 ## 🔧💼Funciones:
 Una función es un conjunto de instrucciones al que se le asigna un nombre y que se encarga de cumplir una tarea determinada. Representa un elemento esencial para organizar y reutilizar el código dentro de la programación actual [13].
