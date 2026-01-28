@@ -16,6 +16,11 @@
 ---
 
 ### 🏁 Conclusiones:
+En conclusión, fue bastante interesante e importante aprender los temas relacionados con algoritmos y pseudocódigo, ya que funcionan como una introducción fundamental para comprender la lógica de la programación. Estos conocimientos se complementan con las estructuras condicionales y repetitivas, que permiten mejorar la eficiencia y la lógica en el desarrollo del código.
+
+La modularidad logro demostar que ayuda a dividir un problema grande en funciones individuales, lo que facilita su resolución y permite estructurar mejor los programas. De la misma manera, los arreglos demostraron ser herramientas muy útiles para almacenar grandes cantidades de datos y trabajar con ellos de forma eficiente.
+
+Todos los conocimientos aprendidos en clase serán una base importante para comprender temas más avanzados de programación en el futuro, y así continuar desarrollando habilidades como ingeniero en computación y en la resolución de problemas mediante el código.
 
 ---
 ### 📚 *Referencias en IEEE*
