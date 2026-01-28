@@ -2,10 +2,9 @@
 # 💡 Modularidad.
 ---
 La modularidad en el ambito de computacion y programacion significa dividir un problema grande en modulos o partes independientes mucho mas pequeños para resolver el problema mayor. 
-Por lo tanto cada modulo tiene una funcion especifica y autonoma, por lo que es mas eficiente y simplificado, logrando resolver una parte del problema sin tener en cuenta los demas modulos.
+Por lo tanto cada modulo tiene una funcion especifica y autonoma, por lo que es mas eficiente y simplificado, logrando resolver una parte del problema sin tener en cuenta los demas modulos[12].
 
-Este sistema de modularida ofrece varias ventajas, especialmente en el desarrollo de software, permitiendo un mejor manejo y organizacion, asi logrando una reutilizacion del codigo y mantenimiento eficiente, ademas de ser muy util
-cuando se trabaja un problema a solucionar en equipo.
+Este sistema de modularida ofrece varias ventajas, especialmente en el desarrollo de software, permitiendo un mejor manejo y organizacion, asi logrando una reutilizacion del codigo y mantenimiento eficiente, ademas de ser muy util cuando se trabaja un problema a solucionar en equipo[12].
 
 ---
 <p align="center">
@@ -14,20 +13,40 @@ cuando se trabaja un problema a solucionar en equipo.
 
 ---
 
-La modularidad en la programación consiste en dividir un programa en pequeñas piezas individuales llamadas módulos.Cada módulo tiene su propio trabajo específico dentro del sistema.Esto hace que el código teh sea más fácil de entender y ajustar sin arruinar todo el asunto
+La modularidad en la programación consiste en dividir un programa en pequeñas piezas individuales llamadas módulos.Cada módulo tiene su propio trabajo específico dentro del sistema.Esto hace que el código teh sea más fácil de entender y ajustar sin arruinar todo el asunto[12].
 
 Los pasos para aplicar la modularidad consisten en:
 
-- Identificar y expresar el problema mayor a resolver.
-- Analizar el problema y dividirlo en sub problemas(modulos) que sean de menor complejidad, donde cada uno resuelva una parte del problema central.
-- Establecer cómo se comunicarán los módulos entre sí (parámetros de funciones, métodos, entradas y salidas).
-- Programar cada modulo.
-- Un modulo no debe depender del funcionamiento de otro, sino del resultado que proporciona.
-- Validar que cada modulo funcione correctamente independientemente.
-- Finalmente unir todos lo modulos para resolver el problema mayor propuesto.
+- Identificar y expresar el problema mayor a resolver[12].
+- Analizar el problema y dividirlo en sub problemas(modulos) que sean de menor complejidad, donde cada uno resuelva una parte del problema central[12].
+- Establecer cómo se comunicarán los módulos entre sí (parámetros de funciones, métodos, entradas y salidas)[12].
+- Programar cada modulo[12].
+- Un modulo no debe depender del funcionamiento de otro, sino del resultado que proporciona[12].
+- Validar que cada modulo funcione correctamente independientemente[12].
+- Finalmente unir todos lo modulos para resolver el problema mayor propuesto[12].
 
-funciones
-Funciones con envío de parámetros
+## Funciones:
+Una función es un conjunto de instrucciones al que se le asigna un nombre y que se encarga de cumplir una tarea determinada. Representa un elemento esencial para organizar y reutilizar el código dentro de la programación actual [13].
+
+Las funciones hacen posible volver a usar partes del código, dividirlo en módulos y organizarlo de forma más clara y sencilla de manejar. Definir bien las funciones es fundamental para lograr programas más ordenados, comprensibles y fáciles de mantener [13].
+
+### Función int
+
+Es una función que devuelve un número entero como resultado. Se usa cuando el valor de retorno no tiene decimales[13].
+
+### Función float
+
+Es una función que devuelve un número decimal. Se utiliza cuando el resultado necesita incluir parte fraccionaria[13].
+
+### Función void
+
+Es una función que no devuelve ningún valor. Solo ejecuta acciones, como mostrar datos en pantalla o modificar variables por referencia[13].
+
+## Función con parámetros por valor:
+En este tipo de función, los argumentos que se pasan a la función se copian en las nuevas variables locales dentro de la función. Es decir, la función trabaja con una copia, no con los datos reales. Por esta razón, cualquier cambio que se haga a esos parámetros dentro de la función no tiene efecto sobre las variables que se usaron al llamarla [13].
+
+## Función con parámetros por referencia:
+Cuando es parámetro por referencia la función no recibe una copia del valor, sino una referencia (dirección de memoria) de la variable original. Esto implica que la función puede interactuar directamente con los datos reales y alterarlos Los cambios dentro de la función se muestran también fuera de la misma. En lenguajes como C, esto se logra mediante el uso de punteros [13].
 
 ---
 # ⚙️ Ejercicio de Modularidad por pase de parametro por Valor🔍:
