@@ -42,6 +42,10 @@
 
 [11] “Ciclo While Do While For,” Scribd, Accedido: Dic. 6, 2025. [Online]. Disponible en: https://es.scribd.com/document/454383624/Ciclo-While-Do-While-For.
 
+[12] “Definición y Objetivos de la Modularidad,” Scribd, 14 págs., cargado por F. Enrique, Accedido: Ene. 27, 2026. [Online]. Disponible en: https://es.scribd.com/document/704492402/modularidad-teoria.
+
+[13] L. Llamas, “Paso de funciones como parámetros,” *LuisLlamas.es*, 2025, Accedido: Ene. 27, 2026. [Online]. Available: https://www.luisllamas.es/programacion-funciones-como-parametros/. 
+
 ---
 
 ### 🤖 Uso de IA Cooperativa  
