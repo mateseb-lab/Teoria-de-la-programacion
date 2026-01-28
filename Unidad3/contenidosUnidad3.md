@@ -6,11 +6,9 @@
 ---
 ## 2️⃣ |⚙️🔄Arreglos.| [-👉Acceder-](../Unidad3/arreglos.md)
 ---
-## 3️⃣ |🛠️Ejercicio combinado: estructura condicional y repetitiva.| [-👉Acceder-](../Unidad2/ejercicioCombinado.md)
+## 3️⃣ |🚧Principales dificultades en la aplicación de los contenidos.| [-👉Acceder-](../Unidad2/principalesDificultades.md)
 ---
-## 4️⃣ |🚧Principales dificultades en la aplicación de los contenidos.| [-👉Acceder-](../Unidad2/principalesDificultades.md)
----
-## 5️⃣ |📝Reflexión crítica de los aprendizajes de la unidad.| [-👉Acceder-](../Unidad2/reflexionCritica.md)
+## 4️ |📝Reflexión crítica de los aprendizajes de la unidad.| [-👉Acceder-](../Unidad2/reflexionCritica.md)
 ---
 ### 📚*Tareas entregadas:*
 ---
