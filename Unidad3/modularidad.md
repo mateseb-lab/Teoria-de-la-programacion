@@ -51,7 +51,7 @@ Cuando es parámetro por referencia la función no recibe una copia del valor, s
 ---
 # ⚙️ Ejercicio de Modularidad por pase de parametro por Valor🔍:
 Planteamiento del problema:
->Crear un programa que simule el sistema de una cuenta de banco (Ver saldo de la cuenta, depositar, retirar y salir) divido por modulos.
+>“Desarrollar un programa que simule el funcionamiento de una cuenta bancaria, permitiendo consultar el saldo, realizar depósitos, efectuar retiros y salir del sistema, todo organizado mediante módulos o funciones independientes.”
 ---
 
 ```
@@ -211,7 +211,7 @@ PS C:\Users\Admin\lenguaje_c\calculoasignatura.c>
 ---
 
 # ⚙️ Ejercicio de Modularidad por pase de parametro por Referencia🔍:
->Crear un programa que simule el sistema de una cuenta de banco (Ver saldo de la cuenta, depositar, retirar y salir) divido por modulos.
+>“Desarrollar un programa que simule el funcionamiento de una cuenta bancaria, permitiendo consultar el saldo, realizar depósitos, efectuar retiros y salir del sistema, todo organizado mediante módulos o funciones independientes.”
 ---
 
 ```
