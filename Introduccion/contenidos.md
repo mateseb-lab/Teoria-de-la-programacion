@@ -46,6 +46,8 @@
 
 [13] L. Llamas, “Paso de funciones como parámetros,” *LuisLlamas.es*, 2025, Accedido: Ene. 27, 2026. [Online]. Available: https://www.luisllamas.es/programacion-funciones-como-parametros/. 
 
+[14] “¿Qué son los arreglos en programación?,” *Onmex*, Onmex.mx, Accedido: Ene. 27, 2026. [Online]. Available: https://onmex.mx/tecnologia-y-desarrollo/que-son-los-arreglos-en-programacion/.
+
 ---
 
 ### 🤖 Uso de IA Cooperativa  
