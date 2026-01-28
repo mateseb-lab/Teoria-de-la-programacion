@@ -42,10 +42,10 @@ Es una función que devuelve un número decimal. Se utiliza cuando el resultado 
 
 Es una función que no devuelve ningún valor. Solo ejecuta acciones, como mostrar datos en pantalla o modificar variables por referencia[13].
 
-## Función con parámetros por valor:
+## 📦Función con parámetros por valor:
 En este tipo de función, los argumentos que se pasan a la función se copian en las nuevas variables locales dentro de la función. Es decir, la función trabaja con una copia, no con los datos reales. Por esta razón, cualquier cambio que se haga a esos parámetros dentro de la función no tiene efecto sobre las variables que se usaron al llamarla [13].
 
-## Función con parámetros por referencia:
+## 🎯Función con parámetros por referencia:
 Cuando es parámetro por referencia la función no recibe una copia del valor, sino una referencia (dirección de memoria) de la variable original. Esto implica que la función puede interactuar directamente con los datos reales y alterarlos Los cambios dentro de la función se muestran también fuera de la misma. En lenguajes como C, esto se logra mediante el uso de punteros [13].
 
 ---
