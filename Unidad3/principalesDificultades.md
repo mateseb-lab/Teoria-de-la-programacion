@@ -2,12 +2,12 @@
 ---
 # 🔨 Principales Dificultades 🔧📚: 
 ---
-Durante la unidad 2 se logró profundizar en el uso de las estructuras condicionales y repetitivas, aumentando el nivel de progreso y complejidad en cada actividad relacionada con la programación. A lo largo del aprendizaje de estas estructuras, presenté ciertas dificultades en la lógica necesaria para aplicarlas correctamente, especialmente porque es fundamental utilizar cada elemento de manera adecuada.
+Respecto a los contenidos aprendidos en la Unidad 3 sobre el uso de la modularidad, la cual consiste en dividir un problema grande en problemas más pequeños, presenté ciertas dificultades en el uso de funciones. Esto se debe a que es necesario emplearlas correctamente para lograr separar el problema principal en módulos, por lo que cada función debe desarrollarse de manera adecuada para que pueda trabajar en conjunto con las demás.
 
-La mayor dificultad se presentó en las estructuras repetitivas, ya que requieren una aplicación lógica y precisa para funcionar correctamente. Para utilizarlas es indispensable comprender el uso de contadores y acumuladores, los cuales permiten repetir determinadas acciones una cierta cantidad de veces. Esto incrementa la complejidad en el desarrollo de algoritmos. 
+Se me dificultó especialmente crear funciones que operaran de forma correcta y eficiente. La mayor complicación surgió con las funciones que utilizan parámetros por referencia, ya que me resultó más complejo comprender su funcionamiento. Esto ocurre porque requieren un mayor nivel de análisis cuando se utilizan en problemas, debido a que modifican directamente el valor de las variables con las que se invoca la función.
 
-Durante este proceso cometí varios errores relacionados con la formulación de estas estructuras, tanto en su sintaxis como en su lógica, pues muchos ejercicios exigían aplicar expresiones matemáticas dentro de ciclos repetitivos que fueran coherentes, eficientes y que cumplieran una condición específica.
+Durante el proceso de aprendizaje de los arreglos, se me presentó cierta dificultad, ya que es necesario analizarlos de forma lógica en cuanto a los índices y las operaciones que se pueden realizar según el tipo de arreglo, ya sea unidimensional, bidimensional o tridimensional. Cada uno maneja una estructura diferente: el unidimensional trabaja con una sola dimensión, el bidimensional con filas y columnas, y el tridimensional añade una capa adicional.
 
-Además, en esta unidad se introdujeron otros lenguajes de programación, donde encontré una dificultad adicional al trabajar con Java. Al ser un lenguaje orientado a objetos, su forma de estructurar el código es distinta del lenguaje C, que había sido el principal enfoque hasta ese momento. Java posee sus propias reglas, sintaxis y requisitos para ejecutar un programa, lo que representó un reto inicial. Sin embargo, este desafío permitió ampliar mi comprensión sobre cómo funcionan diferentes paradigmas de programación.
+Debido a esto, el nivel de complejidad para resolver problemas que involucran arreglos aumenta, y además puede variar dependiendo del lenguaje de programación que se utilice.
 
 ---
