@@ -1,4 +1,4 @@
----
+
 # 🛠️⚙️ Modularidad.
 ---
 La modularidad en el ámbito de computación y programación significa dividir un problema grande en módulos o partes independientes mucho más pequeños para resolver el problema mayor [12].
