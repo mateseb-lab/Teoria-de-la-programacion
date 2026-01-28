@@ -1,7 +1,7 @@
 ---
-# 💡 Arreglos.
+# 🔢📚 Arreglos.
 ---
-Un arreglo es una estructura de datos que se utiliza para guardar varios elementos que so del mismo tipo de dato dentro de espacios consecutivos de memoria. Esta organización logra mantener la información ordenada y accesible de forma eficiente [14].
+Un arreglo es una estructura de datos que se utiliza para guardar varios elementos que son del mismo tipo de dato dentro de espacios consecutivos de memoria. Esta organización logra mantener la información ordenada y accesible de forma eficiente [14].
 
 Cada elemento del arreglo se identifica mediante una posición llamada índice, que generalmente comienza desde cero. Gracias a este sistema, es posible acceder, modificar o recorrer los datos de manera rápida, lo que resulta muy útil cuando se trabaja con grandes cantidades de información [14].
 
@@ -9,10 +9,10 @@ Los arreglos son fundamentales en la programación porque facilitan el almacenam
 
 Estos arreglos son bastante utiles ya que permiten almacenar muchos datos al mismo tiempo lo que facilita la organizacion y eficiencia, pero su tamaño es fijo es decir que no puede aumenta ni reducir [14].
 
-## Tipos de arreglos
+## ⚙️📚Tipos de arreglos
 ---
 
-## Arreglo unidimensional:
+## ➖🔢➖🔢➖🔢Arreglo unidimensional:
 Es el tipo más básico; almacena una lista de elementos en una sola fila, es decir se accede mediante un solo indice[14].
 
 ---
@@ -21,7 +21,7 @@ Es el tipo más básico; almacena una lista de elementos en una sola fila, es de
 </p>
 
 ---
-## Arreglo bidimensional (matriz):
+## 🔲Arreglo bidimensional (matriz):
 Representa datos en forma de tabla con filas y columnas, es decir de dos dimensiones por lo que para acceder a los elementos es necesario dos indices una para la fila otra para la columna[14].
 
 ---
@@ -30,7 +30,7 @@ Representa datos en forma de tabla con filas y columnas, es decir de dos dimensi
 <img width="554" height="360" alt="image" src="https://github.com/user-attachments/assets/c5b3d21f-c700-4590-8b6b-70bc84742857" />
 </p>
 
-## Arreglo Tridimensional:
+## 📦📦📦Arreglo Tridimensional:
 Es una extensión de los anteriores y puede tener tres o más dimensiones. Se utilizan varios índices para acceder a los datos. Son útiles para representar información más compleja, como coordenadas en el espacio, por lo que en el caso de tres dimensiones se utilizaria tres indices; una para la fila, otra para la columna y la ultima para las capas[14].
 
 ---
@@ -41,7 +41,7 @@ Es una extensión de los anteriores y puede tener tres o más dimensiones. Se ut
 ---
 # ⚙️ Ejercicio de Arreglo Unidimensional🔍:
 ---
->Realizar un programa que registe las temperaturas de cada dia de ciudades, realize un promedio y como resultado de la mayor temperatura entre las ciudades.
+>“Desarrollar un programa que registre las temperaturas diarias de varias ciudades, calcule el promedio de temperatura de cada una y determine cuál ciudad presentó la temperatura más alta.”
 ```
 //Sistema que registra la temperatura de varias ciudades para dar un promedio y analisar cual temperatura de Ciudad es mayor
 #include <stdio.h>
@@ -109,7 +109,7 @@ La Ciudad con mayor temperatura es la ciudad: 3
 PS C:\Users\Admin\lenguaje_c\calculoasignatura.c> 
 ```
 # ⚙️ Ejercicio de Arreglo Bidimensional🔍:
->Crear un programa que reciba la nota de estudiantes y calcular promedio, dando como resultado el estudiante con mayor promedio
+>“Desarrollar un programa que reciba las calificaciones de varios estudiantes, calcule el promedio de cada uno y determine cuál estudiante obtuvo el promedio más alto.”
 ---
 
 ```
@@ -214,6 +214,7 @@ PS C:\Users\Admin\lenguaje_c\calculoasignatura.c>
 ---
 # ⚙️ Ejercicio de Arreglo Tridimensional🔍:
 ---
+>"Crear un programa que utilice un arreglo tridimensional para almacenar datos numéricos, permitiendo al usuario ingresar los valores y posteriormente mostrarlos organizados por capas, filas y columnas."
 ```
 #include <stdio.h>
 
