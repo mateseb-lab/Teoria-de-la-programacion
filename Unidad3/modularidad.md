@@ -1,5 +1,5 @@
 ---
-# 💡 Modularidad.
+# 🛠️⚙️ Modularidad.
 ---
 La modularidad en el ambito de computacion y programacion significa dividir un problema grande en modulos o partes independientes mucho mas pequeños para resolver el problema mayor. 
 Por lo tanto cada modulo tiene una funcion especifica y autonoma, por lo que es mas eficiente y simplificado, logrando resolver una parte del problema sin tener en cuenta los demas modulos[12].
@@ -25,20 +25,20 @@ Los pasos para aplicar la modularidad consisten en:
 - Validar que cada modulo funcione correctamente independientemente[12].
 - Finalmente unir todos lo modulos para resolver el problema mayor propuesto[12].
 
-## Funciones:
+## 🔧💼Funciones:
 Una función es un conjunto de instrucciones al que se le asigna un nombre y que se encarga de cumplir una tarea determinada. Representa un elemento esencial para organizar y reutilizar el código dentro de la programación actual [13].
 
 Las funciones hacen posible volver a usar partes del código, dividirlo en módulos y organizarlo de forma más clara y sencilla de manejar. Definir bien las funciones es fundamental para lograr programas más ordenados, comprensibles y fáciles de mantener [13].
 
-### Función int
+### 🔢Función int:
 
 Es una función que devuelve un número entero como resultado. Se usa cuando el valor de retorno no tiene decimales[13].
 
-### Función float
+### 📏Función float:
 
 Es una función que devuelve un número decimal. Se utiliza cuando el resultado necesita incluir parte fraccionaria[13].
 
-### Función void
+### 📭Función void:
 
 Es una función que no devuelve ningún valor. Solo ejecuta acciones, como mostrar datos en pantalla o modificar variables por referencia[13].
 
