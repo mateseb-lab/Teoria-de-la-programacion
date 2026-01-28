@@ -1,10 +1,11 @@
 ---
 # 🛠️⚙️ Modularidad.
 ---
-La modularidad en el ambito de computacion y programacion significa dividir un problema grande en modulos o partes independientes mucho mas pequeños para resolver el problema mayor. 
-Por lo tanto cada modulo tiene una funcion especifica y autonoma, por lo que es mas eficiente y simplificado, logrando resolver una parte del problema sin tener en cuenta los demas modulos[12].
+La modularidad en el ámbito de computación y programación significa dividir un problema grande en módulos o partes independientes mucho más pequeños para resolver el problema mayor [12].
 
-Este sistema de modularida ofrece varias ventajas, especialmente en el desarrollo de software, permitiendo un mejor manejo y organizacion, asi logrando una reutilizacion del codigo y mantenimiento eficiente, ademas de ser muy util cuando se trabaja un problema a solucionar en equipo[12].
+Por lo tanto, cada módulo tiene una función específica y autónoma, por lo que es más eficiente y simplificado, logrando resolver una parte del problema sin tener en cuenta los demás módulos [12].
+
+Este sistema de modularidad ofrece varias ventajas, especialmente en el desarrollo de software, permitiendo un mejor manejo y organización, así logrando una reutilización del código y mantenimiento eficiente, además de ser muy útil cuando se trabaja un problema a solucionar en equipo [12].
 
 ---
 <p align="center">
