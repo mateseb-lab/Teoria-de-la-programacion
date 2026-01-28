@@ -2,7 +2,7 @@
 ---
 ### 📖 *Unidad 3: Contenidos de la Unidad:*
 ---
-## 1️⃣ |💡Modularidad.| [-👉Acceder-](../Unidad2/estructurasCondicionales.md)
+## 1️⃣ |💡Modularidad.| [-👉Acceder-](../Unidad3/estructurasCondicionales.md)
 ---
 ## 2️⃣ |⚙️🔄Estructuras repetitivas.| [-👉Acceder-](../Unidad2/estructurasRepetitivas.md)
 ---
