@@ -397,5 +397,5 @@ ESTA EN SU CUENTA DE BANCO
 PS C:\Users\Admin\lenguaje_c\calculoasignatura.c> 
 ```
 
-# [⬅️](../Unidad2/contenidosUnidad2.md)Contenidos de unidad 2
+# [⬅️](../Unidad3/contenidosUnidad3.md)Contenidos de unidad 2
 
