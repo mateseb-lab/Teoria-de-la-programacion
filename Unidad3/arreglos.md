@@ -115,33 +115,64 @@ PS C:\Users\Admin\lenguaje_c\calculoasignatura.c>
 #include <stdlib.h>
 
 int main(){
-    int ESTUDIANTES = 5;
-    int CALIFICACIONES = 4, mayorCalificacion;
-    float matriz[ESTUDIANTES][CALIFICACIONES], promedio;
-    float mayorprom = -999;
+    int ESTUDIANTES, MATERIAS;
+    float prom, suma;
+    float mayor = 0;
+    int mayorprom;
+    printf("Ingrese la cantidad de estudiantes:\n");
+    scanf("%i", &ESTUDIANTES);
 
-    //Ingresar la nota de cada estudiante
-    for(int i = 1; i <= ESTUDIANTES; i++){
-        printf("ESTUDIANTE %i\n", i);
-        float suma = 0;
-        for(int j = 1; j <= CALIFICACIONES; j++){
-            printf("Ingrese la nota %i\n", j);
-            scanf("%f", &matriz[i][j]);
-            while(matriz[i][j] < 0 || matriz[i][j] > 10){
+    printf("Ingrese la cantidad de materias:\n");
+    scanf("%i", &MATERIAS);
+
+    float estudiantes[ESTUDIANTES][MATERIAS];
+    float promEstudiantes[ESTUDIANTES];
+
+    //Ingresar notas de cada estudiante
+    for(int i = 0; i < ESTUDIANTES; i++){
+        printf("ESTUDIANTE %i\n", i+1);
+        suma = 0;
+        for(int j = 0; j < MATERIAS; j++){
+            printf("Ingrese la nota de la materia %i\n", j+1);
+            scanf("%f", &estudiantes[i][j]);
+            while(estudiantes[i][j] < 0 || estudiantes[i][j] > 10){
                 printf("Ingrese una nota valida:\n");
-                scanf("%f", &matriz[i][j]);
+                scanf("%f", &estudiantes[i][j]);
             }
-            suma += matriz[i][j];
+            suma += estudiantes[i][j];
         }
-        promedio = suma / CALIFICACIONES;
-        //Valida estudiante con mayor promedio
-        if(promedio > mayorprom){
-            mayorCalificacion = i;
+        prom = suma / MATERIAS;
+        printf("El promedio del estudiante %i es:\n%.2f\n", i+1, prom);
+        promEstudiantes[i] = prom;
+
+        if(promEstudiantes[i] > mayor){
+            mayorprom = i + 1;
         }
-        printf("El promedio del estudiante %i es: %.2f\n", i, promedio);
     }
-    printf("El estudiante con mayor promedio es: %i", mayorCalificacion);
+ 
+    //Mostrar tabla de calificaciones
+     printf("TABLA DE CALIFICACIONES\n");
+    printf("Estudiantes   ");
+    for(int j = 0; j < MATERIAS; j++){
+        printf("Materia %-6d", j+1);
     }
+    printf("Promedio\n");
+
+    //OTAS Y PROMEDIOS
+    for(int i = 0; i < ESTUDIANTES; i++){
+        printf("Estudiante %-3d", i+1);
+        for(int j = 0; j < MATERIAS; j++){
+            printf("   %-8.2f", estudiantes[i][j]);
+        }
+        printf("   %-8.2f\n", promEstudiantes[i]);
+    }
+
+
+    printf("\nEl estudiante %i tiene mayor promedio", mayorprom);
+
+    return 0;
+
+}
 ```
 
 ---
@@ -150,64 +181,31 @@ int main(){
 ```
 PS C:\Users\Admin\lenguaje_c\calculoasignatura.c> gcc ejercicio7.c -o ejercicio7
 PS C:\Users\Admin\lenguaje_c\calculoasignatura.c> .\ejercicio7.exe
+Ingrese la cantidad de estudiantes:
+2
+Ingrese la cantidad de materias:
+2
 ESTUDIANTE 1
-Ingrese la nota 1
-5
-Ingrese la nota 2
-5
-Ingrese la nota 3
-5
-Ingrese la nota 4
-5
-El promedio del estudiante 1 es: 5.00
+Ingrese la nota de la materia 1
+2.5
+Ingrese la nota de la materia 2
+5.6
+El promedio del estudiante 1 es:
+4.05
 ESTUDIANTE 2
-Ingrese la nota 1
-5
-Ingrese la nota 2
-5
-Ingrese la nota 3
-5
-Ingrese la nota 4
-5
-El promedio del estudiante 2 es: 5.00
-ESTUDIANTE 3
-Ingrese la nota 1
-5
-Ingrese la nota 2
-5
-Ingrese la nota 3
-6
-Ingrese la nota 4
-6
-El promedio del estudiante 3 es: 5.50
-ESTUDIANTE 4
-Ingrese la nota 1
-6
-Ingrese la nota 2
-6
-Ingrese la nota 3
-7
-Ingrese la nota 4
-7
-El promedio del estudiante 4 es: 6.50
-ESTUDIANTE 5
-Ingrese la nota 1
--8
-Ingrese una nota valida:
-9
-Ingrese la nota 2
-8
-Ingrese la nota 3
--2
-Ingrese una nota valida:
-44
-Ingrese una nota valida:
-4
-Ingrese la nota 4
-5
-El promedio del estudiante 5 es: 6.50
-El estudiante con mayor promedio es: 5
-PS C:\Users\Admin\lenguaje_c\calculoasignatura.c>  
+Ingrese la nota de la materia 1
+5.6
+Ingrese la nota de la materia 2
+5.6
+El promedio del estudiante 2 es:
+5.60
+TABLA DE CALIFICACIONES
+Estudiantes   Materia 1     Materia 2     Promedio
+Estudiante 1     2.50       5.60       4.05
+Estudiante 2     5.60       5.60       5.60
+
+El estudiante 2 tiene mayor promedio
+PS C:\Users\Admin\lenguaje_c\calculoasignatura.c> 
 ```
 ---
 # ⚙️ Ejercicio de Arreglo Tridimensional🔍:
