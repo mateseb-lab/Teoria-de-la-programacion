@@ -43,7 +43,6 @@ Es una extensión de los anteriores y puede tener tres o más dimensiones. Se ut
 ---
 >“Desarrollar un programa que registre las temperaturas diarias de varias ciudades, calcule el promedio de temperatura de cada una y determine cuál ciudad presentó la temperatura más alta.”
 ```
-//Sistema que registra la temperatura de varias ciudades para dar un promedio y analisar cual temperatura de Ciudad es mayor
 #include <stdio.h>
 
 int main(){
@@ -52,7 +51,6 @@ int main(){
     int DIAS = 3;
     float promedio, suma;
     float listaTemp[DIAS];
-    float sumaCiudades = 0;
     float mayoTemp = -999;
 
     for(int i = 1; i <= CIUDADES; i++){
