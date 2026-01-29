@@ -13,7 +13,7 @@ Estos arreglos son bastante utiles ya que permiten almacenar muchos datos al mis
 ---
 
 ## ➖🔢➖🔢➖🔢Arreglo unidimensional:
-Es el tipo más básico; almacena una lista de elementos en una sola fila, es decir se accede mediante un solo indice[14].
+Es el tipo de arreglo más básico; almacena una lista de elementos en una sola fila, es decir se accede mediante un solo indice[14].
 
 ---
 <p align="center">
@@ -22,7 +22,7 @@ Es el tipo más básico; almacena una lista de elementos en una sola fila, es de
 
 ---
 ## 🔲Arreglo bidimensional (matriz):
-Representa datos en forma de tabla con filas y columnas, es decir de dos dimensiones por lo que para acceder a los elementos es necesario dos indices una para la fila otra para la columna[14].
+Este tipo de arreglo representa datos en forma de tabla con filas y columnas, es decir de dos dimensiones por lo que para acceder a los elementos es necesario dos indices una para la fila otra para la columna[14].
 
 ---
 
