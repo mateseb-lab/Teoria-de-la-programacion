@@ -59,4 +59,5 @@ Todos los conocimientos aprendidos en clase serán una base importante para comp
 ### Chatgpt, GPT-5, 27/10/2025, "Ayudame a mejorar el siguente texto de MarkDown, para que parezca mas atractivo y comprensible."
 ### Chatgpt, GPT-5, 27/10/2025, "Agrega emojis al siguente texto de MarkDown para que parezca mas claro."
 ### Chatgpt, GPT-5, 6/12/2025, "Ayudame a mejorar la ortografia y claridad del siguente texto."
+### Chatgpt, GPT-5, 28/1/2026, "Ayudame a mejorar la ortografia ademas de la claridad del siguente texto."
 ---
